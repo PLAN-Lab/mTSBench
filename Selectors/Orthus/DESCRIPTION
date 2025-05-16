@@ -1,0 +1,32 @@
+Package: ADRecommender
+Type: Package
+Title: Meta-Learning for Unsupervised Time Series Anomaly Detection 
+Version: 0.9
+Author: Jose Manuel Navarro
+Maintainer: Jose Manuel Navarro <jose.manuel.navarro@huawei.com>
+Description: This package contains several model recommendation methods for unsupervised Anomaly Detection time series, alongside utility functions (for data managing) and data (precomputed meta-features and performance matrices). 
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    reticulate,
+    theft,
+    magrittr,
+    plyr,
+    dplyr,
+    tidyr,
+    purrr,
+    furrr,
+    logger,
+    readr,
+    generics,
+    stats,
+    FNN,
+    uwot,
+    rsample,
+    dbscan,
+    caret,
+    ranger
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)

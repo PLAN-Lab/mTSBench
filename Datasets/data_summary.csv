@@ -1,0 +1,717 @@
+Folder,File,NumRows,NumNaNs,NumChannels,NumPointAnomalies,NumSequenceAnomalies,Top3PointIndices,Top3SequenceIndices
+mTSBench/CalIt2,CalIt2_traffic_val.csv,1008,0,3,0,8,[],"[(118, 124), (256, 262), (463, 465)]"
+mTSBench/CalIt2,CalIt2_traffic_train.csv,940,0,3,0,0,[],[]
+mTSBench/CalIt2,CalIt2_traffic_test.csv,4032,0,3,0,21,[],"[(118, 124), (208, 226), (228, 233)]"
+mTSBench/cicids,cicids_5_train.csv,38180,0,73,0,0,[],[]
+mTSBench/cicids,cicids_3_test.csv,230716,0,73,36,0,"[8678, 10705, 14875]",[]
+mTSBench/cicids,cicids_2_test.csv,136185,0,73,1481,55,"[4, 8, 11]","[(49, 51), (165, 166), (2451, 2453)]"
+mTSBench/cicids,cicids_3_train.csv,57679,0,73,0,0,[],[]
+mTSBench/cicids,cicids_0_val.csv,138281,0,73,381,3782,"[1875, 2130, 2274]","[(0, 73), (75, 117), (119, 216)]"
+mTSBench/cicids,cicids_2_train.csv,33466,0,73,0,0,[],[]
+mTSBench/cicids,cicids_5_test.csv,152729,0,73,1110,315,"[18145, 18170, 18365]","[(18561, 18562), (18579, 18580), (23848, 23849)]"
+mTSBench/cicids,cicids_7_train.csv,25784,0,73,0,0,[],[]
+mTSBench/cicids,cicids_0_test.csv,414844,0,73,8656,2546,"[18, 49, 169]","[(0, 16), (20, 47), (51, 60)]"
+mTSBench/cicids,cicids_7_test.csv,180569,0,73,0,19,[],"[(0, 4506), (7403, 13934), (16531, 23507)]"
+mTSBench/cicids,cicids_6_test.csv,228877,0,73,191,1908,"[30327, 30355, 30360]","[(30362, 30363), (30527, 30591), (30593, 30759)]"
+mTSBench/cicids,cicids_6_train.csv,56847,0,73,0,0,[],[]
+mTSBench/cicids,cicids_0_train.csv,66766,0,73,0,0,[],[]
+mTSBench/creditcard,creditcard_val.csv,56961,0,30,79,1,"[287, 509, 654]","[(45479, 45483)]"
+mTSBench/creditcard,creditcard_test.csv,170885,0,30,219,10,"[352, 2217, 2482]","[(27335, 27338), (29412, 29415), (36738, 36741)]"
+mTSBench/creditcard,creditcard_train.csv,56804,0,30,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S08R01E0_train.csv,2944,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S02R02E0_train.csv,12182,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S03R01E1_train.csv,4533,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S09R01E4_test.csv,7680,0,10,0,1,[],"[(41, 308)]"
+mTSBench/Daphnet,Daphnet_S05R02E0_train.csv,6726,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S07R01E0_train.csv,14223,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S06R01E0_train.csv,10240,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S05R01E1_train.csv,2099,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S08R01E1_test.csv,8192,0,10,0,4,[],"[(0, 574), (1142, 2448), (3988, 5129)]"
+mTSBench/Daphnet,Daphnet_S08R01E0_test.csv,11776,0,10,0,2,[],"[(4022, 5392), (9016, 9852)]"
+mTSBench/Daphnet,Daphnet_S09R01E0_train.csv,1920,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S03R02E0_train.csv,3328,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S03R01E0_train.csv,9281,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S08R01E1_train.csv,1340,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S05R02E1_train.csv,6016,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S02R01E0_test.csv,20480,0,10,0,9,[],"[(6489, 6928), (7778, 7878), (8082, 8143)]"
+mTSBench/Daphnet,Daphnet_S03R02E0_test.csv,13312,0,10,0,6,[],"[(765, 1390), (1935, 2018), (2176, 2489)]"
+mTSBench/Daphnet,Daphnet_S07R02E0_test.csv,23040,0,10,0,8,[],"[(7470, 7569), (7834, 7887), (9438, 9598)]"
+mTSBench/Daphnet,Daphnet_S06R01E0_test.csv,40960,0,10,0,7,[],"[(9119, 9239), (10473, 10880), (11086, 12951)]"
+mTSBench/Daphnet,Daphnet_S06R01E1_test.csv,24576,0,10,0,2,[],"[(18849, 18946), (20004, 20177)]"
+mTSBench/Daphnet,Daphnet_S07R02E0_train.csv,5760,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S06R01E1_train.csv,6144,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S01R01E1_test.csv,58880,0,10,0,14,[],"[(2481, 2674), (3212, 3245), (21686, 21812)]"
+mTSBench/Daphnet,Daphnet_S05R01E0_train.csv,3788,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S05R01E0_test.csv,15872,0,10,0,4,[],"[(823, 1053), (2005, 2263), (3024, 3390)]"
+mTSBench/Daphnet,Daphnet_S05R01E1_test.csv,11674,0,10,0,7,[],"[(125, 279), (479, 906), (1137, 1882)]"
+mTSBench/Daphnet,Daphnet_S01R01E1_train.csv,13796,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S09R01E2_test.csv,28160,0,10,0,3,[],"[(684, 868), (2198, 4567), (5208, 6487)]"
+mTSBench/Daphnet,Daphnet_S09R01E3_test.csv,36864,0,10,0,10,[],"[(1399, 1517), (7112, 8072), (9004, 9106)]"
+mTSBench/Daphnet,Daphnet_S02R01E0_train.csv,5120,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S09R01E1_train.csv,1363,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S05R02E0_test.csv,28672,0,10,0,14,[],"[(0, 250), (3058, 3201), (3491, 3787)]"
+mTSBench/Daphnet,Daphnet_S05R02E1_test.csv,24064,0,10,0,11,[],"[(11368, 11424), (12440, 12657), (13598, 13889)]"
+mTSBench/Daphnet,Daphnet_S08R01E2_train.csv,2688,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S09R01E4_train.csv,1920,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S08R01E2_test.csv,10752,0,10,0,3,[],"[(1914, 2053), (3060, 3431), (5729, 6275)]"
+mTSBench/Daphnet,Daphnet_S08R01E3_test.csv,8704,0,10,0,4,[],"[(1478, 2837), (4267, 5307), (5893, 7180)]"
+mTSBench/Daphnet,Daphnet_S05R01E3_train.csv,1088,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S05R01E1_val.csv,3892,0,10,0,5,[],"[(0, 74), (473, 917), (1056, 2041)]"
+mTSBench/Daphnet,Daphnet_S06R01E2_train.csv,5120,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S07R01E0_test.csv,59392,0,10,0,13,[],"[(454, 1068), (3145, 3198), (5049, 5323)]"
+mTSBench/Daphnet,Daphnet_S09R01E2_train.csv,3592,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S02R02E0_test.csv,51968,0,10,0,14,[],"[(0, 207), (1793, 2516), (5959, 6675)]"
+mTSBench/Daphnet,Daphnet_S03R01E0_test.csv,44032,0,10,0,16,[],"[(458, 1537), (3135, 3653), (4590, 5274)]"
+mTSBench/Daphnet,Daphnet_S03R01E1_test.csv,28672,0,10,0,13,[],"[(76, 446), (788, 1301), (1547, 2195)]"
+mTSBench/Daphnet,Daphnet_S09R01E1_test.csv,8704,0,10,0,6,[],"[(0, 616), (1243, 2129), (3043, 3226)]"
+mTSBench/Daphnet,Daphnet_S09R01E0_test.csv,7680,0,10,0,4,[],"[(480, 541), (3785, 3896), (4789, 4832)]"
+mTSBench/Daphnet,Daphnet_S08R01E3_train.csv,1499,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S05R01E3_test.csv,7680,0,10,0,7,[],"[(295, 692), (757, 1147), (1531, 1931)]"
+mTSBench/Daphnet,Daphnet_S05R01E2_test.csv,11264,0,10,0,5,[],"[(0, 53), (2716, 3369), (4443, 4490)]"
+mTSBench/Daphnet,Daphnet_S05R01E2_train.csv,1940,0,10,0,0,[],[]
+mTSBench/Daphnet,Daphnet_S06R01E2_test.csv,20480,0,10,0,1,[],"[(1685, 1773)]"
+mTSBench/Daphnet,Daphnet_S09R01E3_train.csv,8915,0,10,0,0,[],[]
+mTSBench/Exathlon,Exathlon_3_5_1000000_89_train.csv,1183,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_5_4_1000000_82_train.csv,688,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_4_5_1000000_90_train.csv,513,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_5_5_1000000_91_test.csv,34460,0,21,1,1,[12341],"[(20325, 20326)]"
+mTSBench/Exathlon,Exathlon_8_5_1000000_83_train.csv,1181,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_2_5_1000000_88_test.csv,2897,0,21,1,1,[1289],"[(0, 333)]"
+mTSBench/Exathlon,Exathlon_9_5_1000000_84_train.csv,1182,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_1_4_1000000_80_test.csv,34470,0,21,0,4,[],"[(4008, 4507), (11416, 12612), (19417, 20115)]"
+mTSBench/Exathlon,Exathlon_2_2_200000_69_test.csv,2300,0,21,0,1,[],"[(646, 2299)]"
+mTSBench/Exathlon,Exathlon_8_5_1000000_83_test.csv,4728,0,21,0,1,[],"[(1775, 1834)]"
+mTSBench/Exathlon,Exathlon_5_1_100000_64_test.csv,37328,0,21,0,3,[],"[(4152, 5043), (18511, 19402), (32869, 33835)]"
+mTSBench/Exathlon,Exathlon_6_3_200000_76_test.csv,37324,0,21,0,4,[],"[(1469, 2366), (13134, 14030), (24800, 25697)]"
+mTSBench/Exathlon,Exathlon_3_4_1000000_81_test.csv,3372,0,21,0,1,[],"[(1029, 1624)]"
+mTSBench/Exathlon,Exathlon_9_4_1000000_78_test.csv,34484,0,21,0,4,[],"[(4054, 4552), (11460, 12651), (19457, 20154)]"
+mTSBench/Exathlon,Exathlon_2_2_200000_69_train.csv,574,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_1_2_100000_68_test.csv,2349,0,21,0,1,[],"[(35, 2348)]"
+mTSBench/Exathlon,Exathlon_2_5_1000000_88_train.csv,567,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_5_5_1000000_91_train.csv,8614,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_3_2_500000_70_test.csv,2089,0,21,0,1,[],"[(1293, 2088)]"
+mTSBench/Exathlon,Exathlon_5_1_100000_63_test.csv,34453,0,21,0,3,[],"[(3977, 5761), (18340, 20119), (32698, 34452)]"
+mTSBench/Exathlon,Exathlon_9_4_1000000_78_train.csv,7325,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_2_1_100000_60_test.csv,37324,0,21,0,3,[],"[(4151, 5077), (18509, 19425), (32866, 33783)]"
+mTSBench/Exathlon,Exathlon_10_4_1000000_79_train.csv,7319,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_6_3_200000_76_train.csv,9330,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_5_2_1000000_72_test.csv,1985,0,21,0,1,[],"[(1030, 1984)]"
+mTSBench/Exathlon,Exathlon_8_4_1000000_77_test.csv,34463,0,21,0,4,[],"[(4086, 4584), (11492, 12746), (19489, 20186)]"
+mTSBench/Exathlon,Exathlon_10_2_1000000_67_test.csv,8200,0,21,0,1,[],"[(2971, 8199)]"
+mTSBench/Exathlon,Exathlon_9_3_500000_74_test.csv,37320,0,21,0,4,[],"[(0, 564), (9534, 10430), (19400, 20297)]"
+mTSBench/Exathlon,Exathlon_1_5_1000000_86_test.csv,2895,0,21,1,1,[526],"[(0, 414)]"
+mTSBench/Exathlon,Exathlon_9_3_500000_74_train.csv,8998,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_6_1_500000_65_train.csv,8427,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_5_1_500000_62_test.csv,37328,0,21,0,5,[],"[(4138, 5034), (11314, 12210), (18491, 19387)]"
+mTSBench/Exathlon,Exathlon_9_2_1000000_66_test.csv,5985,0,21,0,1,[],"[(2542, 5984)]"
+mTSBench/Exathlon,Exathlon_4_5_1000000_90_test.csv,2897,0,21,1,1,[987],"[(0, 321)]"
+mTSBench/Exathlon,Exathlon_10_3_1000000_75_test.csv,37325,0,21,0,4,[],"[(1453, 2349), (13115, 14012), (24778, 25674)]"
+mTSBench/Exathlon,Exathlon_3_5_1000000_89_test.csv,4733,0,21,2,1,"[626, 2726]","[(1547, 1685)]"
+mTSBench/Exathlon,Exathlon_4_1_100000_61_test.csv,77519,0,21,0,6,[],"[(3977, 4843), (17336, 19200), (31663, 33541)]"
+mTSBench/Exathlon,Exathlon_2_5_1000000_87_train.csv,8619,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_3_4_1000000_81_train.csv,701,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_10_3_1000000_75_train.csv,9331,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_5_1_500000_62_train.csv,8435,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_1_2_100000_68_train.csv,587,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_8_4_1000000_77_train.csv,7319,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_1_4_1000000_80_train.csv,7319,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_5_2_1000000_72_train.csv,496,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_5_1_100000_64_train.csv,9332,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_8_3_200000_73_test.csv,37313,0,21,0,4,[],"[(1458, 2354), (13120, 14017), (24784, 25681)]"
+mTSBench/Exathlon,Exathlon_9_2_1000000_66_train.csv,1496,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_4_1_100000_61_train.csv,24109,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_4_1_100000_61_val.csv,25839,0,21,0,2,[],"[(1100, 2884), (15456, 17239)]"
+mTSBench/Exathlon,Exathlon_2_5_1000000_87_test.csv,34480,0,21,4,0,"[1379, 11349, 21328]",[]
+mTSBench/Exathlon,Exathlon_10_4_1000000_79_test.csv,34469,0,21,0,4,[],"[(4034, 4533), (11449, 12695), (19443, 20141)]"
+mTSBench/Exathlon,Exathlon_1_5_1000000_86_train.csv,664,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_9_5_1000000_84_test.csv,4735,0,21,1,1,[1341],"[(1709, 1824)]"
+mTSBench/Exathlon,Exathlon_10_2_1000000_67_train.csv,2050,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_8_3_200000_73_train.csv,9328,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_5_1_100000_63_train.csv,8613,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_3_2_500000_70_train.csv,522,0,21,0,0,[],[]
+mTSBench/Exathlon,Exathlon_6_1_500000_65_test.csv,37320,0,21,0,4,[],"[(5729, 6630), (13702, 14603), (21674, 22575)]"
+mTSBench/Exathlon,Exathlon_5_4_1000000_82_test.csv,3375,0,21,0,2,[],"[(931, 1528), (3151, 3374)]"
+mTSBench/Exathlon,Exathlon_2_1_100000_60_train.csv,9331,0,21,0,0,[],[]
+mTSBench/GECCO,GECCO_water_quality_val.csv,27704,0,10,0,6,[],"[(12265, 12285), (13034, 13054), (13743, 13763)]"
+mTSBench/GECCO,GECCO_water_quality_train.csv,27560,0,10,0,0,[],[]
+mTSBench/GECCO,GECCO_water_quality_test.csv,83113,0,10,0,37,[],"[(4195, 4447), (7012, 7021), (8809, 8830)]"
+mTSBench/Genesis,Genesis_val.csv,3644,0,19,0,1,[],"[(3340, 3361)]"
+mTSBench/Genesis,Genesis_train.csv,3244,0,19,0,0,[],[]
+mTSBench/Genesis,Genesis_test.csv,9332,0,19,0,2,[],"[(9050, 9051), (9053, 9078)]"
+mTSBench/GHL,GHL_24_Lev_fault_Temp_corr_seed_83_vars_23_train.csv,120000,0,17,0,0,[],[]
+mTSBench/GHL,GHL_46_Lev_corr_Temp_fault_seed_194_vars_23_test.csv,80001,0,17,0,2,[],"[(25345, 26207), (26822, 27000)]"
+mTSBench/GHL,GHL_44_Lev_corr_Temp_fault_seed_190_vars_23_train.csv,120000,0,17,0,0,[],[]
+mTSBench/GHL,GHL_20_Lev_fault_Temp_corr_seed_67_vars_23_test.csv,80001,0,17,0,1,[],"[(12027, 12170)]"
+mTSBench/GHL,GHL_48_Lev_corr_Temp_fault_seed_199_vars_23_train.csv,120000,0,17,0,0,[],[]
+mTSBench/GHL,GHL_18_Lev_fault_Temp_corr_seed_59_vars_23_train.csv,120000,0,17,0,0,[],[]
+mTSBench/GHL,GHL_43_Lev_corr_Temp_fault_seed_189_vars_23_test.csv,80001,0,17,0,2,[],"[(2071, 2933), (3194, 4056)]"
+mTSBench/GHL,GHL_17_Lev_fault_Temp_corr_seed_57_vars_23_test.csv,80001,0,17,0,1,[],"[(5784, 5928)]"
+mTSBench/GHL,GHL_18_Lev_fault_Temp_corr_seed_59_vars_23_test.csv,80001,0,17,0,1,[],"[(2463, 2607)]"
+mTSBench/GHL,GHL_43_Lev_corr_Temp_fault_seed_189_vars_23_train.csv,120000,0,17,0,0,[],[]
+mTSBench/GHL,GHL_46_Lev_corr_Temp_fault_seed_194_vars_23_train.csv,120000,0,17,0,0,[],[]
+mTSBench/GHL,GHL_24_Lev_fault_Temp_corr_seed_83_vars_23_test.csv,80001,0,17,0,1,[],"[(35599, 35742)]"
+mTSBench/GHL,GHL_21_Lev_fault_Temp_corr_seed_73_vars_23_train.csv,120000,0,17,0,0,[],[]
+mTSBench/GHL,GHL_44_Lev_corr_Temp_fault_seed_190_vars_23_test.csv,80001,0,17,0,4,[],"[(7448, 8310), (9026, 9889), (10398, 11259)]"
+mTSBench/GHL,GHL_45_Lev_corr_Temp_fault_seed_193_vars_23_train.csv,120000,0,17,0,0,[],[]
+mTSBench/GHL,GHL_45_Lev_corr_Temp_fault_seed_193_vars_23_test.csv,80001,0,17,0,3,[],"[(15016, 15878), (16277, 17139), (19437, 20000)]"
+mTSBench/GHL,GHL_22_Lev_fault_Temp_corr_seed_777_vars_23_test.csv,80001,0,17,0,1,[],"[(24162, 24306)]"
+mTSBench/GHL,GHL_20_Lev_fault_Temp_corr_seed_67_vars_23_train.csv,120000,0,17,0,0,[],[]
+mTSBench/GHL,GHL_41_Lev_corr_Temp_fault_seed_181_vars_23_test.csv,114001,0,17,0,3,[],"[(109818, 110680), (111502, 112364), (112922, 113783)]"
+mTSBench/GHL,GHL_19_Lev_fault_Temp_corr_seed_62_vars_23_train.csv,120000,0,17,0,0,[],[]
+mTSBench/GHL,GHL_47_Lev_corr_Temp_fault_seed_197_vars_23_train.csv,120000,0,17,0,0,[],[]
+mTSBench/GHL,GHL_17_Lev_fault_Temp_corr_seed_57_vars_23_train.csv,120000,0,17,0,0,[],[]
+mTSBench/GHL,GHL_19_Lev_fault_Temp_corr_seed_62_vars_23_test.csv,80001,0,17,0,1,[],"[(15508, 15651)]"
+mTSBench/GHL,GHL_22_Lev_fault_Temp_corr_seed_777_vars_23_train.csv,120000,0,17,0,0,[],[]
+mTSBench/GHL,GHL_41_Lev_corr_Temp_fault_seed_181_vars_23_train.csv,85137,0,17,0,0,[],[]
+mTSBench/GHL,GHL_41_Lev_corr_Temp_fault_seed_181_vars_23_val.csv,86000,0,17,0,1,[],"[(132, 994)]"
+mTSBench/GHL,GHL_48_Lev_corr_Temp_fault_seed_199_vars_23_test.csv,80001,0,17,0,4,[],"[(34173, 35035), (35696, 36558), (36929, 37791)]"
+mTSBench/GHL,GHL_47_Lev_corr_Temp_fault_seed_197_vars_23_test.csv,80001,0,17,0,1,[],"[(30060, 30921)]"
+mTSBench/GHL,GHL_21_Lev_fault_Temp_corr_seed_73_vars_23_test.csv,80001,0,17,0,1,[],"[(26317, 26461)]"
+mTSBench/GutenTAG,GutenTAG_0_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_24_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_25_test.csv,10000,0,21,0,2,[],"[(3061, 3256), (8888, 9076)]"
+mTSBench/GutenTAG,GutenTAG_24_test.csv,10000,0,21,0,1,[],"[(6548, 6741)]"
+mTSBench/GutenTAG,GutenTAG_11_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_11_test.csv,10000,0,21,0,2,[],"[(2543, 2720), (2895, 2978)]"
+mTSBench/GutenTAG,GutenTAG_10_test.csv,10000,0,21,0,1,[],"[(4819, 4962)]"
+mTSBench/GutenTAG,GutenTAG_29_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_17_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_6_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_22_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_4_test.csv,10000,0,21,0,3,[],"[(2068, 2129), (5046, 5181), (8401, 8545)]"
+mTSBench/GutenTAG,GutenTAG_5_test.csv,10000,0,21,0,3,[],"[(3479, 3576), (4204, 4323), (5572, 5770)]"
+mTSBench/GutenTAG,GutenTAG_25_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_1_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_9_test.csv,10000,0,21,0,1,[],"[(7280, 7355)]"
+mTSBench/GutenTAG,GutenTAG_8_test.csv,10000,0,21,0,1,[],"[(1544, 1721)]"
+mTSBench/GutenTAG,GutenTAG_10_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_28_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_3_test.csv,10000,0,21,0,2,[],"[(8074, 8189), (8695, 8769)]"
+mTSBench/GutenTAG,GutenTAG_2_test.csv,10000,0,21,0,3,[],"[(5424, 5561), (7371, 7458), (8595, 8781)]"
+mTSBench/GutenTAG,GutenTAG_16_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_23_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_22_test.csv,10000,0,21,0,3,[],"[(1840, 2038), (2287, 2462), (8761, 8957)]"
+mTSBench/GutenTAG,GutenTAG_23_test.csv,10000,0,21,0,3,[],"[(1928, 2095), (2393, 2574), (5930, 6112)]"
+mTSBench/GutenTAG,GutenTAG_7_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_16_test.csv,10000,0,21,0,2,[],"[(1645, 1816), (1845, 1991)]"
+mTSBench/GutenTAG,GutenTAG_17_test.csv,10000,0,21,0,3,[],"[(5262, 5432), (6693, 6875), (8078, 8203)]"
+mTSBench/GutenTAG,GutenTAG_28_test.csv,10000,0,21,0,2,[],"[(2509, 2704), (8572, 8735)]"
+mTSBench/GutenTAG,GutenTAG_29_test.csv,10000,0,21,0,1,[],"[(4841, 5037)]"
+mTSBench/GutenTAG,GutenTAG_13_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_2_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_7_test.csv,10000,0,21,0,2,[],"[(5147, 5302), (6005, 6127)]"
+mTSBench/GutenTAG,GutenTAG_6_test.csv,10000,0,21,0,1,[],"[(3627, 3779)]"
+mTSBench/GutenTAG,GutenTAG_26_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_4_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_20_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_12_test.csv,10000,0,21,0,3,[],"[(3287, 3395), (3935, 4092), (5402, 5583)]"
+mTSBench/GutenTAG,GutenTAG_13_test.csv,10000,0,21,0,1,[],"[(7582, 7778)]"
+mTSBench/GutenTAG,GutenTAG_15_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_18_test.csv,10000,0,21,0,1,[],"[(6917, 7147)]"
+mTSBench/GutenTAG,GutenTAG_19_test.csv,10000,0,21,0,1,[],"[(1727, 1910)]"
+mTSBench/GutenTAG,GutenTAG_9_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_26_test.csv,10000,0,21,0,3,[],"[(1948, 2145), (7500, 7698), (8713, 8905)]"
+mTSBench/GutenTAG,GutenTAG_27_test.csv,10000,0,21,0,2,[],"[(5798, 5993), (6862, 7049)]"
+mTSBench/GutenTAG,GutenTAG_18_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_12_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_15_test.csv,10000,0,21,0,3,[],"[(5534, 5665), (6507, 6651), (7166, 7353)]"
+mTSBench/GutenTAG,GutenTAG_14_test.csv,10000,0,21,0,3,[],"[(1058, 1231), (5480, 5658), (5903, 6099)]"
+mTSBench/GutenTAG,GutenTAG_27_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_3_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_0_val.csv,4000,0,21,0,1,[],"[(1234, 1287)]"
+mTSBench/GutenTAG,GutenTAG_21_test.csv,10000,0,21,0,2,[],"[(3055, 3253), (6739, 6931)]"
+mTSBench/GutenTAG,GutenTAG_20_test.csv,10000,0,21,0,2,[],"[(5314, 5509), (6253, 6449)]"
+mTSBench/GutenTAG,GutenTAG_21_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_5_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_14_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_0_test.csv,10000,0,21,0,1,[],"[(6414, 6590)]"
+mTSBench/GutenTAG,GutenTAG_1_test.csv,10000,0,21,0,1,[],"[(1574, 1738)]"
+mTSBench/GutenTAG,GutenTAG_8_train.csv,1000,0,21,0,0,[],[]
+mTSBench/GutenTAG,GutenTAG_19_train.csv,1000,0,21,0,0,[],[]
+mTSBench/metro,metro_traffic-volume_val.csv,24102,0,6,26,2,"[126, 1123, 1370]","[(19675, 19676), (20344, 20345)]"
+mTSBench/metro,metro_traffic-volume_test.csv,24102,0,6,20,5,"[552, 1900, 3122]","[(2217, 2218), (5401, 5402), (5978, 5979)]"
+mTSBench/metro,metro_traffic-volume_train.csv,24072,0,6,0,0,[],[]
+mTSBench/MITDB,MITDB_233_train.csv,84478,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_118_train.csv,122261,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_230_test.csv,520000,0,3,0,2,[],"[(409948, 410234), (499214, 499500)]"
+mTSBench/MITDB,MITDB_212_train.csv,130000,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_117_test.csv,520000,0,3,0,1,[],"[(131329, 131753)]"
+mTSBench/MITDB,MITDB_116_test.csv,520000,0,3,0,96,[],"[(1887, 2221), (4564, 4929), (10761, 11113)]"
+mTSBench/MITDB,MITDB_123_test.csv,520000,0,3,0,3,[],"[(22255, 22687), (415660, 416092), (469831, 470263)]"
+mTSBench/MITDB,MITDB_122_test.csv,520000,0,3,0,1,[],"[(6913, 7377)]"
+mTSBench/MITDB,MITDB_205_test.csv,520000,0,3,0,37,[],"[(626, 936), (70926, 71229), (100489, 100775)]"
+mTSBench/MITDB,MITDB_115_train.csv,130000,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_101_train.csv,128599,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_214_train.csv,107172,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_219_test.csv,520000,0,3,0,179,[],"[(4374, 4805), (7691, 7977), (14280, 14580)]"
+mTSBench/MITDB,MITDB_200_train.csv,84232,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_221_train.csv,99518,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_100_test.csv,520000,0,3,0,29,[],"[(40576, 40931), (149433, 149775), (175566, 175892)]"
+mTSBench/MITDB,MITDB_101_test.csv,520000,0,3,0,4,[],"[(5123, 5549), (85391, 85805), (178118, 178470)]"
+mTSBench/MITDB,MITDB_219_train.csv,123467,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_213_test.csv,520000,0,3,0,455,[],"[(4353, 4588), (5525, 5768), (12823, 13062)]"
+mTSBench/MITDB,MITDB_212_test.csv,520000,0,3,0,1,[],"[(192783, 193019)]"
+mTSBench/MITDB,MITDB_113_train.csv,129596,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_107_train.csv,129352,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_232_train.csv,29153,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_207_train.csv,68518,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_107_test.csv,520000,0,3,0,57,[],"[(51942, 52275), (83146, 83474), (91358, 91689)]"
+mTSBench/MITDB,MITDB_106_test.csv,520000,0,3,0,385,[],"[(30482, 30903), (32783, 33197), (125933, 126336)]"
+mTSBench/MITDB,MITDB_119_train.csv,84828,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_220_test.csv,520000,0,3,0,56,[],"[(14264, 14603), (16902, 17601), (18113, 18724)]"
+mTSBench/MITDB,MITDB_221_test.csv,520000,0,3,0,298,[],"[(606, 972), (1418, 1746), (2929, 3234)]"
+mTSBench/MITDB,MITDB_213_train.csv,102288,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_214_test.csv,520000,0,3,0,196,[],"[(3984, 4464), (10390, 10830), (11672, 12109)]"
+mTSBench/MITDB,MITDB_215_test.csv,520000,0,3,0,113,[],"[(1378, 1609), (7147, 7379), (7747, 7941)]"
+mTSBench/MITDB,MITDB_121_train.csv,130000,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_100_train.csv,128264,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_114_train.csv,121365,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_209_test.csv,520000,0,3,0,118,[],"[(481, 707), (2844, 3070), (5424, 5650)]"
+mTSBench/MITDB,MITDB_208_test.csv,520000,0,3,0,720,[],"[(135, 343), (867, 1075), (1630, 1838)]"
+mTSBench/MITDB,MITDB_201_train.csv,129199,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_215_train.csv,121803,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_234_train.csv,130000,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_220_train.csv,128601,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_111_test.csv,520000,0,3,0,1,[],"[(56198, 56567)]"
+mTSBench/MITDB,MITDB_106_train.csv,108777,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_124_test.csv,520000,0,3,0,20,[],"[(30145, 30613), (89778, 90684), (91336, 92209)]"
+mTSBench/MITDB,MITDB_203_test.csv,520000,0,3,0,273,[],"[(5665, 6183), (6348, 6580), (6698, 6930)]"
+mTSBench/MITDB,MITDB_112_train.csv,130000,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_202_test.csv,520000,0,3,0,54,[],"[(14907, 15327), (25476, 26039), (40129, 40653)]"
+mTSBench/MITDB,MITDB_210_train.csv,119587,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_210_test.csv,520000,0,3,0,163,[],"[(21493, 22479), (22617, 22936), (32718, 33003)]"
+mTSBench/MITDB,MITDB_109_test.csv,520000,0,3,0,32,[],"[(22945, 23250), (24192, 24517), (45925, 46212)]"
+mTSBench/MITDB,MITDB_108_test.csv,520000,0,3,0,23,[],"[(36934, 37304), (49856, 50842), (63368, 63948)]"
+mTSBench/MITDB,MITDB_117_train.csv,130000,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_209_train.csv,125025,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_103_train.csv,130000,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_228_train.csv,95543,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_103_test.csv,520000,0,3,0,2,[],"[(288119, 288482), (359483, 359885)]"
+mTSBench/MITDB,MITDB_102_test.csv,520000,0,3,0,18,[],"[(77595, 77896), (378015, 378313), (433911, 434207)]"
+mTSBench/MITDB,MITDB_122_train.csv,130000,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_121_test.csv,520000,0,3,0,2,[],"[(234081, 234537), (234743, 235268)]"
+mTSBench/MITDB,MITDB_223_train.csv,119496,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_207_test.csv,520000,0,3,0,8,[],"[(421760, 422226), (422278, 422957), (423218, 423705)]"
+mTSBench/MITDB,MITDB_108_train.csv,126903,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_202_train.csv,127192,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_124_train.csv,111390,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_233_test.csv,520000,0,3,0,615,[],"[(0, 113), (690, 970), (1550, 1820)]"
+mTSBench/MITDB,MITDB_232_test.csv,520000,0,3,0,198,[],"[(0, 1622), (2331, 3716), (3965, 4917)]"
+mTSBench/MITDB,MITDB_111_train.csv,130000,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_105_train.csv,123830,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_114_test.csv,520000,0,3,0,37,[],"[(842, 1284), (2756, 3185), (3791, 4306)]"
+mTSBench/MITDB,MITDB_115_test.csv,520000,0,3,0,5,[],"[(388037, 388365), (453510, 453943), (455640, 455968)]"
+mTSBench/MITDB,MITDB_205_train.csv,126615,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_200_test.csv,520000,0,3,0,654,[],"[(921, 1163), (1345, 1633), (2975, 3298)]"
+mTSBench/MITDB,MITDB_201_test.csv,520000,0,3,0,326,[],"[(6224, 8568), (8834, 9558), (10780, 11308)]"
+mTSBench/MITDB,MITDB_119_test.csv,520000,0,3,0,348,[],"[(0, 408), (601, 1070), (1906, 2367)]"
+mTSBench/MITDB,MITDB_118_test.csv,520000,0,3,0,95,[],"[(0, 174), (11508, 11798), (28028, 28318)]"
+mTSBench/MITDB,MITDB_230_train.csv,130000,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_208_train.csv,67863,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_102_train.csv,120701,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_116_train.csv,125696,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_234_test.csv,520000,0,3,0,4,[],"[(174405, 183757), (239273, 239578), (334879, 335201)]"
+mTSBench/MITDB,MITDB_113_test.csv,520000,0,3,0,5,[],"[(11871, 12235), (16532, 16951), (52839, 53205)]"
+mTSBench/MITDB,MITDB_123_train.csv,130000,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_112_test.csv,520000,0,3,0,2,[],"[(123470, 123817), (148365, 148660)]"
+mTSBench/MITDB,MITDB_217_test.csv,520000,0,3,0,198,[],"[(4779, 5115), (5375, 5849), (9398, 9723)]"
+mTSBench/MITDB,MITDB_222_train.csv,130000,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_228_test.csv,520000,0,3,0,291,[],"[(85, 669), (962, 1390), (1581, 1946)]"
+mTSBench/MITDB,MITDB_109_train.csv,127726,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_203_train.csv,107060,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_217_train.csv,111255,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_200_val.csv,130000,0,3,0,143,[],"[(568, 843), (1026, 1312), (1489, 1761)]"
+mTSBench/MITDB,MITDB_104_train.csv,88537,0,3,0,0,[],[]
+mTSBench/MITDB,MITDB_104_test.csv,520000,0,3,0,181,[],"[(3478, 3773), (4363, 16941), (22139, 25968)]"
+mTSBench/MITDB,MITDB_105_test.csv,520000,0,3,0,55,[],"[(16822, 17201), (26678, 27040), (28460, 28712)]"
+mTSBench/MITDB,MITDB_223_test.csv,520000,0,3,0,314,[],"[(2896, 3483), (4550, 4831), (24365, 24658)]"
+mTSBench/MITDB,MITDB_222_test.csv,520000,0,3,0,165,[],"[(62028, 62410), (63602, 63999), (64169, 64517)]"
+mTSBench/MSL,MSL_F-8_train.csv,3342,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_M-1_test.csv,2277,0,56,0,1,[],"[(1110, 2250)]"
+mTSBench/MSL,MSL_M-6_train.csv,1565,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_F-4_test.csv,3422,0,56,0,1,[],"[(2700, 2770)]"
+mTSBench/MSL,MSL_F-5_test.csv,3922,0,56,0,1,[],"[(3550, 3700)]"
+mTSBench/MSL,MSL_D-14_train.csv,3675,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_P-15_train.csv,3682,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_F-5_train.csv,2598,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_S-2_train.csv,926,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_P-14_test.csv,6100,0,56,0,1,[],"[(4575, 4755)]"
+mTSBench/MSL,MSL_P-15_test.csv,2856,0,56,0,1,[],"[(1390, 1410)]"
+mTSBench/MSL,MSL_D-16_test.csv,2191,0,56,0,1,[],"[(600, 1250)]"
+mTSBench/MSL,MSL_C-2_test.csv,2051,0,56,0,2,[],"[(290, 390), (1540, 1575)]"
+mTSBench/MSL,MSL_M-7_train.csv,1587,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_C-2_train.csv,764,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_F-4_train.csv,2244,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_D-15_train.csv,2074,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_P-14_train.csv,2880,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_M-1_train.csv,2209,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_F-8_test.csv,2487,0,56,0,1,[],"[(1950, 2486)]"
+mTSBench/MSL,MSL_T-13_val.csv,1215,0,56,0,1,[],"[(690, 790)]"
+mTSBench/MSL,MSL_M-7_test.csv,2156,0,56,0,1,[],"[(940, 1040)]"
+mTSBench/MSL,MSL_M-6_test.csv,2049,0,56,0,1,[],"[(1850, 2030)]"
+mTSBench/MSL,MSL_C-1_train.csv,2158,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_T-5_train.csv,2272,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_M-4_train.csv,2076,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_T-8_train.csv,748,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_D-16_train.csv,1451,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_F-7_train.csv,2511,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_F-7_test.csv,5054,0,56,0,3,[],"[(1250, 1450), (2670, 2790), (3325, 3425)]"
+mTSBench/MSL,MSL_M-2_train.csv,2208,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_T-5_test.csv,2218,0,56,0,1,[],"[(1200, 1225)]"
+mTSBench/MSL,MSL_T-4_test.csv,2217,0,56,0,1,[],"[(1172, 1240)]"
+mTSBench/MSL,MSL_S-2_test.csv,1827,0,56,0,1,[],"[(900, 910)]"
+mTSBench/MSL,MSL_P-11_train.csv,3969,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_T-12_train.csv,1145,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_M-3_test.csv,2127,0,56,0,1,[],"[(1250, 1500)]"
+mTSBench/MSL,MSL_M-2_test.csv,2277,0,56,0,1,[],"[(1110, 2250)]"
+mTSBench/MSL,MSL_M-5_train.csv,2032,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_T-12_test.csv,2430,0,56,0,1,[],"[(630, 750)]"
+mTSBench/MSL,MSL_T-13_test.csv,1215,0,56,0,1,[],"[(685, 835)]"
+mTSBench/MSL,MSL_T-4_train.csv,2272,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_T-8_test.csv,1519,0,56,0,2,[],"[(870, 930), (1330, 1370)]"
+mTSBench/MSL,MSL_M-4_test.csv,2038,0,56,0,1,[],"[(1250, 1500)]"
+mTSBench/MSL,MSL_M-5_test.csv,2303,0,56,0,1,[],"[(1250, 1550)]"
+mTSBench/MSL,MSL_M-3_train.csv,2037,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_D-14_test.csv,2625,0,56,0,2,[],"[(1630, 1650), (1800, 2000)]"
+mTSBench/MSL,MSL_D-15_test.csv,2158,0,56,0,1,[],"[(1500, 2140)]"
+mTSBench/MSL,MSL_P-10_train.csv,4308,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_T-13_train.csv,1145,0,56,N/A,N/A,N/A,N/A
+mTSBench/MSL,MSL_C-1_test.csv,2264,0,56,0,2,[],"[(550, 750), (2100, 2210)]"
+mTSBench/MSL,MSL_P-10_test.csv,6100,0,56,0,1,[],"[(4590, 4720)]"
+mTSBench/MSL,MSL_P-11_test.csv,3535,0,56,0,2,[],"[(1238, 1344), (1778, 1898)]"
+mTSBench/room-occupancy,room-occupancy_1_train.csv,1492,0,6,0,0,[],[]
+mTSBench/room-occupancy,room-occupancy_1_test.csv,7802,0,6,3,13,"[579, 860, 5161]","[(582, 640), (647, 822), (869, 1090)]"
+mTSBench/room-occupancy,room-occupancy_test.csv,6515,0,6,2,9,"[642, 648]","[(651, 872), (877, 954), (978, 1001)]"
+mTSBench/room-occupancy,room-occupancy_val.csv,1628,0,6,1,9,[827],"[(0, 15), (831, 870), (872, 990)]"
+mTSBench/room-occupancy,room-occupancy_train.csv,1073,0,6,0,0,[],[]
+mTSBench/OPPORTUNITY,OPPORTUNITY_S4-ADL5_test.csv,24422,0,33,0,1,[],"[(21508, 21958)]"
+mTSBench/OPPORTUNITY,OPPORTUNITY_S4-ADL4_test.csv,17784,0,33,0,1,[],"[(14885, 15316)]"
+mTSBench/OPPORTUNITY,OPPORTUNITY_S2-ADL1_test.csv,34238,0,33,0,1,[],"[(31949, 32337)]"
+mTSBench/OPPORTUNITY,OPPORTUNITY_S3-ADL5_test.csv,21196,0,33,0,1,[],"[(19166, 19603)]"
+mTSBench/OPPORTUNITY,OPPORTUNITY_S3-ADL4_test.csv,22145,0,33,0,1,[],"[(20032, 20480)]"
+mTSBench/OPPORTUNITY,OPPORTUNITY_S2-ADL1_train.csv,7667,0,33,0,0,[],[]
+mTSBench/OPPORTUNITY,OPPORTUNITY_S3-ADL3_test.csv,21374,0,33,0,1,[],"[(19210, 19581)]"
+mTSBench/OPPORTUNITY,OPPORTUNITY_S4-ADL2_test.csv,22190,0,33,0,1,[],"[(19271, 19930)]"
+mTSBench/OPPORTUNITY,OPPORTUNITY_S4-ADL3_test.csv,20106,0,33,0,1,[],"[(17478, 17822)]"
+mTSBench/OPPORTUNITY,OPPORTUNITY_S1-ADL4_train.csv,5893,0,33,0,0,[],[]
+mTSBench/OPPORTUNITY,OPPORTUNITY_S4-ADL3_train.csv,4259,0,33,0,0,[],[]
+mTSBench/OPPORTUNITY,OPPORTUNITY_S1-ADL2_test.csv,25780,0,33,0,1,[],"[(23312, 23946)]"
+mTSBench/OPPORTUNITY,OPPORTUNITY_S1-ADL3_test.csv,26619,0,33,0,1,[],"[(23832, 24477)]"
+mTSBench/OPPORTUNITY,OPPORTUNITY_S3-ADL3_train.csv,4201,0,33,0,0,[],[]
+mTSBench/OPPORTUNITY,OPPORTUNITY_S4-ADL5_train.csv,5625,0,33,0,0,[],[]
+mTSBench/OPPORTUNITY,OPPORTUNITY_S2-ADL2_test.csv,24146,0,33,0,1,[],"[(22253, 22605)]"
+mTSBench/OPPORTUNITY,OPPORTUNITY_S1-ADL2_train.csv,5684,0,33,0,0,[],[]
+mTSBench/OPPORTUNITY,OPPORTUNITY_S3-ADL5_train.csv,4238,0,33,0,0,[],[]
+mTSBench/OPPORTUNITY,OPPORTUNITY_S1-ADL5_train.csv,5392,0,33,0,0,[],[]
+mTSBench/OPPORTUNITY,OPPORTUNITY_S4-ADL2_train.csv,5330,0,33,0,0,[],[]
+mTSBench/OPPORTUNITY,OPPORTUNITY_S4-ADL4_train.csv,4090,0,33,0,0,[],[]
+mTSBench/OPPORTUNITY,OPPORTUNITY_S2-ADL2_train.csv,5567,0,33,0,0,[],[]
+mTSBench/OPPORTUNITY,OPPORTUNITY_S1-ADL3_train.csv,6006,0,33,0,0,[],[]
+mTSBench/OPPORTUNITY,OPPORTUNITY_S1-ADL5_test.csv,24102,0,33,0,1,[],"[(21820, 22404)]"
+mTSBench/OPPORTUNITY,OPPORTUNITY_S1-ADL4_test.csv,26364,0,33,0,1,[],"[(24123, 24424)]"
+mTSBench/OPPORTUNITY,OPPORTUNITY_S3-ADL4_train.csv,3825,0,33,0,0,[],[]
+mTSBench/OPPORTUNITY,OPPORTUNITY_S4-ADL3_val.csv,5026,0,33,0,1,[],"[(2288, 3054)]"
+mTSBench/PSM,PSM_val.csv,17568,0,27,0,17,[],"[(89, 91), (3000, 3002), (3248, 3438)]"
+mTSBench/PSM,PSM_test.csv,70273,0,27,0,39,[],"[(423, 9283), (9285, 9291), (12092, 12094)]"
+mTSBench/PSM,PSM_train.csv,132481,0,27,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_T-3_test.csv,8579,0,26,0,2,[],"[(2098, 2180), (5200, 5300)]"
+mTSBench/SMAP,SMAP_T-2_test.csv,8625,0,26,0,1,[],"[(6840, 8624)]"
+mTSBench/SMAP,SMAP_A-2_train.csv,2648,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_G-3_train.csv,2624,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_F-1_test.csv,8584,0,26,0,1,[],"[(5392, 5492)]"
+mTSBench/SMAP,SMAP_P-7_train.csv,2853,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_D-9_train.csv,2583,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_E-11_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_A-7_test.csv,8631,0,26,0,1,[],"[(6200, 8600)]"
+mTSBench/SMAP,SMAP_A-6_test.csv,4453,0,26,0,1,[],"[(1890, 1930)]"
+mTSBench/SMAP,SMAP_E-10_test.csv,8505,0,26,0,2,[],"[(5000, 5050), (5601, 5871)]"
+mTSBench/SMAP,SMAP_E-11_test.csv,8514,0,26,0,2,[],"[(5000, 5050), (5614, 5857)]"
+mTSBench/SMAP,SMAP_D-4_train.csv,2833,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_G-3_test.csv,7907,0,26,0,1,[],"[(4200, 4250)]"
+mTSBench/SMAP,SMAP_G-2_test.csv,7361,0,26,0,1,[],"[(4030, 4070)]"
+mTSBench/SMAP,SMAP_D-7_test.csv,7642,0,26,0,1,[],"[(4940, 7641)]"
+mTSBench/SMAP,SMAP_D-6_test.csv,7884,0,26,0,1,[],"[(4870, 4950)]"
+mTSBench/SMAP,SMAP_P-1_train.csv,2872,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_T-3_train.csv,2876,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_P-1_test.csv,8505,0,26,0,3,[],"[(2149, 2349), (3539, 3779), (4536, 4844)]"
+mTSBench/SMAP,SMAP_E-6_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_A-4_train.csv,2690,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_D-2_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_E-5_test.csv,8294,0,26,0,1,[],"[(5600, 5920)]"
+mTSBench/SMAP,SMAP_E-4_test.csv,8354,0,26,0,1,[],"[(5450, 8261)]"
+mTSBench/SMAP,SMAP_D-11_train.csv,2611,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_F-1_train.csv,2869,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_A-9_train.csv,762,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_E-8_test.csv,8532,0,26,0,1,[],"[(5400, 6022)]"
+mTSBench/SMAP,SMAP_E-9_test.csv,8302,0,26,0,1,[],"[(5550, 5900)]"
+mTSBench/SMAP,SMAP_A-3_train.csv,2736,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_D-1_test.csv,8509,0,26,0,1,[],"[(5250, 8508)]"
+mTSBench/SMAP,SMAP_E-1_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_G-2_train.csv,2478,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_D-8_train.csv,2602,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_E-2_test.csv,8532,0,26,0,1,[],"[(5598, 6995)]"
+mTSBench/SMAP,SMAP_E-3_test.csv,8307,0,26,0,1,[],"[(5094, 8306)]"
+mTSBench/SMAP,SMAP_E-10_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_S-1_train.csv,2818,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_D-5_train.csv,2561,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_T-2_train.csv,2855,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_G-4_train.csv,2551,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_A-5_train.csv,705,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_E-7_train.csv,2769,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_R-1_test.csv,7244,0,26,0,1,[],"[(4510, 4590)]"
+mTSBench/SMAP,SMAP_D-3_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_A-1_test.csv,8640,0,26,0,1,[],"[(4690, 4774)]"
+mTSBench/SMAP,SMAP_A-8_train.csv,762,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_G-4_test.csv,7632,0,26,0,1,[],"[(4690, 4720)]"
+mTSBench/SMAP,SMAP_G-1_train.csv,2820,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_E-6_test.csv,8300,0,26,0,1,[],"[(5610, 5675)]"
+mTSBench/SMAP,SMAP_E-7_test.csv,8310,0,26,0,1,[],"[(5394, 5674)]"
+mTSBench/SMAP,SMAP_E-2_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_D-4_test.csv,8473,0,26,0,1,[],"[(5225, 8472)]"
+mTSBench/SMAP,SMAP_D-5_test.csv,7628,0,26,0,1,[],"[(4800, 4850)]"
+mTSBench/SMAP,SMAP_D-6_train.csv,2594,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_P-2_test.csv,8209,0,26,0,1,[],"[(5350, 6575)]"
+mTSBench/SMAP,SMAP_P-3_test.csv,8493,0,26,0,1,[],"[(5401, 6736)]"
+mTSBench/SMAP,SMAP_B-1_test.csv,8044,0,26,0,1,[],"[(5060, 5130)]"
+mTSBench/SMAP,SMAP_E-13_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_E-4_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_A-6_train.csv,682,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_E-13_test.csv,8640,0,26,0,3,[],"[(5309, 5410), (5600, 5640), (6449, 6569)]"
+mTSBench/SMAP,SMAP_E-12_test.csv,8512,0,26,0,2,[],"[(5000, 5050), (5610, 6141)]"
+mTSBench/SMAP,SMAP_A-4_test.csv,8080,0,26,0,1,[],"[(4550, 4660)]"
+mTSBench/SMAP,SMAP_A-5_test.csv,4693,0,26,0,1,[],"[(2750, 2800)]"
+mTSBench/SMAP,SMAP_P-3_train.csv,2855,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_G-7_train.csv,2446,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_T-1_train.csv,2875,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_D-11_test.csv,7431,0,26,0,1,[],"[(4270, 4330)]"
+mTSBench/SMAP,SMAP_G-1_test.csv,8469,0,26,0,1,[],"[(4770, 4890)]"
+mTSBench/SMAP,SMAP_E-9_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_F-3_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_T-1_test.csv,8612,0,26,0,2,[],"[(2399, 3898), (6550, 6585)]"
+mTSBench/SMAP,SMAP_B-1_train.csv,2435,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_F-2_test.csv,8626,0,26,0,1,[],"[(5669, 8625)]"
+mTSBench/SMAP,SMAP_F-3_test.csv,8376,0,26,0,1,[],"[(5600, 5640)]"
+mTSBench/SMAP,SMAP_P-4_train.csv,2609,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_A-3_test.csv,8205,0,26,0,1,[],"[(4575, 4760)]"
+mTSBench/SMAP,SMAP_A-2_test.csv,7914,0,26,0,1,[],"[(4450, 4560)]"
+mTSBench/SMAP,SMAP_S-1_test.csv,7331,0,26,0,1,[],"[(5300, 5747)]"
+mTSBench/SMAP,SMAP_A-1_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_G-7_test.csv,4015,0,26,0,2,[],"[(1036, 1086), (3546, 3661)]"
+mTSBench/SMAP,SMAP_G-6_test.csv,8640,0,26,0,1,[],"[(5600, 5700)]"
+mTSBench/SMAP,SMAP_E-3_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_A-9_test.csv,8434,0,26,0,1,[],"[(4569, 8433)]"
+mTSBench/SMAP,SMAP_A-8_test.csv,8375,0,26,0,1,[],"[(4569, 8374)]"
+mTSBench/SMAP,SMAP_D-7_train.csv,2583,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_E-12_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_A-7_train.csv,2879,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_E-5_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_D-9_test.csv,7406,0,26,0,1,[],"[(6250, 7405)]"
+mTSBench/SMAP,SMAP_D-8_test.csv,7874,0,26,0,1,[],"[(4370, 4420)]"
+mTSBench/SMAP,SMAP_E-1_test.csv,8516,0,26,0,2,[],"[(5000, 5030), (5610, 6086)]"
+mTSBench/SMAP,SMAP_R-1_train.csv,2874,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_P-2_train.csv,2821,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_G-6_train.csv,2881,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_D-3_test.csv,8640,0,26,0,1,[],"[(5225, 8500)]"
+mTSBench/SMAP,SMAP_D-2_test.csv,8595,0,26,0,1,[],"[(4319, 8536)]"
+mTSBench/SMAP,SMAP_E-8_train.csv,2880,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_F-2_train.csv,2861,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMAP,SMAP_P-4_test.csv,7783,0,26,0,3,[],"[(950, 1080), (2150, 2350), (4770, 4880)]"
+mTSBench/SMAP,SMAP_G-7_val.csv,4014,0,26,0,1,[],"[(3650, 3750)]"
+mTSBench/SMAP,SMAP_D-1_train.csv,2849,0,26,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-1-2_train.csv,23694,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-1-6_test.csv,18584,0,39,0,24,[],"[(62, 66), (603, 607), (768, 779)]"
+mTSBench/SMD,SMD_machine-1-7_test.csv,17131,0,39,0,9,[],"[(533, 1433), (1998, 2013), (5793, 5807)]"
+mTSBench/SMD,SMD_machine-2-5_train.csv,23688,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-2-9_test.csv,11123,0,39,0,6,[],"[(315, 496), (1558, 1901), (3016, 3245)]"
+mTSBench/SMD,SMD_machine-1-4_train.csv,23706,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-2-2_test.csv,5459,0,39,0,7,[],"[(300, 1140), (2579, 2581), (2783, 2785)]"
+mTSBench/SMD,SMD_machine-2-3_test.csv,14213,0,39,0,6,[],"[(1477, 1480), (2724, 2749), (5594, 5674)]"
+mTSBench/SMD,SMD_machine-3-10_train.csv,23692,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-2-3_train.csv,23688,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-2-9_train.csv,28722,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-1-3_train.csv,23702,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-3-6_test.csv,12401,0,39,0,7,[],"[(463, 669), (1729, 1808), (2951, 3174)]"
+mTSBench/SMD,SMD_machine-2-5_test.csv,17468,0,39,0,17,[],"[(196, 198), (1034, 1036), (1636, 1638)]"
+mTSBench/SMD,SMD_machine-2-4_test.csv,18912,0,39,0,16,[],"[(199, 202), (322, 602), (1639, 1641)]"
+mTSBench/SMD,SMD_machine-2-4_train.csv,23689,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-3-10_test.csv,18651,0,39,0,9,[],"[(1444, 1455), (2849, 2858), (4294, 4304)]"
+mTSBench/SMD,SMD_machine-3-6_train.csv,28726,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-1-8_train.csv,23698,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-2-2_train.csv,23699,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-2-1_test.csv,12706,0,39,0,9,[],"[(1185, 1192), (5148, 5599), (6377, 6393)]"
+mTSBench/SMD,SMD_machine-3-3_train.csv,23703,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-3-3_test.csv,18885,0,39,0,21,[],"[(241, 243), (631, 634), (1681, 1683)]"
+mTSBench/SMD,SMD_machine-3-2_test.csv,13152,0,39,0,6,[],"[(1349, 1471), (1588, 1591), (5026, 5030)]"
+mTSBench/SMD,SMD_machine-2-7_train.csv,23696,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-1-6_train.csv,23688,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-3-5_train.csv,23690,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-2-1_train.csv,23693,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-1-4_test.csv,10084,0,39,0,8,[],"[(249, 301), (2617, 2637), (3437, 3573)]"
+mTSBench/SMD,SMD_machine-3-2_train.csv,23702,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-1-8_test.csv,20367,0,39,0,16,[],"[(262, 265), (1257, 1266), (3768, 3771)]"
+mTSBench/SMD,SMD_machine-1-2_val.csv,3286,0,39,0,3,[],"[(62, 126), (447, 494), (3167, 3285)]"
+mTSBench/SMD,SMD_machine-1-2_test.csv,4930,0,39,0,4,[],"[(0, 36), (1471, 1506), (3500, 3571)]"
+mTSBench/SMD,SMD_machine-1-3_test.csv,15218,0,39,0,8,[],"[(2825, 3031), (4865, 4894), (5386, 5429)]"
+mTSBench/SMD,SMD_machine-2-7_test.csv,18188,0,39,0,16,[],"[(522, 525), (2157, 2160), (2355, 2358)]"
+mTSBench/SMD,SMD_machine-1-7_train.csv,23697,0,39,N/A,N/A,N/A,N/A
+mTSBench/SMD,SMD_machine-3-5_test.csv,9117,0,39,0,7,[],"[(181, 183), (335, 337), (1379, 1482)]"
+mTSBench/SVDB,SVDB_886_test.csv,184320,0,3,0,51,[],"[(17045, 17179), (27005, 27132), (30743, 30865)]"
+mTSBench/SVDB,SVDB_887_test.csv,184320,0,3,0,290,[],"[(42, 189), (250, 390), (845, 980)]"
+mTSBench/SVDB,SVDB_824_train.csv,40842,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_883_train.csv,44469,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_811_train.csv,45487,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_805_train.csv,42263,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_863_test.csv,184320,0,3,0,424,[],"[(512, 597), (809, 888), (1145, 1245)]"
+mTSBench/SVDB,SVDB_862_test.csv,184320,0,3,0,225,[],"[(1450, 1550), (1575, 1675), (1704, 1804)]"
+mTSBench/SVDB,SVDB_853_train.csv,43519,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_857_test.csv,184320,0,3,0,115,[],"[(7679, 7783), (8205, 8327), (8390, 8508)]"
+mTSBench/SVDB,SVDB_856_test.csv,184320,0,3,0,26,[],"[(14746, 14826), (15809, 15913), (15957, 16071)]"
+mTSBench/SVDB,SVDB_829_train.csv,44333,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_847_train.csv,37593,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_869_test.csv,184320,0,3,0,427,[],"[(151, 279), (345, 474), (696, 822)]"
+mTSBench/SVDB,SVDB_868_test.csv,184320,0,3,0,521,[],"[(252, 379), (529, 844), (983, 1117)]"
+mTSBench/SVDB,SVDB_866_train.csv,41977,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_872_train.csv,43744,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_820_test.csv,184320,0,3,0,154,[],"[(42, 166), (845, 967), (4584, 4704)]"
+mTSBench/SVDB,SVDB_821_test.csv,184320,0,3,0,492,[],"[(182, 273), (633, 724), (1158, 1249)]"
+mTSBench/SVDB,SVDB_808_train.csv,46080,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_803_train.csv,41984,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_803_test.csv,184320,0,3,0,118,[],"[(976, 1130), (1432, 1576), (2794, 2949)]"
+mTSBench/SVDB,SVDB_802_test.csv,184320,0,3,0,17,[],"[(156, 301), (479, 616), (788, 923)]"
+mTSBench/SVDB,SVDB_879_train.csv,21697,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_891_test.csv,184320,0,3,0,389,[],"[(41, 138), (257, 388), (541, 636)]"
+mTSBench/SVDB,SVDB_890_test.csv,184320,0,3,0,137,[],"[(4850, 4956), (5383, 5493), (5664, 5775)]"
+mTSBench/SVDB,SVDB_822_train.csv,21182,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_874_test.csv,184320,0,3,0,26,[],"[(6708, 6950), (15196, 15546), (15744, 15892)]"
+mTSBench/SVDB,SVDB_875_test.csv,184320,0,3,0,53,[],"[(3099, 3238), (3315, 3657), (3745, 3879)]"
+mTSBench/SVDB,SVDB_891_train.csv,34841,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_858_train.csv,46080,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_885_train.csv,32746,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_860_train.csv,26382,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_809_test.csv,184320,0,3,0,6,[],"[(61274, 61367), (61450, 61546), (61727, 62016)]"
+mTSBench/SVDB,SVDB_808_test.csv,184320,0,3,0,13,[],"[(60554, 60703), (65094, 65243), (65283, 65413)]"
+mTSBench/SVDB,SVDB_840_test.csv,184320,0,3,0,8,[],"[(37003, 39365), (54644, 54740), (58154, 58251)]"
+mTSBench/SVDB,SVDB_841_test.csv,184320,0,3,0,349,[],"[(3007, 3181), (11309, 11474), (18528, 18752)]"
+mTSBench/SVDB,SVDB_874_train.csv,43518,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_855_train.csv,33120,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_841_train.csv,45573,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_888_train.csv,43125,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_882_train.csv,44525,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_825_train.csv,40353,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_804_test.csv,184320,0,3,0,150,[],"[(16627, 16720), (17619, 17709), (27574, 27676)]"
+mTSBench/SVDB,SVDB_805_test.csv,184320,0,3,0,180,[],"[(925, 1077), (2118, 2273), (4066, 4220)]"
+mTSBench/SVDB,SVDB_804_train.csv,44582,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_873_test.csv,184320,0,3,0,57,[],"[(8902, 9065), (13284, 13442), (24289, 24441)]"
+mTSBench/SVDB,SVDB_872_test.csv,184320,0,3,0,68,[],"[(2963, 3106), (4693, 4843), (7258, 7394)]"
+mTSBench/SVDB,SVDB_810_train.csv,43550,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_846_train.csv,45856,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_847_test.csv,184320,0,3,0,39,[],"[(2186, 2584), (2760, 2935), (3909, 4078)]"
+mTSBench/SVDB,SVDB_846_test.csv,184320,0,3,0,5,[],"[(38290, 39596), (40268, 40523), (106134, 106296)]"
+mTSBench/SVDB,SVDB_852_train.csv,44356,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_828_train.csv,34393,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_873_train.csv,46080,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_809_train.csv,46080,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_879_test.csv,184320,0,3,0,404,[],"[(19, 154), (235, 361), (443, 564)]"
+mTSBench/SVDB,SVDB_878_test.csv,184320,0,3,0,228,[],"[(5678, 5817), (7216, 7371), (9163, 9312)]"
+mTSBench/SVDB,SVDB_867_train.csv,42997,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_802_train.csv,44573,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_812_test.csv,184320,0,3,0,53,[],"[(6432, 6642), (6861, 7067), (7283, 7489)]"
+mTSBench/SVDB,SVDB_881_test.csv,184320,0,3,0,676,[],"[(0, 19), (49, 175), (277, 406)]"
+mTSBench/SVDB,SVDB_880_test.csv,184320,0,3,0,267,[],"[(0, 11), (135, 212), (259, 331)]"
+mTSBench/SVDB,SVDB_878_train.csv,31423,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_884_train.csv,41365,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_823_train.csv,41006,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_864_test.csv,184320,0,3,0,61,[],"[(677, 868), (4204, 4383), (7538, 7804)]"
+mTSBench/SVDB,SVDB_865_test.csv,184320,0,3,0,249,[],"[(890, 988), (1084, 1374), (4442, 4540)]"
+mTSBench/SVDB,SVDB_890_train.csv,41729,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_859_train.csv,40888,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_875_train.csv,39609,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_850_test.csv,184320,0,3,0,2,[],"[(17010, 17506), (166158, 166442)]"
+mTSBench/SVDB,SVDB_851_test.csv,184320,0,3,0,331,[],"[(0, 19), (277, 392), (823, 946)]"
+mTSBench/SVDB,SVDB_861_train.csv,31317,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_840_train.csv,46080,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_889_train.csv,42411,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_854_train.csv,27580,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_827_test.csv,184320,0,3,0,15,[],"[(49802, 49960), (51966, 52117), (63380, 63528)]"
+mTSBench/SVDB,SVDB_826_test.csv,184320,0,3,0,52,[],"[(2031, 2138), (2384, 2489), (2824, 2931)]"
+mTSBench/SVDB,SVDB_869_train.csv,31525,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_843_test.csv,184320,0,3,0,37,[],"[(980, 1098), (39139, 39254), (60769, 60853)]"
+mTSBench/SVDB,SVDB_842_test.csv,184320,0,3,0,107,[],"[(3991, 4085), (4344, 4485), (4704, 4798)]"
+mTSBench/SVDB,SVDB_807_train.csv,45037,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_826_train.csv,43618,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_881_train.csv,24857,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_848_train.csv,45909,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_849_test.csv,184320,0,3,0,48,[],"[(4829, 4962), (8506, 9042), (9413, 9752)]"
+mTSBench/SVDB,SVDB_848_test.csv,184320,0,3,0,32,[],"[(1841, 1910), (5147, 5219), (9388, 9457)]"
+mTSBench/SVDB,SVDB_864_train.csv,42184,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_870_train.csv,32572,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_800_test.csv,184320,0,3,0,40,[],"[(6292, 6410), (15183, 15301), (19097, 19215)]"
+mTSBench/SVDB,SVDB_801_test.csv,184320,0,3,0,67,[],"[(0, 11), (74, 170), (234, 330)]"
+mTSBench/SVDB,SVDB_892_test.csv,138240,0,3,0,577,[],"[(54, 143), (440, 527), (582, 674)]"
+mTSBench/SVDB,SVDB_893_test.csv,184320,0,3,0,273,[],"[(658, 756), (2285, 2388), (2829, 2930)]"
+mTSBench/SVDB,SVDB_851_train.csv,35022,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_877_test.csv,184320,0,3,0,147,[],"[(0, 19), (729, 907), (2127, 2251)]"
+mTSBench/SVDB,SVDB_876_test.csv,184320,0,3,0,102,[],"[(969, 1086), (2039, 2150), (5117, 5227)]"
+mTSBench/SVDB,SVDB_845_train.csv,44257,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_854_test.csv,184320,0,3,0,637,[],"[(81, 196), (361, 449), (622, 753)]"
+mTSBench/SVDB,SVDB_855_test.csv,184320,0,3,0,333,[],"[(19, 129), (416, 545), (1201, 1311)]"
+mTSBench/SVDB,SVDB_820_train.csv,41549,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_893_train.csv,39063,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_887_train.csv,39251,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_823_test.csv,184320,0,3,0,292,[],"[(19979, 20063), (20250, 20334), (20385, 20469)]"
+mTSBench/SVDB,SVDB_822_test.csv,184320,0,3,0,428,[],"[(0, 31), (122, 227), (320, 427)]"
+mTSBench/SVDB,SVDB_801_train.csv,21971,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_885_test.csv,184320,0,3,0,355,[],"[(0, 94), (411, 559), (877, 1024)]"
+mTSBench/SVDB,SVDB_884_test.csv,184320,0,3,0,333,[],"[(6903, 7021), (7614, 7721), (8488, 8607)]"
+mTSBench/SVDB,SVDB_857_train.csv,40755,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_843_train.csv,45683,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_862_train.csv,26519,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_829_test.csv,184320,0,3,0,67,[],"[(1470, 1598), (2402, 2528), (4405, 4533)]"
+mTSBench/SVDB,SVDB_828_test.csv,184320,0,3,0,71,[],"[(282, 421), (758, 895), (1231, 1368)]"
+mTSBench/SVDB,SVDB_860_test.csv,184320,0,3,0,593,[],"[(0, 53), (197, 316), (461, 581)]"
+mTSBench/SVDB,SVDB_861_test.csv,184320,0,3,0,426,[],"[(59, 160), (224, 327), (574, 676)]"
+mTSBench/SVDB,SVDB_876_train.csv,42336,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_853_test.csv,184320,0,3,0,99,[],"[(400, 537), (607, 761), (4115, 4251)]"
+mTSBench/SVDB,SVDB_852_test.csv,184320,0,3,0,284,[],"[(198, 307), (3489, 3582), (3658, 3771)]"
+mTSBench/SVDB,SVDB_806_train.csv,45249,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_812_train.csv,41261,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_888_test.csv,184320,0,3,0,97,[],"[(1178, 1305), (1714, 1834), (2118, 2237)]"
+mTSBench/SVDB,SVDB_889_test.csv,184320,0,3,0,217,[],"[(2065, 2249), (2888, 3034), (4157, 4348)]"
+mTSBench/SVDB,SVDB_868_train.csv,31194,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_880_train.csv,37516,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_849_train.csv,45538,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_894_train.csv,42798,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_824_test.csv,184320,0,3,0,151,[],"[(1084, 1187), (1261, 1370), (1541, 1647)]"
+mTSBench/SVDB,SVDB_825_test.csv,184320,0,3,0,88,[],"[(292, 391), (858, 956), (1758, 1859)]"
+mTSBench/SVDB,SVDB_827_train.csv,45819,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_810_test.csv,184320,0,3,0,44,[],"[(0, 95), (527, 686), (1490, 1664)]"
+mTSBench/SVDB,SVDB_811_test.csv,184320,0,3,0,10,[],"[(5952, 6404), (6594, 7385), (7433, 8214)]"
+mTSBench/SVDB,SVDB_871_train.csv,45632,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_882_test.csv,184320,0,3,0,35,[],"[(1357, 1514), (2889, 3045), (13477, 13641)]"
+mTSBench/SVDB,SVDB_883_test.csv,184320,0,3,0,34,[],"[(1055, 1409), (1462, 1681), (15413, 15580)]"
+mTSBench/SVDB,SVDB_859_test.csv,184320,0,3,0,379,[],"[(108, 185), (417, 544), (816, 884)]"
+mTSBench/SVDB,SVDB_858_test.csv,184320,0,3,0,6,[],"[(75883, 76558), (172380, 172486), (174189, 174295)]"
+mTSBench/SVDB,SVDB_865_train.csv,36228,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_844_train.csv,44828,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_867_test.csv,184320,0,3,0,120,[],"[(14872, 15069), (15915, 16057), (16119, 16357)]"
+mTSBench/SVDB,SVDB_866_test.csv,184320,0,3,0,480,[],"[(0, 12), (64, 182), (476, 578)]"
+mTSBench/SVDB,SVDB_850_train.csv,46080,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_886_train.csv,45799,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_844_test.csv,184320,0,3,0,35,[],"[(13809, 13982), (14045, 14221), (20711, 20860)]"
+mTSBench/SVDB,SVDB_845_test.csv,184320,0,3,0,33,[],"[(1610, 1693), (2730, 2812), (3215, 3296)]"
+mTSBench/SVDB,SVDB_821_train.csv,36160,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_892_train.csv,24686,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_800_train.csv,45213,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_842_train.csv,43298,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_892_val.csv,46080,0,3,0,200,[],"[(44, 130), (270, 358), (496, 593)]"
+mTSBench/SVDB,SVDB_894_test.csv,184320,0,3,0,111,[],"[(5148, 5281), (7821, 7957), (8221, 8359)]"
+mTSBench/SVDB,SVDB_856_train.csv,44587,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_807_test.csv,184320,0,3,0,13,[],"[(38420, 38553), (42891, 43199), (49300, 49431)]"
+mTSBench/SVDB,SVDB_806_test.csv,184320,0,3,0,52,[],"[(2357, 2452), (4030, 4114), (5757, 5851)]"
+mTSBench/SVDB,SVDB_877_train.csv,40746,0,3,0,0,[],[]
+mTSBench/SVDB,SVDB_870_test.csv,184320,0,3,0,678,[],"[(576, 697), (886, 1092), (1572, 1693)]"
+mTSBench/SVDB,SVDB_871_test.csv,184320,0,3,0,20,[],"[(3100, 3253), (6447, 6605), (21046, 21206)]"
+mTSBench/SVDB,SVDB_863_train.csv,36149,0,3,0,0,[],[]
+mTSBench/swan,swan_sf_test.csv,72000,0,39,5233,1382,"[728, 738, 748]","[(1153, 1154), (1284, 1285), (1301, 1302)]"
+mTSBench/swan,swan_sf_val.csv,24000,0,39,2761,585,"[1, 8, 11]","[(82, 83), (88, 89), (208, 209)]"
+mTSBench/swan,swan_sf_train.csv,19672,0,39,0,0,[],[]

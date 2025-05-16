@@ -1,0 +1,1282 @@
+dataset,ground_truth,prediction,spearman_rho,runtime_seconds
+CalIt2_traffic,"['USAD', 'LSTMAD', 'CNN', 'TranAD', 'RobustPCA', 'OmniAnomaly', 'PCA', 'ALLM4TS', 'COPOD', 'CBLOF', 'OCSVM', 'FITS', 'EIF', 'OFA', 'TimesNet', 'HBOS', 'IForest', 'KNN', 'LOF', 'MCD', 'AnomalyTransformer', 'Donut', 'AutoEncoder', 'KMeansAD']","['ALLM4TS' 'Donut' 'FITS' 'AutoEncoder' 'IForest' 'OFA' 'OCSVM'
+ 'AnomalyTransformer' 'LOF' 'CNN' 'RobustPCA' 'COPOD' 'LSTMAD' 'TimesNet'
+ 'USAD' 'TranAD' 'CBLOF' 'PCA' 'KNN' 'OmniAnomaly' 'KMeansAD' 'MCD' 'HBOS'
+ 'EIF']",-0.0826086956521739,4.955023288726807
+Daphnet_S01R01E1,"['KMeansAD', 'OmniAnomaly', 'PCA', 'KNN', 'ALLM4TS', 'IForest', 'FITS', 'CNN', 'USAD', 'LSTMAD', 'TranAD', 'TimesNet', 'OFA', 'Donut', 'CBLOF', 'HBOS', 'EIF', 'LOF', 'COPOD', 'MCD', 'OCSVM', 'AnomalyTransformer', 'AutoEncoder', 'RobustPCA']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'KNN' 'CBLOF' 'OmniAnomaly' 'PCA'
+ 'AutoEncoder' 'COPOD' 'TimesNet' 'USAD' 'TranAD' 'RobustPCA'
+ 'AnomalyTransformer' 'CNN' 'LSTMAD' 'OCSVM' 'LOF' 'OFA' 'ALLM4TS' 'FITS'
+ 'IForest' 'Donut']",-0.027826086956521737,4.950003385543823
+Daphnet_S02R01E0,"['KMeansAD', 'OFA', 'KNN', 'ALLM4TS', 'LSTMAD', 'HBOS', 'CNN', 'OmniAnomaly', 'PCA', 'FITS', 'CBLOF', 'EIF', 'COPOD', 'IForest', 'TranAD', 'USAD', 'TimesNet', 'Donut', 'MCD', 'OCSVM', 'AutoEncoder', 'LOF', 'AnomalyTransformer', 'RobustPCA']","['KMeansAD' 'CNN' 'OmniAnomaly' 'LSTMAD' 'TranAD' 'EIF' 'OFA' 'USAD'
+ 'TimesNet' 'IForest' 'PCA' 'KNN' 'Donut' 'CBLOF' 'COPOD' 'FITS' 'LOF'
+ 'HBOS' 'RobustPCA' 'AnomalyTransformer' 'OCSVM' 'ALLM4TS' 'MCD'
+ 'AutoEncoder']",0.5356521739130434,3.1736648082733154
+Daphnet_S02R02E0,"['KMeansAD', 'OFA', 'FITS', 'KNN', 'TimesNet', 'CBLOF', 'IForest', 'TranAD', 'EIF', 'COPOD', 'USAD', 'HBOS', 'LSTMAD', 'CNN', 'OmniAnomaly', 'PCA', 'Donut', 'LOF', 'ALLM4TS', 'AnomalyTransformer', 'AutoEncoder', 'MCD', 'OCSVM', 'RobustPCA']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'KNN' 'CBLOF' 'PCA' 'OmniAnomaly' 'COPOD'
+ 'AutoEncoder' 'TimesNet' 'TranAD' 'CNN' 'RobustPCA' 'USAD' 'LSTMAD'
+ 'AnomalyTransformer' 'OCSVM' 'LOF' 'OFA' 'ALLM4TS' 'FITS' 'IForest'
+ 'Donut']",0.13304347826086957,4.388967275619507
+Daphnet_S03R01E0,"['KMeansAD', 'KNN', 'TranAD', 'USAD', 'CBLOF', 'IForest', 'FITS', 'CNN', 'HBOS', 'OmniAnomaly', 'PCA', 'EIF', 'TimesNet', 'COPOD', 'OFA', 'LSTMAD', 'LOF', 'Donut', 'AnomalyTransformer', 'MCD', 'ALLM4TS', 'OCSVM', 'AutoEncoder', 'RobustPCA']","['HBOS' 'EIF' 'MCD' 'KMeansAD' 'CBLOF' 'KNN' 'OmniAnomaly' 'PCA' 'COPOD'
+ 'CNN' 'TranAD' 'USAD' 'TimesNet' 'LSTMAD' 'RobustPCA'
+ 'AnomalyTransformer' 'OCSVM' 'LOF' 'OFA' 'IForest' 'AutoEncoder' 'FITS'
+ 'Donut' 'ALLM4TS']",0.45739130434782604,4.03348970413208
+Daphnet_S03R01E1,"['IForest', 'TimesNet', 'FITS', 'HBOS', 'KMeansAD', 'KNN', 'PCA', 'OmniAnomaly', 'CNN', 'OFA', 'Donut', 'COPOD', 'EIF', 'TranAD', 'USAD', 'CBLOF', 'ALLM4TS', 'LSTMAD', 'AutoEncoder', 'LOF', 'MCD', 'OCSVM', 'AnomalyTransformer', 'RobustPCA']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'CBLOF' 'KNN' 'OmniAnomaly' 'PCA' 'COPOD'
+ 'TimesNet' 'CNN' 'TranAD' 'USAD' 'RobustPCA' 'LSTMAD'
+ 'AnomalyTransformer' 'OCSVM' 'AutoEncoder' 'LOF' 'OFA' 'IForest' 'FITS'
+ 'ALLM4TS' 'Donut']",0.16,3.4892029762268066
+Daphnet_S03R02E0,"['PCA', 'OmniAnomaly', 'IForest', 'KMeansAD', 'OFA', 'ALLM4TS', 'FITS', 'TimesNet', 'KNN', 'USAD', 'TranAD', 'LSTMAD', 'EIF', 'CNN', 'CBLOF', 'COPOD', 'HBOS', 'Donut', 'AutoEncoder', 'LOF', 'MCD', 'OCSVM', 'AnomalyTransformer', 'RobustPCA']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'CBLOF' 'KNN' 'OmniAnomaly' 'PCA' 'COPOD'
+ 'TimesNet' 'RobustPCA' 'TranAD' 'AutoEncoder' 'USAD' 'CNN'
+ 'AnomalyTransformer' 'LSTMAD' 'OCSVM' 'LOF' 'ALLM4TS' 'OFA' 'IForest'
+ 'FITS' 'Donut']",-0.020869565217391303,2.855274200439453
+Daphnet_S05R01E0,"['KMeansAD', 'KNN', 'LOF', 'FITS', 'CBLOF', 'OFA', 'TimesNet', 'ALLM4TS', 'AnomalyTransformer', 'EIF', 'HBOS', 'LSTMAD', 'Donut', 'CNN', 'TranAD', 'USAD', 'RobustPCA', 'IForest', 'COPOD', 'PCA', 'OmniAnomaly', 'OCSVM', 'MCD', 'AutoEncoder']","['AutoEncoder' 'OFA' 'LSTMAD' 'IForest' 'Donut' 'TimesNet' 'CNN' 'ALLM4TS'
+ 'FITS' 'USAD' 'TranAD' 'COPOD' 'OCSVM' 'OmniAnomaly' 'KNN' 'CBLOF' 'PCA'
+ 'LOF' 'EIF' 'AnomalyTransformer' 'RobustPCA' 'KMeansAD' 'HBOS' 'MCD']",-0.09565217391304347,2.965754747390747
+Daphnet_S05R01E1,"['KMeansAD', 'OmniAnomaly', 'PCA', 'OFA', 'KNN', 'TimesNet', 'FITS', 'IForest', 'EIF', 'HBOS', 'CBLOF', 'USAD', 'COPOD', 'TranAD', 'CNN', 'Donut', 'ALLM4TS', 'LOF', 'LSTMAD', 'AutoEncoder', 'AnomalyTransformer', 'MCD', 'OCSVM', 'RobustPCA']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'CBLOF' 'KNN' 'COPOD' 'OmniAnomaly' 'PCA'
+ 'RobustPCA' 'CNN' 'AutoEncoder' 'AnomalyTransformer' 'TimesNet' 'TranAD'
+ 'USAD' 'LSTMAD' 'OCSVM' 'LOF' 'ALLM4TS' 'IForest' 'FITS' 'OFA' 'Donut']",0.1643478260869565,2.8449082374572754
+Daphnet_S05R01E2,"['KMeansAD', 'LOF', 'KNN', 'FITS', 'ALLM4TS', 'TimesNet', 'OFA', 'RobustPCA', 'AnomalyTransformer', 'Donut', 'HBOS', 'LSTMAD', 'USAD', 'CNN', 'COPOD', 'TranAD', 'EIF', 'OmniAnomaly', 'PCA', 'CBLOF', 'MCD', 'OCSVM', 'AutoEncoder', 'IForest']","['CNN' 'KMeansAD' 'LSTMAD' 'OmniAnomaly' 'TranAD' 'EIF' 'USAD' 'TimesNet'
+ 'PCA' 'IForest' 'KNN' 'OFA' 'CBLOF' 'Donut' 'COPOD' 'HBOS' 'FITS' 'LOF'
+ 'RobustPCA' 'AnomalyTransformer' 'OCSVM' 'MCD' 'AutoEncoder' 'ALLM4TS']",0.02869565217391304,2.7818360328674316
+Daphnet_S05R01E3,"['KMeansAD', 'LOF', 'KNN', 'RobustPCA', 'FITS', 'AnomalyTransformer', 'HBOS', 'ALLM4TS', 'TimesNet', 'USAD', 'COPOD', 'OFA', 'MCD', 'EIF', 'TranAD', 'OCSVM', 'Donut', 'LSTMAD', 'CBLOF', 'CNN', 'OmniAnomaly', 'PCA', 'AutoEncoder', 'IForest']","['KMeansAD' 'OmniAnomaly' 'CNN' 'TranAD' 'PCA' 'USAD' 'LSTMAD' 'EIF'
+ 'TimesNet' 'OFA' 'KNN' 'IForest' 'CBLOF' 'HBOS' 'Donut' 'LOF' 'COPOD'
+ 'FITS' 'RobustPCA' 'AnomalyTransformer' 'OCSVM' 'MCD' 'ALLM4TS'
+ 'AutoEncoder']",-0.16869565217391302,2.656182050704956
+Daphnet_S05R02E0,"['FITS', 'OFA', 'TimesNet', 'ALLM4TS', 'KMeansAD', 'KNN', 'CBLOF', 'USAD', 'IForest', 'EIF', 'CNN', 'OmniAnomaly', 'PCA', 'LOF', 'Donut', 'TranAD', 'HBOS', 'AnomalyTransformer', 'LSTMAD', 'COPOD', 'AutoEncoder', 'OCSVM', 'MCD', 'RobustPCA']","['HBOS' 'EIF' 'MCD' 'KMeansAD' 'CBLOF' 'KNN' 'OmniAnomaly' 'PCA' 'COPOD'
+ 'TimesNet' 'RobustPCA' 'USAD' 'TranAD' 'AutoEncoder' 'CNN'
+ 'AnomalyTransformer' 'LSTMAD' 'OCSVM' 'LOF' 'OFA' 'IForest' 'ALLM4TS'
+ 'FITS' 'Donut']",-0.13478260869565215,3.4336628913879395
+Daphnet_S05R02E1,"['FITS', 'OFA', 'ALLM4TS', 'KNN', 'KMeansAD', 'TimesNet', 'AutoEncoder', 'MCD', 'OCSVM', 'LOF', 'AnomalyTransformer', 'CBLOF', 'USAD', 'Donut', 'TranAD', 'EIF', 'RobustPCA', 'HBOS', 'LSTMAD', 'CNN', 'COPOD', 'OmniAnomaly', 'PCA', 'IForest']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'OmniAnomaly' 'KNN' 'PCA' 'CBLOF' 'COPOD'
+ 'TimesNet' 'USAD' 'TranAD' 'AutoEncoder' 'RobustPCA' 'CNN' 'LSTMAD'
+ 'AnomalyTransformer' 'OCSVM' 'LOF' 'OFA' 'IForest' 'FITS' 'ALLM4TS'
+ 'Donut']",-0.21565217391304345,3.3395378589630127
+Daphnet_S06R01E0,"['KMeansAD', 'LOF', 'KNN', 'CBLOF', 'FITS', 'AnomalyTransformer', 'OFA', 'TimesNet', 'EIF', 'IForest', 'HBOS', 'COPOD', 'CNN', 'RobustPCA', 'TranAD', 'LSTMAD', 'OCSVM', 'USAD', 'MCD', 'Donut', 'AutoEncoder', 'PCA', 'OmniAnomaly', 'ALLM4TS']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'CBLOF' 'KNN' 'OmniAnomaly' 'PCA' 'COPOD'
+ 'TimesNet' 'USAD' 'TranAD' 'RobustPCA' 'CNN' 'LSTMAD'
+ 'AnomalyTransformer' 'OCSVM' 'AutoEncoder' 'LOF' 'OFA' 'IForest' 'FITS'
+ 'ALLM4TS' 'Donut']",0.15652173913043477,3.9864213466644287
+Daphnet_S06R01E1,"['KMeansAD', 'LOF', 'KNN', 'CNN', 'MCD', 'LSTMAD', 'OCSVM', 'EIF', 'CBLOF', 'COPOD', 'HBOS', 'OFA', 'FITS', 'TranAD', 'Donut', 'USAD', 'OmniAnomaly', 'PCA', 'ALLM4TS', 'TimesNet', 'AutoEncoder', 'IForest', 'AnomalyTransformer', 'RobustPCA']","['CNN' 'KMeansAD' 'LSTMAD' 'TranAD' 'OFA' 'IForest' 'OmniAnomaly' 'USAD'
+ 'TimesNet' 'KNN' 'EIF' 'Donut' 'PCA' 'COPOD' 'CBLOF' 'FITS' 'LOF' 'HBOS'
+ 'RobustPCA' 'AnomalyTransformer' 'OCSVM' 'ALLM4TS' 'MCD' 'AutoEncoder']",0.2573913043478261,3.340960741043091
+Daphnet_S06R01E2,"['ALLM4TS', 'HBOS', 'CBLOF', 'OFA', 'OmniAnomaly', 'PCA', 'AnomalyTransformer', 'KMeansAD', 'IForest', 'LOF', 'CNN', 'Donut', 'EIF', 'RobustPCA', 'KNN', 'MCD', 'OCSVM', 'TimesNet', 'FITS', 'AutoEncoder', 'USAD', 'COPOD', 'TranAD', 'LSTMAD']","['AutoEncoder' 'ALLM4TS' 'OCSVM' 'OFA' 'Donut' 'LSTMAD' 'FITS' 'TimesNet'
+ 'IForest' 'COPOD' 'KNN' 'CNN' 'CBLOF' 'LOF' 'TranAD' 'USAD'
+ 'AnomalyTransformer' 'KMeansAD' 'PCA' 'RobustPCA' 'EIF' 'OmniAnomaly'
+ 'HBOS' 'MCD']",-0.21913043478260866,3.152860164642334
+Daphnet_S07R01E0,"['KMeansAD', 'OFA', 'KNN', 'IForest', 'FITS', 'LOF', 'PCA', 'OmniAnomaly', 'TimesNet', 'CBLOF', 'COPOD', 'EIF', 'LSTMAD', 'HBOS', 'CNN', 'USAD', 'MCD', 'OCSVM', 'TranAD', 'Donut', 'AutoEncoder', 'RobustPCA', 'AnomalyTransformer', 'ALLM4TS']","['HBOS' 'MCD' 'EIF' 'KMeansAD' 'AutoEncoder' 'CBLOF' 'KNN' 'PCA'
+ 'OmniAnomaly' 'COPOD' 'OCSVM' 'TimesNet' 'RobustPCA' 'AnomalyTransformer'
+ 'USAD' 'ALLM4TS' 'LOF' 'TranAD' 'LSTMAD' 'CNN' 'OFA' 'FITS' 'Donut'
+ 'IForest']",-0.0008695652173913043,4.833767652511597
+Daphnet_S07R02E0,"['KMeansAD', 'LOF', 'KNN', 'FITS', 'AnomalyTransformer', 'OFA', 'TimesNet', 'CBLOF', 'LSTMAD', 'RobustPCA', 'EIF', 'HBOS', 'COPOD', 'ALLM4TS', 'CNN', 'USAD', 'TranAD', 'PCA', 'OmniAnomaly', 'IForest', 'MCD', 'OCSVM', 'AutoEncoder', 'Donut']","['HBOS' 'MCD' 'EIF' 'KMeansAD' 'CBLOF' 'KNN' 'OmniAnomaly' 'PCA' 'COPOD'
+ 'TimesNet' 'AutoEncoder' 'RobustPCA' 'USAD' 'TranAD' 'CNN' 'OCSVM'
+ 'AnomalyTransformer' 'LSTMAD' 'LOF' 'ALLM4TS' 'OFA' 'FITS' 'IForest'
+ 'Donut']",0.06434782608695652,3.2667996883392334
+Daphnet_S08R01E0,"['AnomalyTransformer', 'KMeansAD', 'RobustPCA', 'LOF', 'MCD', 'OCSVM', 'OFA', 'AutoEncoder', 'ALLM4TS', 'KNN', 'HBOS', 'IForest', 'EIF', 'OmniAnomaly', 'PCA', 'TranAD', 'USAD', 'COPOD', 'FITS', 'CBLOF', 'TimesNet', 'LSTMAD', 'CNN', 'Donut']","['CNN' 'EIF' 'KMeansAD' 'AutoEncoder' 'LSTMAD' 'CBLOF' 'COPOD' 'ALLM4TS'
+ 'KNN' 'OFA' 'Donut' 'TimesNet' 'IForest' 'TranAD' 'FITS'
+ 'AnomalyTransformer' 'LOF' 'USAD' 'HBOS' 'OmniAnomaly' 'PCA' 'RobustPCA'
+ 'OCSVM' 'MCD']",-0.32695652173913037,2.825697660446167
+Daphnet_S08R01E1,"['LOF', 'AnomalyTransformer', 'RobustPCA', 'FITS', 'KNN', 'OFA', 'TimesNet', 'KMeansAD', 'LSTMAD', 'Donut', 'CBLOF', 'HBOS', 'EIF', 'MCD', 'CNN', 'AutoEncoder', 'COPOD', 'TranAD', 'OCSVM', 'USAD', 'OmniAnomaly', 'PCA', 'ALLM4TS', 'IForest']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'OmniAnomaly' 'CBLOF' 'KNN' 'PCA' 'COPOD'
+ 'USAD' 'TimesNet' 'TranAD' 'CNN' 'RobustPCA' 'LSTMAD'
+ 'AnomalyTransformer' 'OCSVM' 'LOF' 'AutoEncoder' 'OFA' 'IForest' 'FITS'
+ 'ALLM4TS' 'Donut']",-0.07043478260869565,2.7224693298339844
+Daphnet_S08R01E2,"['KMeansAD', 'OFA', 'PCA', 'OmniAnomaly', 'KNN', 'ALLM4TS', 'LOF', 'TimesNet', 'FITS', 'IForest', 'COPOD', 'HBOS', 'LSTMAD', 'EIF', 'Donut', 'MCD', 'OCSVM', 'CBLOF', 'CNN', 'AutoEncoder', 'TranAD', 'USAD', 'AnomalyTransformer', 'RobustPCA']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'KNN' 'CBLOF' 'OmniAnomaly' 'PCA'
+ 'AutoEncoder' 'COPOD' 'TimesNet' 'TranAD' 'CNN' 'RobustPCA' 'USAD'
+ 'LSTMAD' 'AnomalyTransformer' 'OCSVM' 'LOF' 'ALLM4TS' 'OFA' 'IForest'
+ 'FITS' 'Donut']",0.047826086956521734,2.807304620742798
+Daphnet_S08R01E3,"['LOF', 'OFA', 'KMeansAD', 'OmniAnomaly', 'PCA', 'FITS', 'TimesNet', 'KNN', 'ALLM4TS', 'IForest', 'RobustPCA', 'AnomalyTransformer', 'Donut', 'TranAD', 'MCD', 'USAD', 'LSTMAD', 'AutoEncoder', 'CNN', 'CBLOF', 'COPOD', 'HBOS', 'EIF', 'OCSVM']","['HBOS' 'EIF' 'MCD' 'KMeansAD' 'CBLOF' 'KNN' 'OmniAnomaly' 'COPOD' 'PCA'
+ 'CNN' 'RobustPCA' 'TranAD' 'TimesNet' 'USAD' 'AnomalyTransformer'
+ 'LSTMAD' 'OCSVM' 'LOF' 'AutoEncoder' 'ALLM4TS' 'IForest' 'OFA' 'FITS'
+ 'Donut']",-0.2939130434782608,2.726039409637451
+Daphnet_S09R01E0,"['KMeansAD', 'LOF', 'KNN', 'OmniAnomaly', 'PCA', 'IForest', 'CBLOF', 'LSTMAD', 'CNN', 'EIF', 'MCD', 'OCSVM', 'HBOS', 'COPOD', 'USAD', 'TranAD', 'FITS', 'AnomalyTransformer', 'AutoEncoder', 'RobustPCA', 'TimesNet', 'Donut', 'ALLM4TS', 'OFA']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'OmniAnomaly' 'KNN' 'CBLOF' 'PCA' 'COPOD'
+ 'TimesNet' 'TranAD' 'USAD' 'RobustPCA' 'CNN' 'LSTMAD' 'AutoEncoder'
+ 'AnomalyTransformer' 'OCSVM' 'LOF' 'OFA' 'IForest' 'ALLM4TS' 'FITS'
+ 'Donut']",0.4721739130434783,2.670532703399658
+Daphnet_S09R01E1,"['KMeansAD', 'LOF', 'CBLOF', 'AnomalyTransformer', 'KNN', 'FITS', 'RobustPCA', 'IForest', 'AutoEncoder', 'TimesNet', 'OFA', 'MCD', 'OCSVM', 'EIF', 'HBOS', 'COPOD', 'LSTMAD', 'USAD', 'Donut', 'ALLM4TS', 'TranAD', 'CNN', 'OmniAnomaly', 'PCA']","['KMeansAD' 'OmniAnomaly' 'CNN' 'LSTMAD' 'EIF' 'PCA' 'TimesNet' 'OFA'
+ 'TranAD' 'KNN' 'USAD' 'IForest' 'HBOS' 'CBLOF' 'Donut' 'COPOD' 'LOF'
+ 'FITS' 'OCSVM' 'RobustPCA' 'MCD' 'AnomalyTransformer' 'AutoEncoder'
+ 'ALLM4TS']",-0.2869565217391304,2.827333450317383
+Daphnet_S09R01E2,"['COPOD', 'Donut', 'TranAD', 'USAD', 'KNN', 'KMeansAD', 'HBOS', 'CNN', 'EIF', 'FITS', 'ALLM4TS', 'OmniAnomaly', 'PCA', 'LSTMAD', 'OFA', 'CBLOF', 'TimesNet', 'IForest', 'LOF', 'AnomalyTransformer', 'AutoEncoder', 'MCD', 'OCSVM', 'RobustPCA']","['HBOS' 'MCD' 'EIF' 'KMeansAD' 'CBLOF' 'KNN' 'AutoEncoder' 'PCA' 'COPOD'
+ 'OmniAnomaly' 'RobustPCA' 'OCSVM' 'TimesNet' 'AnomalyTransformer'
+ 'ALLM4TS' 'TranAD' 'CNN' 'USAD' 'LSTMAD' 'LOF' 'OFA' 'FITS' 'IForest'
+ 'Donut']",-0.04608695652173912,3.570923328399658
+Daphnet_S09R01E3,"['KMeansAD', 'IForest', 'OFA', 'OmniAnomaly', 'PCA', 'COPOD', 'KNN', 'ALLM4TS', 'FITS', 'HBOS', 'TimesNet', 'EIF', 'CBLOF', 'LSTMAD', 'USAD', 'TranAD', 'Donut', 'LOF', 'AutoEncoder', 'CNN', 'MCD', 'AnomalyTransformer', 'OCSVM', 'RobustPCA']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'KNN' 'CBLOF' 'OmniAnomaly' 'PCA' 'COPOD'
+ 'AutoEncoder' 'TimesNet' 'TranAD' 'USAD' 'RobustPCA' 'CNN' 'LSTMAD'
+ 'AnomalyTransformer' 'OCSVM' 'LOF' 'OFA' 'ALLM4TS' 'IForest' 'FITS'
+ 'Donut']",0.13826086956521738,3.796426773071289
+Daphnet_S09R01E4,"['ALLM4TS', 'KMeansAD', 'IForest', 'COPOD', 'PCA', 'OmniAnomaly', 'HBOS', 'EIF', 'FITS', 'KNN', 'LSTMAD', 'OFA', 'CBLOF', 'CNN', 'TranAD', 'Donut', 'TimesNet', 'USAD', 'MCD', 'OCSVM', 'AutoEncoder', 'LOF', 'AnomalyTransformer', 'RobustPCA']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'CBLOF' 'KNN' 'OmniAnomaly' 'PCA' 'COPOD'
+ 'TimesNet' 'USAD' 'TranAD' 'CNN' 'RobustPCA' 'LSTMAD'
+ 'AnomalyTransformer' 'LOF' 'OCSVM' 'AutoEncoder' 'OFA' 'IForest' 'FITS'
+ 'Donut' 'ALLM4TS']",0.1782608695652174,2.6943342685699463
+Exathlon_10_2_1000000_67,"['AutoEncoder', 'MCD', 'OCSVM', 'RobustPCA', 'IForest', 'KNN', 'COPOD', 'KMeansAD', 'OFA', 'HBOS', 'TimesNet', 'AnomalyTransformer', 'FITS', 'PCA', 'LOF', 'EIF', 'CBLOF', 'Donut', 'LSTMAD', 'USAD', 'TranAD', 'OmniAnomaly', 'CNN', 'ALLM4TS']","['EIF' 'KMeansAD' 'HBOS' 'MCD' 'KNN' 'PCA' 'OmniAnomaly' 'CBLOF'
+ 'RobustPCA' 'TimesNet' 'AnomalyTransformer' 'TranAD' 'USAD' 'COPOD' 'LOF'
+ 'LSTMAD' 'CNN' 'OCSVM' 'AutoEncoder' 'OFA' 'IForest' 'FITS' 'Donut'
+ 'ALLM4TS']",0.1443478260869565,2.7829790115356445
+Exathlon_10_3_1000000_75,"['Donut', 'USAD', 'CNN', 'OmniAnomaly', 'PCA', 'TranAD', 'LSTMAD', 'OFA', 'MCD', 'IForest', 'ALLM4TS', 'RobustPCA', 'TimesNet', 'COPOD', 'AutoEncoder', 'EIF', 'HBOS', 'CBLOF', 'FITS', 'KMeansAD', 'OCSVM', 'KNN', 'LOF', 'AnomalyTransformer']","['ALLM4TS' 'COPOD' 'IForest' 'OCSVM' 'Donut' 'FITS' 'KMeansAD' 'LOF'
+ 'LSTMAD' 'CNN' 'CBLOF' 'RobustPCA' 'AnomalyTransformer' 'AutoEncoder'
+ 'KNN' 'OFA' 'TranAD' 'TimesNet' 'USAD' 'EIF' 'HBOS' 'OmniAnomaly' 'PCA'
+ 'MCD']",-0.23391304347826083,4.333305835723877
+Exathlon_10_4_1000000_79,"['TranAD', 'Donut', 'USAD', 'OmniAnomaly', 'LOF', 'KMeansAD', 'LSTMAD', 'PCA', 'AutoEncoder', 'CNN', 'TimesNet', 'OFA', 'KNN', 'FITS', 'IForest', 'ALLM4TS', 'RobustPCA', 'OCSVM', 'AnomalyTransformer', 'EIF', 'CBLOF', 'COPOD', 'HBOS', 'MCD']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'CBLOF' 'KNN' 'PCA' 'OmniAnomaly' 'COPOD'
+ 'AutoEncoder' 'RobustPCA' 'AnomalyTransformer' 'TimesNet' 'OCSVM'
+ 'TranAD' 'USAD' 'LSTMAD' 'CNN' 'ALLM4TS' 'LOF' 'OFA' 'IForest' 'FITS'
+ 'Donut']",-0.4356521739130434,4.037811040878296
+Exathlon_1_2_100000_68,"['MCD', 'AutoEncoder', 'RobustPCA', 'ALLM4TS', 'KMeansAD', 'OFA', 'HBOS', 'AnomalyTransformer', 'LOF', 'LSTMAD', 'CNN', 'FITS', 'Donut', 'TimesNet', 'OmniAnomaly', 'PCA', 'TranAD', 'COPOD', 'OCSVM', 'CBLOF', 'USAD', 'IForest', 'EIF', 'KNN']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'PCA' 'OmniAnomaly' 'KNN' 'RobustPCA'
+ 'TranAD' 'AnomalyTransformer' 'USAD' 'CBLOF' 'TimesNet' 'LSTMAD' 'LOF'
+ 'COPOD' 'AutoEncoder' 'OCSVM' 'CNN' 'OFA' 'IForest' 'Donut' 'ALLM4TS'
+ 'FITS']",-0.04,2.5234181880950928
+Exathlon_1_4_1000000_80,"['AutoEncoder', 'Donut', 'USAD', 'TranAD', 'PCA', 'OmniAnomaly', 'LSTMAD', 'CNN', 'OFA', 'KNN', 'ALLM4TS', 'CBLOF', 'EIF', 'KMeansAD', 'TimesNet', 'HBOS', 'MCD', 'COPOD', 'LOF', 'RobustPCA', 'IForest', 'FITS', 'AnomalyTransformer', 'OCSVM']","['EIF' 'HBOS' 'MCD' 'CBLOF' 'KMeansAD' 'AutoEncoder' 'KNN' 'RobustPCA'
+ 'AnomalyTransformer' 'COPOD' 'PCA' 'ALLM4TS' 'OCSVM' 'OmniAnomaly'
+ 'TimesNet' 'LOF' 'CNN' 'TranAD' 'LSTMAD' 'USAD' 'Donut' 'FITS' 'OFA'
+ 'IForest']",-0.1417391304347826,4.211966276168823
+Exathlon_1_5_1000000_86,"['IForest', 'KMeansAD', 'USAD', 'COPOD', 'CNN', 'TranAD', 'PCA', 'OmniAnomaly', 'LSTMAD', 'EIF', 'HBOS', 'Donut', 'FITS', 'TimesNet', 'MCD', 'OFA', 'OCSVM', 'AutoEncoder', 'CBLOF', 'KNN', 'LOF', 'AnomalyTransformer', 'ALLM4TS', 'RobustPCA']","['Donut' 'OFA' 'IForest' 'FITS' 'CNN' 'LOF' 'LSTMAD' 'TranAD' 'USAD'
+ 'TimesNet' 'AnomalyTransformer' 'RobustPCA' 'PCA' 'OmniAnomaly' 'OCSVM'
+ 'ALLM4TS' 'KNN' 'KMeansAD' 'COPOD' 'AutoEncoder' 'EIF' 'CBLOF' 'HBOS'
+ 'MCD']",0.16260869565217392,2.520031452178955
+Exathlon_2_1_100000_60,"['IForest', 'LSTMAD', 'CNN', 'KMeansAD', 'PCA', 'OmniAnomaly', 'EIF', 'TranAD', 'COPOD', 'CBLOF', 'HBOS', 'KNN', 'USAD', 'OFA', 'FITS', 'TimesNet', 'Donut', 'ALLM4TS', 'RobustPCA', 'AnomalyTransformer', 'LOF', 'MCD', 'AutoEncoder', 'OCSVM']","['IForest' 'LSTMAD' 'COPOD' 'ALLM4TS' 'OCSVM' 'Donut' 'KMeansAD' 'CNN'
+ 'TranAD' 'KNN' 'LOF' 'RobustPCA' 'OFA' 'AutoEncoder' 'FITS' 'CBLOF'
+ 'AnomalyTransformer' 'TimesNet' 'EIF' 'USAD' 'HBOS' 'OmniAnomaly' 'PCA'
+ 'MCD']",0.1695652173913043,4.577622890472412
+Exathlon_2_2_200000_69,"['PCA', 'OmniAnomaly', 'MCD', 'OFA', 'ALLM4TS', 'AutoEncoder', 'OCSVM', 'KMeansAD', 'CNN', 'Donut', 'LSTMAD', 'FITS', 'TimesNet', 'TranAD', 'IForest', 'HBOS', 'EIF', 'USAD', 'COPOD', 'LOF', 'CBLOF', 'KNN', 'AnomalyTransformer', 'RobustPCA']","['MCD' 'Donut' 'LOF' 'FITS' 'AnomalyTransformer' 'PCA' 'RobustPCA' 'HBOS'
+ 'CNN' 'OmniAnomaly' 'USAD' 'KMeansAD' 'TimesNet' 'TranAD' 'KNN' 'IForest'
+ 'EIF' 'CBLOF' 'COPOD' 'LSTMAD' 'OFA' 'ALLM4TS' 'OCSVM' 'AutoEncoder']",-0.10869565217391304,2.4865405559539795
+Exathlon_2_5_1000000_87,"['FITS', 'Donut', 'OmniAnomaly', 'PCA', 'OFA', 'LSTMAD', 'TranAD', 'OCSVM', 'USAD', 'AutoEncoder', 'CBLOF', 'EIF', 'KMeansAD', 'CNN', 'TimesNet', 'MCD', 'HBOS', 'IForest', 'KNN', 'RobustPCA', 'COPOD', 'AnomalyTransformer', 'ALLM4TS', 'LOF']","['IForest' 'Donut' 'FITS' 'ALLM4TS' 'OFA' 'OCSVM' 'CNN' 'COPOD' 'LSTMAD'
+ 'LOF' 'RobustPCA' 'AnomalyTransformer' 'TimesNet' 'TranAD' 'CBLOF' 'USAD'
+ 'KNN' 'OmniAnomaly' 'AutoEncoder' 'PCA' 'KMeansAD' 'HBOS' 'EIF' 'MCD']",0.034782608695652174,4.231316804885864
+Exathlon_2_5_1000000_88,"['IForest', 'KMeansAD', 'CNN', 'LSTMAD', 'KNN', 'USAD', 'CBLOF', 'TimesNet', 'PCA', 'ALLM4TS', 'OmniAnomaly', 'EIF', 'FITS', 'RobustPCA', 'TranAD', 'LOF', 'Donut', 'OFA', 'MCD', 'OCSVM', 'HBOS', 'COPOD', 'AnomalyTransformer', 'AutoEncoder']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'KNN' 'CBLOF' 'PCA' 'RobustPCA'
+ 'OmniAnomaly' 'COPOD' 'AnomalyTransformer' 'TranAD' 'AutoEncoder'
+ 'TimesNet' 'USAD' 'LSTMAD' 'OCSVM' 'CNN' 'LOF' 'ALLM4TS' 'IForest' 'OFA'
+ 'FITS' 'Donut']",-0.03217391304347826,2.522629976272583
+Exathlon_3_2_500000_70,"['OCSVM', 'AutoEncoder', 'HBOS', 'IForest', 'MCD', 'EIF', 'PCA', 'Donut', 'LSTMAD', 'OmniAnomaly', 'KMeansAD', 'TranAD', 'COPOD', 'KNN', 'CBLOF', 'CNN', 'OFA', 'USAD', 'TimesNet', 'LOF', 'RobustPCA', 'FITS', 'ALLM4TS', 'AnomalyTransformer']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'RobustPCA' 'AnomalyTransformer' 'CBLOF'
+ 'KNN' 'PCA' 'COPOD' 'LOF' 'OmniAnomaly' 'TranAD' 'CNN' 'TimesNet' 'USAD'
+ 'LSTMAD' 'Donut' 'FITS' 'OCSVM' 'ALLM4TS' 'IForest' 'AutoEncoder' 'OFA']",0.02869565217391304,2.5265235900878906
+Exathlon_3_4_1000000_81,"['PCA', 'MCD', 'IForest', 'OmniAnomaly', 'LOF', 'OFA', 'KNN', 'USAD', 'KMeansAD', 'AutoEncoder', 'EIF', 'OCSVM', 'CNN', 'HBOS', 'COPOD', 'CBLOF', 'LSTMAD', 'TranAD', 'TimesNet', 'Donut', 'FITS', 'RobustPCA', 'ALLM4TS', 'AnomalyTransformer']","['Donut' 'LOF' 'OFA' 'FITS' 'CNN' 'TranAD' 'LSTMAD' 'IForest' 'USAD'
+ 'TimesNet' 'AnomalyTransformer' 'PCA' 'RobustPCA' 'OmniAnomaly'
+ 'KMeansAD' 'KNN' 'OCSVM' 'EIF' 'ALLM4TS' 'COPOD' 'CBLOF' 'AutoEncoder'
+ 'HBOS' 'MCD']",-0.09565217391304347,2.6012940406799316
+Exathlon_3_5_1000000_89,"['TimesNet', 'OFA', 'FITS', 'Donut', 'LSTMAD', 'PCA', 'OmniAnomaly', 'TranAD', 'OCSVM', 'CNN', 'AutoEncoder', 'MCD', 'USAD', 'LOF', 'KMeansAD', 'COPOD', 'AnomalyTransformer', 'ALLM4TS', 'CBLOF', 'HBOS', 'EIF', 'RobustPCA', 'IForest', 'KNN']","['HBOS' 'EIF' 'MCD' 'KMeansAD' 'CBLOF' 'COPOD' 'KNN' 'RobustPCA'
+ 'OmniAnomaly' 'AnomalyTransformer' 'OCSVM' 'PCA' 'TimesNet' 'TranAD'
+ 'LSTMAD' 'ALLM4TS' 'USAD' 'CNN' 'IForest' 'LOF' 'AutoEncoder' 'FITS'
+ 'OFA' 'Donut']",-0.528695652173913,2.671358823776245
+Exathlon_4_1_100000_61,"['AutoEncoder', 'ALLM4TS', 'RobustPCA', 'KMeansAD', 'OFA', 'FITS', 'Donut', 'TimesNet', 'LOF', 'EIF', 'TranAD', 'LSTMAD', 'KNN', 'OmniAnomaly', 'PCA', 'CNN', 'USAD', 'IForest', 'MCD', 'AnomalyTransformer', 'OCSVM', 'CBLOF', 'HBOS', 'COPOD']","['EIF' 'RobustPCA' 'AnomalyTransformer' 'HBOS' 'MCD' 'TranAD'
+ 'AutoEncoder' 'LSTMAD' 'PCA' 'CNN' 'KNN' 'TimesNet' 'USAD' 'LOF'
+ 'KMeansAD' 'OCSVM' 'OmniAnomaly' 'COPOD' 'OFA' 'Donut' 'FITS' 'CBLOF'
+ 'IForest' 'ALLM4TS']",-0.05565217391304347,6.551281690597534
+Exathlon_4_5_1000000_90,"['PCA', 'OmniAnomaly', 'IForest', 'CNN', 'KMeansAD', 'LSTMAD', 'TranAD', 'CBLOF', 'Donut', 'USAD', 'KNN', 'EIF', 'HBOS', 'AnomalyTransformer', 'TimesNet', 'COPOD', 'FITS', 'OFA', 'LOF', 'MCD', 'OCSVM', 'AutoEncoder', 'ALLM4TS', 'RobustPCA']","['AutoEncoder' 'EIF' 'MCD' 'AnomalyTransformer' 'RobustPCA' 'HBOS' 'PCA'
+ 'LOF' 'KNN' 'TimesNet' 'ALLM4TS' 'KMeansAD' 'Donut' 'OCSVM' 'FITS'
+ 'TranAD' 'USAD' 'OmniAnomaly' 'CBLOF' 'LSTMAD' 'COPOD' 'CNN' 'OFA'
+ 'IForest']",-0.437391304347826,2.565276622772217
+Exathlon_5_1_100000_63,"['RobustPCA', 'MCD', 'AutoEncoder', 'ALLM4TS', 'OmniAnomaly', 'PCA', 'LSTMAD', 'TranAD', 'CNN', 'Donut', 'OCSVM', 'USAD', 'KMeansAD', 'EIF', 'OFA', 'FITS', 'LOF', 'TimesNet', 'HBOS', 'COPOD', 'AnomalyTransformer', 'KNN', 'CBLOF', 'IForest']","['HBOS' 'EIF' 'MCD' 'KMeansAD' 'CBLOF' 'KNN' 'COPOD' 'RobustPCA'
+ 'AutoEncoder' 'OCSVM' 'PCA' 'OmniAnomaly' 'AnomalyTransformer' 'TimesNet'
+ 'ALLM4TS' 'LOF' 'TranAD' 'USAD' 'LSTMAD' 'CNN' 'IForest' 'OFA' 'FITS'
+ 'Donut']",-0.02,4.169887065887451
+Exathlon_5_1_100000_64,"['OFA', 'Donut', 'OmniAnomaly', 'PCA', 'USAD', 'CNN', 'LSTMAD', 'TranAD', 'TimesNet', 'ALLM4TS', 'FITS', 'RobustPCA', 'KMeansAD', 'CBLOF', 'KNN', 'EIF', 'LOF', 'OCSVM', 'MCD', 'HBOS', 'COPOD', 'AnomalyTransformer', 'IForest', 'AutoEncoder']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'KNN' 'CBLOF' 'PCA' 'OmniAnomaly' 'COPOD'
+ 'AutoEncoder' 'RobustPCA' 'OCSVM' 'AnomalyTransformer' 'TimesNet' 'USAD'
+ 'LOF' 'TranAD' 'LSTMAD' 'ALLM4TS' 'CNN' 'OFA' 'FITS' 'IForest' 'Donut']",-0.37043478260869556,4.370082378387451
+Exathlon_5_1_500000_62,"['AutoEncoder', 'Donut', 'TranAD', 'CNN', 'OmniAnomaly', 'PCA', 'LSTMAD', 'USAD', 'RobustPCA', 'OFA', 'ALLM4TS', 'KMeansAD', 'MCD', 'OCSVM', 'TimesNet', 'FITS', 'LOF', 'AnomalyTransformer', 'CBLOF', 'KNN', 'COPOD', 'EIF', 'HBOS', 'IForest']","['Donut' 'ALLM4TS' 'FITS' 'CNN' 'IForest' 'OFA' 'LSTMAD' 'LOF'
+ 'AnomalyTransformer' 'TranAD' 'OCSVM' 'RobustPCA' 'TimesNet'
+ 'AutoEncoder' 'COPOD' 'USAD' 'CBLOF' 'KNN' 'PCA' 'OmniAnomaly' 'EIF'
+ 'KMeansAD' 'HBOS' 'MCD']",0.23739130434782607,4.543538808822632
+Exathlon_5_2_1000000_72,"['OCSVM', 'AutoEncoder', 'OFA', 'ALLM4TS', 'MCD', 'RobustPCA', 'IForest', 'KMeansAD', 'COPOD', 'OmniAnomaly', 'Donut', 'PCA', 'FITS', 'LSTMAD', 'CNN', 'TimesNet', 'TranAD', 'EIF', 'USAD', 'KNN', 'HBOS', 'CBLOF', 'AnomalyTransformer', 'LOF']","['EIF' 'HBOS' 'KMeansAD' 'MCD' 'KNN' 'OmniAnomaly' 'PCA' 'CBLOF'
+ 'RobustPCA' 'AnomalyTransformer' 'TranAD' 'USAD' 'COPOD' 'TimesNet'
+ 'LSTMAD' 'LOF' 'CNN' 'OCSVM' 'AutoEncoder' 'IForest' 'OFA' 'ALLM4TS'
+ 'Donut' 'FITS']",-0.3695652173913043,2.4692485332489014
+Exathlon_5_4_1000000_82,"['Donut', 'USAD', 'TranAD', 'PCA', 'OmniAnomaly', 'LSTMAD', 'CNN', 'TimesNet', 'OCSVM', 'MCD', 'AutoEncoder', 'LOF', 'FITS', 'OFA', 'ALLM4TS', 'KMeansAD', 'AnomalyTransformer', 'COPOD', 'EIF', 'IForest', 'CBLOF', 'HBOS', 'RobustPCA', 'KNN']","['EIF' 'HBOS' 'KMeansAD' 'MCD' 'KNN' 'CBLOF' 'OmniAnomaly' 'PCA'
+ 'RobustPCA' 'COPOD' 'AnomalyTransformer' 'TimesNet' 'TranAD' 'USAD'
+ 'LSTMAD' 'OCSVM' 'LOF' 'AutoEncoder' 'CNN' 'OFA' 'IForest' 'ALLM4TS'
+ 'Donut' 'FITS']",-0.3608695652173913,2.5490574836730957
+Exathlon_5_5_1000000_91,"['OCSVM', 'MCD', 'KMeansAD', 'TranAD', 'CBLOF', 'CNN', 'LSTMAD', 'OmniAnomaly', 'PCA', 'FITS', 'TimesNet', 'KNN', 'EIF', 'HBOS', 'OFA', 'IForest', 'USAD', 'COPOD', 'AnomalyTransformer', 'LOF', 'AutoEncoder', 'ALLM4TS', 'RobustPCA', 'Donut']","['Donut' 'FITS' 'ALLM4TS' 'IForest' 'LOF' 'OFA' 'OCSVM'
+ 'AnomalyTransformer' 'COPOD' 'AutoEncoder' 'RobustPCA' 'CNN' 'TimesNet'
+ 'LSTMAD' 'USAD' 'TranAD' 'CBLOF' 'PCA' 'KNN' 'OmniAnomaly' 'KMeansAD'
+ 'MCD' 'HBOS' 'EIF']",-0.5165217391304348,4.0844128131866455
+Exathlon_6_1_500000_65,"['KMeansAD', 'MCD', 'OFA', 'OmniAnomaly', 'PCA', 'TimesNet', 'Donut', 'CNN', 'LSTMAD', 'FITS', 'OCSVM', 'EIF', 'AutoEncoder', 'TranAD', 'USAD', 'KNN', 'CBLOF', 'LOF', 'RobustPCA', 'HBOS', 'IForest', 'COPOD', 'AnomalyTransformer', 'ALLM4TS']","['IForest' 'LSTMAD' 'Donut' 'EIF' 'CNN' 'OFA' 'TranAD' 'TimesNet'
+ 'RobustPCA' 'FITS' 'AnomalyTransformer' 'LOF' 'KMeansAD' 'COPOD' 'KNN'
+ 'OCSVM' 'USAD' 'OmniAnomaly' 'ALLM4TS' 'PCA' 'CBLOF' 'AutoEncoder' 'HBOS'
+ 'MCD']",0.0634782608695652,4.465389013290405
+Exathlon_6_3_200000_76,"['Donut', 'USAD', 'TranAD', 'OmniAnomaly', 'PCA', 'LSTMAD', 'CNN', 'CBLOF', 'MCD', 'EIF', 'AutoEncoder', 'COPOD', 'IForest', 'OCSVM', 'RobustPCA', 'ALLM4TS', 'HBOS', 'AnomalyTransformer', 'KMeansAD', 'LOF', 'KNN', 'TimesNet', 'FITS', 'OFA']","['IForest' 'LSTMAD' 'Donut' 'OFA' 'TranAD' 'LOF' 'FITS' 'CNN' 'USAD'
+ 'TimesNet' 'OCSVM' 'RobustPCA' 'COPOD' 'KMeansAD' 'AnomalyTransformer'
+ 'ALLM4TS' 'OmniAnomaly' 'KNN' 'PCA' 'CBLOF' 'EIF' 'AutoEncoder' 'HBOS'
+ 'MCD']",0.005217391304347826,4.239793300628662
+Exathlon_8_3_200000_73,"['Donut', 'USAD', 'OmniAnomaly', 'PCA', 'TranAD', 'CNN', 'OFA', 'LSTMAD', 'RobustPCA', 'ALLM4TS', 'FITS', 'TimesNet', 'AutoEncoder', 'AnomalyTransformer', 'OCSVM', 'HBOS', 'LOF', 'KMeansAD', 'CBLOF', 'COPOD', 'EIF', 'KNN', 'IForest', 'MCD']","['IForest' 'LSTMAD' 'OFA' 'TranAD' 'Donut' 'CNN' 'LOF' 'USAD' 'FITS'
+ 'TimesNet' 'KMeansAD' 'COPOD' 'RobustPCA' 'OCSVM' 'AnomalyTransformer'
+ 'KNN' 'OmniAnomaly' 'ALLM4TS' 'CBLOF' 'PCA' 'EIF' 'HBOS' 'AutoEncoder'
+ 'MCD']",0.3408695652173913,4.236229181289673
+Exathlon_8_4_1000000_77,"['EIF', 'CNN', 'LSTMAD', 'TranAD', 'Donut', 'AutoEncoder', 'KMeansAD', 'OCSVM', 'ALLM4TS', 'USAD', 'LOF', 'OmniAnomaly', 'OFA', 'KNN', 'MCD', 'PCA', 'TimesNet', 'RobustPCA', 'FITS', 'AnomalyTransformer', 'CBLOF', 'HBOS', 'IForest', 'COPOD']","['EIF' 'HBOS' 'KMeansAD' 'MCD' 'CBLOF' 'KNN' 'COPOD' 'OmniAnomaly'
+ 'RobustPCA' 'PCA' 'OCSVM' 'TimesNet' 'AnomalyTransformer' 'LSTMAD'
+ 'TranAD' 'USAD' 'LOF' 'ALLM4TS' 'AutoEncoder' 'CNN' 'IForest' 'OFA'
+ 'FITS' 'Donut']",-0.17913043478260868,4.21973443031311
+Exathlon_8_5_1000000_83,"['OFA', 'OmniAnomaly', 'PCA', 'AutoEncoder', 'FITS', 'KMeansAD', 'Donut', 'TimesNet', 'LSTMAD', 'CNN', 'IForest', 'TranAD', 'USAD', 'KNN', 'OCSVM', 'EIF', 'CBLOF', 'MCD', 'COPOD', 'HBOS', 'LOF', 'AnomalyTransformer', 'RobustPCA', 'ALLM4TS']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'CBLOF' 'KNN' 'AutoEncoder' 'PCA'
+ 'OmniAnomaly' 'COPOD' 'RobustPCA' 'AnomalyTransformer' 'OCSVM' 'TimesNet'
+ 'LOF' 'ALLM4TS' 'USAD' 'TranAD' 'LSTMAD' 'CNN' 'FITS' 'OFA' 'Donut'
+ 'IForest']",-0.2643478260869565,2.600288152694702
+Exathlon_9_2_1000000_66,"['MCD', 'OCSVM', 'ALLM4TS', 'Donut', 'RobustPCA', 'OFA', 'AutoEncoder', 'KMeansAD', 'PCA', 'CNN', 'OmniAnomaly', 'FITS', 'LSTMAD', 'TimesNet', 'LOF', 'TranAD', 'IForest', 'USAD', 'AnomalyTransformer', 'COPOD', 'EIF', 'CBLOF', 'HBOS', 'KNN']","['MCD' 'HBOS' 'EIF' 'COPOD' 'CBLOF' 'ALLM4TS' 'AutoEncoder'
+ 'AnomalyTransformer' 'RobustPCA' 'KNN' 'OCSVM' 'KMeansAD' 'CNN' 'FITS'
+ 'LOF' 'TimesNet' 'Donut' 'PCA' 'TranAD' 'USAD' 'OmniAnomaly' 'LSTMAD'
+ 'OFA' 'IForest']",-0.10782608695652172,2.691859006881714
+Exathlon_9_3_500000_74,"['Donut', 'USAD', 'TranAD', 'CNN', 'LSTMAD', 'PCA', 'OmniAnomaly', 'ALLM4TS', 'IForest', 'AnomalyTransformer', 'AutoEncoder', 'OFA', 'TimesNet', 'HBOS', 'OCSVM', 'COPOD', 'LOF', 'EIF', 'FITS', 'MCD', 'KNN', 'CBLOF', 'KMeansAD', 'RobustPCA']","['IForest' 'Donut' 'LSTMAD' 'ALLM4TS' 'OFA' 'LOF' 'OCSVM' 'CNN' 'FITS'
+ 'KMeansAD' 'COPOD' 'TranAD' 'TimesNet' 'RobustPCA' 'KNN'
+ 'AnomalyTransformer' 'USAD' 'CBLOF' 'AutoEncoder' 'OmniAnomaly' 'PCA'
+ 'EIF' 'HBOS' 'MCD']",0.26347826086956516,4.403462886810303
+Exathlon_9_4_1000000_78,"['AutoEncoder', 'CNN', 'LSTMAD', 'Donut', 'OmniAnomaly', 'PCA', 'OFA', 'TimesNet', 'FITS', 'TranAD', 'USAD', 'MCD', 'KMeansAD', 'COPOD', 'IForest', 'AnomalyTransformer', 'OCSVM', 'CBLOF', 'EIF', 'RobustPCA', 'ALLM4TS', 'HBOS', 'KNN', 'LOF']","['IForest' 'LSTMAD' 'OFA' 'OCSVM' 'COPOD' 'ALLM4TS' 'CBLOF' 'TimesNet'
+ 'KNN' 'KMeansAD' 'OmniAnomaly' 'TranAD' 'HBOS' 'Donut' 'RobustPCA' 'EIF'
+ 'LOF' 'USAD' 'AnomalyTransformer' 'CNN' 'FITS' 'PCA' 'AutoEncoder' 'MCD']",-0.18608695652173912,4.178425550460815
+Exathlon_9_5_1000000_84,"['IForest', 'KMeansAD', 'CBLOF', 'OmniAnomaly', 'PCA', 'KNN', 'USAD', 'LSTMAD', 'CNN', 'EIF', 'TranAD', 'AutoEncoder', 'MCD', 'OCSVM', 'HBOS', 'LOF', 'TimesNet', 'OFA', 'FITS', 'Donut', 'COPOD', 'RobustPCA', 'AnomalyTransformer', 'ALLM4TS']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'KNN' 'CBLOF' 'AutoEncoder' 'PCA'
+ 'OmniAnomaly' 'RobustPCA' 'COPOD' 'AnomalyTransformer' 'OCSVM' 'TranAD'
+ 'TimesNet' 'USAD' 'LSTMAD' 'ALLM4TS' 'LOF' 'CNN' 'IForest' 'OFA' 'FITS'
+ 'Donut']",0.3139130434782608,2.6250295639038086
+GECCO_water_quality,"['LSTMAD', 'OFA', 'TimesNet', 'TranAD', 'USAD', 'CNN', 'FITS', 'KNN', 'OmniAnomaly', 'PCA', 'LOF', 'Donut', 'CBLOF', 'COPOD', 'EIF', 'KMeansAD', 'IForest', 'AutoEncoder', 'HBOS', 'OCSVM', 'MCD', 'ALLM4TS', 'AnomalyTransformer', 'RobustPCA']","['AutoEncoder' 'ALLM4TS' 'FITS' 'Donut' 'OCSVM' 'COPOD' 'OFA' 'IForest'
+ 'CNN' 'TimesNet' 'LOF' 'LSTMAD' 'CBLOF' 'KNN' 'TranAD' 'USAD' 'RobustPCA'
+ 'AnomalyTransformer' 'PCA' 'OmniAnomaly' 'HBOS' 'KMeansAD' 'EIF' 'MCD']",0.12608695652173912,5.5752434730529785
+GHL_17_Lev_fault_Temp_corr_seed_57_vars_23,"['OCSVM', 'MCD', 'AutoEncoder', 'CBLOF', 'USAD', 'ALLM4TS', 'OFA', 'EIF', 'OmniAnomaly', 'PCA', 'CNN', 'HBOS', 'TranAD', 'LSTMAD', 'COPOD', 'IForest', 'KMeansAD', 'TimesNet', 'AnomalyTransformer', 'LOF', 'KNN', 'FITS', 'Donut', 'RobustPCA']","['MCD' 'HBOS' 'KMeansAD' 'EIF' 'KNN' 'CBLOF' 'COPOD' 'PCA' 'RobustPCA'
+ 'OCSVM' 'OmniAnomaly' 'AutoEncoder' 'LOF' 'AnomalyTransformer' 'TimesNet'
+ 'USAD' 'TranAD' 'ALLM4TS' 'CNN' 'LSTMAD' 'FITS' 'Donut' 'OFA' 'IForest']",0.20956521739130432,6.136383771896362
+GHL_18_Lev_fault_Temp_corr_seed_59_vars_23,"['MCD', 'OCSVM', 'AutoEncoder', 'EIF', 'ALLM4TS', 'OFA', 'OmniAnomaly', 'PCA', 'CNN', 'CBLOF', 'TranAD', 'AnomalyTransformer', 'KMeansAD', 'USAD', 'COPOD', 'HBOS', 'LSTMAD', 'TimesNet', 'IForest', 'LOF', 'KNN', 'FITS', 'Donut', 'RobustPCA']","['MCD' 'HBOS' 'EIF' 'KMeansAD' 'AutoEncoder' 'KNN' 'CBLOF' 'OCSVM' 'COPOD'
+ 'RobustPCA' 'PCA' 'AnomalyTransformer' 'LOF' 'ALLM4TS' 'OmniAnomaly'
+ 'TimesNet' 'USAD' 'TranAD' 'LSTMAD' 'CNN' 'FITS' 'Donut' 'OFA' 'IForest']",0.3521739130434782,6.2497923374176025
+GHL_19_Lev_fault_Temp_corr_seed_62_vars_23,"['OCSVM', 'OFA', 'EIF', 'COPOD', 'MCD', 'CNN', 'PCA', 'OmniAnomaly', 'LSTMAD', 'USAD', 'HBOS', 'ALLM4TS', 'AutoEncoder', 'KMeansAD', 'IForest', 'TranAD', 'TimesNet', 'AnomalyTransformer', 'CBLOF', 'LOF', 'KNN', 'Donut', 'FITS', 'RobustPCA']","['KMeansAD' 'LOF' 'Donut' 'FITS' 'LSTMAD' 'TranAD' 'OFA' 'TimesNet'
+ 'OCSVM' 'CNN' 'IForest' 'KNN' 'USAD' 'PCA' 'RobustPCA'
+ 'AnomalyTransformer' 'COPOD' 'ALLM4TS' 'OmniAnomaly' 'CBLOF' 'EIF'
+ 'AutoEncoder' 'HBOS' 'MCD']",-0.3017391304347826,6.1720359325408936
+GHL_20_Lev_fault_Temp_corr_seed_67_vars_23,"['MCD', 'AutoEncoder', 'OCSVM', 'USAD', 'ALLM4TS', 'OFA', 'OmniAnomaly', 'PCA', 'LSTMAD', 'EIF', 'COPOD', 'TranAD', 'CBLOF', 'KMeansAD', 'AnomalyTransformer', 'TimesNet', 'HBOS', 'CNN', 'FITS', 'IForest', 'LOF', 'KNN', 'Donut', 'RobustPCA']","['LOF' 'FITS' 'KMeansAD' 'Donut' 'OCSVM' 'IForest' 'CNN' 'OFA' 'TranAD'
+ 'LSTMAD' 'ALLM4TS' 'USAD' 'TimesNet' 'COPOD' 'KNN' 'RobustPCA'
+ 'AnomalyTransformer' 'PCA' 'CBLOF' 'AutoEncoder' 'OmniAnomaly' 'HBOS'
+ 'EIF' 'MCD']",-0.3565217391304348,6.2616868019104
+GHL_21_Lev_fault_Temp_corr_seed_73_vars_23,"['OCSVM', 'MCD', 'ALLM4TS', 'AutoEncoder', 'OFA', 'EIF', 'KMeansAD', 'OmniAnomaly', 'PCA', 'CBLOF', 'HBOS', 'COPOD', 'TranAD', 'FITS', 'USAD', 'CNN', 'IForest', 'AnomalyTransformer', 'LSTMAD', 'TimesNet', 'LOF', 'KNN', 'RobustPCA', 'Donut']","['MCD' 'HBOS' 'KMeansAD' 'EIF' 'KNN' 'CBLOF' 'COPOD' 'PCA' 'RobustPCA'
+ 'AutoEncoder' 'OCSVM' 'OmniAnomaly' 'AnomalyTransformer' 'LOF' 'TimesNet'
+ 'TranAD' 'USAD' 'ALLM4TS' 'LSTMAD' 'CNN' 'FITS' 'OFA' 'Donut' 'IForest']",0.33826086956521734,6.174621105194092
+GHL_22_Lev_fault_Temp_corr_seed_777_vars_23,"['OCSVM', 'MCD', 'EIF', 'AutoEncoder', 'CBLOF', 'OFA', 'OmniAnomaly', 'PCA', 'CNN', 'TranAD', 'USAD', 'HBOS', 'COPOD', 'ALLM4TS', 'AnomalyTransformer', 'LSTMAD', 'IForest', 'KMeansAD', 'TimesNet', 'LOF', 'Donut', 'FITS', 'KNN', 'RobustPCA']","['LOF' 'KMeansAD' 'Donut' 'OFA' 'FITS' 'LSTMAD' 'TranAD' 'OCSVM' 'IForest'
+ 'TimesNet' 'CNN' 'USAD' 'ALLM4TS' 'AnomalyTransformer' 'KNN' 'RobustPCA'
+ 'PCA' 'AutoEncoder' 'COPOD' 'OmniAnomaly' 'CBLOF' 'EIF' 'HBOS' 'MCD']",-0.46782608695652167,6.490607500076294
+GHL_24_Lev_fault_Temp_corr_seed_83_vars_23,"['MCD', 'OCSVM', 'OFA', 'ALLM4TS', 'AutoEncoder', 'COPOD', 'IForest', 'EIF', 'OmniAnomaly', 'PCA', 'HBOS', 'TranAD', 'USAD', 'AnomalyTransformer', 'TimesNet', 'KMeansAD', 'CNN', 'LOF', 'FITS', 'KNN', 'CBLOF', 'LSTMAD', 'RobustPCA', 'Donut']","['KMeansAD' 'MCD' 'HBOS' 'EIF' 'KNN' 'PCA' 'CBLOF' 'LOF' 'OmniAnomaly'
+ 'RobustPCA' 'AutoEncoder' 'COPOD' 'OCSVM' 'AnomalyTransformer' 'TimesNet'
+ 'USAD' 'TranAD' 'LSTMAD' 'ALLM4TS' 'CNN' 'FITS' 'OFA' 'Donut' 'IForest']",0.06782608695652173,6.199467420578003
+GHL_41_Lev_corr_Temp_fault_seed_181_vars_23,"['KMeansAD', 'EIF', 'CBLOF', 'ALLM4TS', 'RobustPCA', 'Donut', 'CNN', 'OCSVM', 'AnomalyTransformer', 'COPOD', 'HBOS', 'LOF', 'LSTMAD', 'IForest', 'AutoEncoder', 'MCD', 'USAD', 'PCA', 'OmniAnomaly', 'KNN', 'TranAD', 'TimesNet', 'FITS', 'OFA']","['LOF' 'KMeansAD' 'Donut' 'TranAD' 'FITS' 'OCSVM' 'OFA' 'LSTMAD' 'CNN'
+ 'USAD' 'TimesNet' 'ALLM4TS' 'IForest' 'AnomalyTransformer' 'RobustPCA'
+ 'KNN' 'PCA' 'AutoEncoder' 'COPOD' 'OmniAnomaly' 'CBLOF' 'EIF' 'HBOS'
+ 'MCD']",-0.07217391304347825,8.093323707580566
+GHL_43_Lev_corr_Temp_fault_seed_189_vars_23,"['KMeansAD', 'LSTMAD', 'AnomalyTransformer', 'TranAD', 'CNN', 'USAD', 'ALLM4TS', 'CBLOF', 'PCA', 'OmniAnomaly', 'RobustPCA', 'EIF', 'IForest', 'OCSVM', 'HBOS', 'Donut', 'AutoEncoder', 'COPOD', 'LOF', 'OFA', 'TimesNet', 'KNN', 'FITS', 'MCD']","['MCD' 'HBOS' 'EIF' 'KMeansAD' 'AutoEncoder' 'KNN' 'CBLOF' 'OCSVM' 'COPOD'
+ 'RobustPCA' 'PCA' 'AnomalyTransformer' 'LOF' 'ALLM4TS' 'OmniAnomaly'
+ 'TimesNet' 'TranAD' 'USAD' 'LSTMAD' 'CNN' 'FITS' 'Donut' 'OFA' 'IForest']",-0.09739130434782609,5.922629356384277
+GHL_44_Lev_corr_Temp_fault_seed_190_vars_23,"['CNN', 'CBLOF', 'RobustPCA', 'KMeansAD', 'EIF', 'LSTMAD', 'ALLM4TS', 'HBOS', 'COPOD', 'IForest', 'OCSVM', 'PCA', 'OmniAnomaly', 'AnomalyTransformer', 'TranAD', 'LOF', 'USAD', 'Donut', 'MCD', 'AutoEncoder', 'KNN', 'OFA', 'TimesNet', 'FITS']","['MCD' 'HBOS' 'KMeansAD' 'EIF' 'KNN' 'AutoEncoder' 'CBLOF' 'PCA' 'COPOD'
+ 'OCSVM' 'RobustPCA' 'OmniAnomaly' 'LOF' 'AnomalyTransformer' 'TimesNet'
+ 'TranAD' 'ALLM4TS' 'USAD' 'LSTMAD' 'CNN' 'FITS' 'OFA' 'Donut' 'IForest']",0.19304347826086957,5.998654842376709
+GHL_45_Lev_corr_Temp_fault_seed_193_vars_23,"['OCSVM', 'ALLM4TS', 'AutoEncoder', 'CBLOF', 'EIF', 'KMeansAD', 'IForest', 'HBOS', 'LSTMAD', 'CNN', 'COPOD', 'USAD', 'MCD', 'TranAD', 'AnomalyTransformer', 'OmniAnomaly', 'PCA', 'LOF', 'RobustPCA', 'Donut', 'KNN', 'TimesNet', 'OFA', 'FITS']","['MCD' 'HBOS' 'KMeansAD' 'EIF' 'KNN' 'PCA' 'CBLOF' 'OmniAnomaly'
+ 'AutoEncoder' 'RobustPCA' 'COPOD' 'TranAD' 'OCSVM' 'LOF' 'USAD'
+ 'AnomalyTransformer' 'TimesNet' 'LSTMAD' 'CNN' 'ALLM4TS' 'FITS' 'IForest'
+ 'OFA' 'Donut']",0.2643478260869565,6.014185667037964
+GHL_46_Lev_corr_Temp_fault_seed_194_vars_23,"['CNN', 'EIF', 'KMeansAD', 'ALLM4TS', 'CBLOF', 'IForest', 'OCSVM', 'HBOS', 'Donut', 'COPOD', 'LSTMAD', 'AutoEncoder', 'RobustPCA', 'AnomalyTransformer', 'MCD', 'LOF', 'OmniAnomaly', 'PCA', 'TranAD', 'USAD', 'TimesNet', 'KNN', 'FITS', 'OFA']","['LOF' 'KMeansAD' 'OCSVM' 'Donut' 'ALLM4TS' 'FITS' 'AutoEncoder' 'OFA'
+ 'LSTMAD' 'TimesNet' 'AnomalyTransformer' 'TranAD' 'CNN' 'RobustPCA' 'KNN'
+ 'IForest' 'USAD' 'COPOD' 'PCA' 'CBLOF' 'EIF' 'OmniAnomaly' 'HBOS' 'MCD']",-0.002608695652173913,6.032727003097534
+GHL_47_Lev_corr_Temp_fault_seed_197_vars_23,"['KMeansAD', 'CNN', 'RobustPCA', 'LSTMAD', 'IForest', 'CBLOF', 'Donut', 'HBOS', 'EIF', 'AnomalyTransformer', 'OCSVM', 'COPOD', 'LOF', 'ALLM4TS', 'MCD', 'AutoEncoder', 'TranAD', 'TimesNet', 'FITS', 'OmniAnomaly', 'PCA', 'USAD', 'OFA', 'KNN']","['MCD' 'KMeansAD' 'HBOS' 'EIF' 'KNN' 'AutoEncoder' 'PCA' 'OmniAnomaly'
+ 'LOF' 'CBLOF' 'RobustPCA' 'OCSVM' 'AnomalyTransformer' 'COPOD' 'TimesNet'
+ 'TranAD' 'USAD' 'LSTMAD' 'ALLM4TS' 'CNN' 'FITS' 'OFA' 'Donut' 'IForest']",-0.02608695652173913,6.030210018157959
+GHL_48_Lev_corr_Temp_fault_seed_199_vars_23,"['ALLM4TS', 'Donut', 'OCSVM', 'EIF', 'IForest', 'CBLOF', 'HBOS', 'COPOD', 'AnomalyTransformer', 'CNN', 'KMeansAD', 'AutoEncoder', 'RobustPCA', 'LSTMAD', 'LOF', 'MCD', 'USAD', 'OmniAnomaly', 'PCA', 'TranAD', 'KNN', 'OFA', 'TimesNet', 'FITS']","['MCD' 'HBOS' 'KMeansAD' 'EIF' 'KNN' 'CBLOF' 'COPOD' 'PCA' 'RobustPCA'
+ 'OCSVM' 'OmniAnomaly' 'LOF' 'AutoEncoder' 'AnomalyTransformer' 'TimesNet'
+ 'TranAD' 'USAD' 'ALLM4TS' 'LSTMAD' 'CNN' 'FITS' 'IForest' 'Donut' 'OFA']",0.09652173913043478,6.093577146530151
+Genesis,"['KMeansAD', 'IForest', 'TranAD', 'HBOS', 'COPOD', 'OCSVM', 'LSTMAD', 'CBLOF', 'USAD', 'EIF', 'CNN', 'LOF', 'TimesNet', 'FITS', 'OFA', 'KNN', 'MCD', 'AutoEncoder', 'AnomalyTransformer', 'OmniAnomaly', 'PCA', 'Donut', 'RobustPCA', 'ALLM4TS']","['Donut' 'ALLM4TS' 'FITS' 'IForest' 'OFA' 'LOF' 'CNN' 'LSTMAD'
+ 'AnomalyTransformer' 'OCSVM' 'TranAD' 'AutoEncoder' 'TimesNet'
+ 'RobustPCA' 'USAD' 'COPOD' 'PCA' 'KNN' 'CBLOF' 'OmniAnomaly' 'KMeansAD'
+ 'EIF' 'HBOS' 'MCD']",-0.19652173913043475,2.822502613067627
+GutenTAG_0,"['KMeansAD', 'OmniAnomaly', 'PCA', 'ALLM4TS', 'OCSVM', 'KNN', 'AutoEncoder', 'EIF', 'CNN', 'USAD', 'LSTMAD', 'CBLOF', 'LOF', 'TranAD', 'COPOD', 'MCD', 'FITS', 'TimesNet', 'Donut', 'AnomalyTransformer', 'RobustPCA', 'HBOS', 'OFA', 'IForest']","['AutoEncoder' 'ALLM4TS' 'LSTMAD' 'AnomalyTransformer' 'IForest' 'Donut'
+ 'RobustPCA' 'TranAD' 'OCSVM' 'OFA' 'LOF' 'CNN' 'FITS' 'TimesNet' 'USAD'
+ 'EIF' 'KNN' 'COPOD' 'PCA' 'KMeansAD' 'OmniAnomaly' 'CBLOF' 'HBOS' 'MCD']",-0.18,3.187437057495117
+GutenTAG_10,"['OFA', 'KNN', 'OmniAnomaly', 'PCA', 'COPOD', 'MCD', 'USAD', 'TranAD', 'EIF', 'LOF', 'KMeansAD', 'FITS', 'HBOS', 'LSTMAD', 'CBLOF', 'IForest', 'Donut', 'ALLM4TS', 'AutoEncoder', 'CNN', 'RobustPCA', 'TimesNet', 'AnomalyTransformer', 'OCSVM']","['IForest' 'LSTMAD' 'Donut' 'AutoEncoder' 'TranAD' 'OFA' 'ALLM4TS'
+ 'AnomalyTransformer' 'CNN' 'FITS' 'RobustPCA' 'LOF' 'TimesNet' 'OCSVM'
+ 'USAD' 'COPOD' 'KNN' 'OmniAnomaly' 'PCA' 'KMeansAD' 'EIF' 'CBLOF' 'HBOS'
+ 'MCD']",-0.3643478260869565,2.958665132522583
+GutenTAG_11,"['AutoEncoder', 'LSTMAD', 'TranAD', 'CNN', 'PCA', 'OmniAnomaly', 'RobustPCA', 'ALLM4TS', 'USAD', 'Donut', 'OFA', 'FITS', 'LOF', 'TimesNet', 'IForest', 'AnomalyTransformer', 'OCSVM', 'EIF', 'MCD', 'HBOS', 'CBLOF', 'KNN', 'KMeansAD', 'COPOD']","['AutoEncoder' 'LSTMAD' 'IForest' 'OFA' 'TranAD' 'Donut'
+ 'AnomalyTransformer' 'ALLM4TS' 'RobustPCA' 'TimesNet' 'OCSVM' 'USAD'
+ 'CNN' 'FITS' 'LOF' 'OmniAnomaly' 'PCA' 'EIF' 'KNN' 'COPOD' 'KMeansAD'
+ 'CBLOF' 'HBOS' 'MCD']",0.6713043478260868,2.959055185317993
+GutenTAG_12,"['KMeansAD', 'OFA', 'PCA', 'OmniAnomaly', 'TranAD', 'KNN', 'EIF', 'CNN', 'FITS', 'LSTMAD', 'AutoEncoder', 'ALLM4TS', 'TimesNet', 'USAD', 'CBLOF', 'LOF', 'IForest', 'OCSVM', 'Donut', 'AnomalyTransformer', 'HBOS', 'MCD', 'RobustPCA', 'COPOD']","['IForest' 'AutoEncoder' 'ALLM4TS' 'LSTMAD' 'Donut' 'AnomalyTransformer'
+ 'TranAD' 'OCSVM' 'OFA' 'RobustPCA' 'CNN' 'FITS' 'LOF' 'TimesNet' 'COPOD'
+ 'USAD' 'KNN' 'OmniAnomaly' 'EIF' 'PCA' 'KMeansAD' 'CBLOF' 'HBOS' 'MCD']",-0.08173913043478259,2.9393692016601562
+GutenTAG_13,"['CNN', 'OmniAnomaly', 'PCA', 'USAD', 'TranAD', 'KMeansAD', 'LSTMAD', 'AutoEncoder', 'ALLM4TS', 'OFA', 'FITS', 'TimesNet', 'Donut', 'LOF', 'CBLOF', 'IForest', 'OCSVM', 'RobustPCA', 'EIF', 'MCD', 'KNN', 'AnomalyTransformer', 'COPOD', 'HBOS']","['AutoEncoder' 'EIF' 'MCD' 'AnomalyTransformer' 'RobustPCA' 'HBOS' 'PCA'
+ 'LOF' 'KNN' 'TimesNet' 'ALLM4TS' 'KMeansAD' 'Donut' 'OCSVM' 'FITS'
+ 'TranAD' 'USAD' 'OmniAnomaly' 'CBLOF' 'LSTMAD' 'COPOD' 'CNN' 'OFA'
+ 'IForest']",-0.3556521739130434,3.2038097381591797
+GutenTAG_14,"['OFA', 'KNN', 'KMeansAD', 'FITS', 'CBLOF', 'LOF', 'PCA', 'TranAD', 'OmniAnomaly', 'LSTMAD', 'TimesNet', 'ALLM4TS', 'EIF', 'IForest', 'CNN', 'HBOS', 'Donut', 'AnomalyTransformer', 'COPOD', 'AutoEncoder', 'USAD', 'RobustPCA', 'OCSVM', 'MCD']","['ALLM4TS' 'IForest' 'LSTMAD' 'AutoEncoder' 'Donut' 'AnomalyTransformer'
+ 'RobustPCA' 'LOF' 'TranAD' 'OCSVM' 'CNN' 'OFA' 'FITS' 'TimesNet' 'COPOD'
+ 'USAD' 'EIF' 'KNN' 'KMeansAD' 'CBLOF' 'PCA' 'OmniAnomaly' 'HBOS' 'MCD']",-0.17043478260869566,3.0121119022369385
+GutenTAG_15,"['CNN', 'LSTMAD', 'OFA', 'AutoEncoder', 'PCA', 'OmniAnomaly', 'TranAD', 'USAD', 'ALLM4TS', 'Donut', 'TimesNet', 'CBLOF', 'RobustPCA', 'FITS', 'KNN', 'KMeansAD', 'IForest', 'AnomalyTransformer', 'LOF', 'MCD', 'OCSVM', 'HBOS', 'EIF', 'COPOD']","['IForest' 'LSTMAD' 'TranAD' 'OFA' 'Donut' 'USAD' 'LOF' 'CNN' 'TimesNet'
+ 'FITS' 'OmniAnomaly' 'AnomalyTransformer' 'RobustPCA' 'OCSVM' 'PCA'
+ 'ALLM4TS' 'KMeansAD' 'KNN' 'AutoEncoder' 'COPOD' 'EIF' 'CBLOF' 'HBOS'
+ 'MCD']",0.5017391304347826,2.955653190612793
+GutenTAG_16,"['OmniAnomaly', 'PCA', 'OFA', 'ALLM4TS', 'IForest', 'CNN', 'LSTMAD', 'TranAD', 'FITS', 'KMeansAD', 'MCD', 'USAD', 'Donut', 'TimesNet', 'OCSVM', 'HBOS', 'CBLOF', 'RobustPCA', 'EIF', 'AutoEncoder', 'KNN', 'LOF', 'AnomalyTransformer', 'COPOD']","['LSTMAD' 'AutoEncoder' 'IForest' 'OFA' 'Donut' 'TranAD' 'ALLM4TS'
+ 'AnomalyTransformer' 'LOF' 'RobustPCA' 'CNN' 'TimesNet' 'OCSVM' 'FITS'
+ 'USAD' 'PCA' 'OmniAnomaly' 'KNN' 'EIF' 'COPOD' 'KMeansAD' 'CBLOF' 'HBOS'
+ 'MCD']",0.21391304347826084,2.9355452060699463
+GutenTAG_17,"['OmniAnomaly', 'PCA', 'OFA', 'FITS', 'CNN', 'LSTMAD', 'TranAD', 'IForest', 'TimesNet', 'AutoEncoder', 'ALLM4TS', 'USAD', 'KMeansAD', 'LOF', 'KNN', 'Donut', 'MCD', 'CBLOF', 'EIF', 'HBOS', 'RobustPCA', 'COPOD', 'AnomalyTransformer', 'OCSVM']","['LSTMAD' 'IForest' 'AutoEncoder' 'Donut' 'TranAD' 'OFA' 'ALLM4TS'
+ 'AnomalyTransformer' 'RobustPCA' 'CNN' 'LOF' 'OCSVM' 'TimesNet' 'FITS'
+ 'USAD' 'KNN' 'PCA' 'OmniAnomaly' 'COPOD' 'EIF' 'KMeansAD' 'CBLOF' 'HBOS'
+ 'MCD']",0.2965217391304348,2.9136788845062256
+GutenTAG_18,"['PCA', 'OmniAnomaly', 'AutoEncoder', 'TranAD', 'ALLM4TS', 'USAD', 'CNN', 'LSTMAD', 'RobustPCA', 'OFA', 'MCD', 'FITS', 'TimesNet', 'Donut', 'CBLOF', 'LOF', 'KMeansAD', 'IForest', 'OCSVM', 'EIF', 'KNN', 'AnomalyTransformer', 'HBOS', 'COPOD']","['IForest' 'LSTMAD' 'OFA' 'Donut' 'TranAD' 'CNN' 'AnomalyTransformer'
+ 'USAD' 'RobustPCA' 'FITS' 'TimesNet' 'ALLM4TS' 'LOF' 'AutoEncoder'
+ 'OCSVM' 'OmniAnomaly' 'COPOD' 'KNN' 'PCA' 'KMeansAD' 'EIF' 'CBLOF' 'HBOS'
+ 'MCD']",0.25478260869565217,2.8559322357177734
+GutenTAG_19,"['OmniAnomaly', 'PCA', 'CNN', 'LSTMAD', 'USAD', 'TranAD', 'RobustPCA', 'CBLOF', 'ALLM4TS', 'OFA', 'AutoEncoder', 'Donut', 'FITS', 'TimesNet', 'KMeansAD', 'IForest', 'LOF', 'AnomalyTransformer', 'EIF', 'KNN', 'HBOS', 'MCD', 'COPOD', 'OCSVM']","['EIF' 'MCD' 'AutoEncoder' 'HBOS' 'KMeansAD' 'KNN' 'RobustPCA' 'CBLOF'
+ 'AnomalyTransformer' 'ALLM4TS' 'PCA' 'OCSVM' 'OmniAnomaly' 'COPOD'
+ 'TranAD' 'LSTMAD' 'TimesNet' 'USAD' 'LOF' 'CNN' 'IForest' 'OFA' 'Donut'
+ 'FITS']",-0.3095652173913043,3.2039074897766113
+GutenTAG_1,"['OFA', 'MCD', 'ALLM4TS', 'AnomalyTransformer', 'HBOS', 'OmniAnomaly', 'PCA', 'TimesNet', 'IForest', 'USAD', 'FITS', 'OCSVM', 'Donut', 'TranAD', 'CBLOF', 'LSTMAD', 'CNN', 'KMeansAD', 'EIF', 'KNN', 'RobustPCA', 'LOF', 'COPOD', 'AutoEncoder']","['AutoEncoder' 'LSTMAD' 'ALLM4TS' 'IForest' 'OFA' 'TranAD' 'Donut' 'CNN'
+ 'OCSVM' 'AnomalyTransformer' 'RobustPCA' 'TimesNet' 'FITS' 'USAD' 'LOF'
+ 'KNN' 'COPOD' 'PCA' 'OmniAnomaly' 'EIF' 'CBLOF' 'KMeansAD' 'HBOS' 'MCD']",-0.034782608695652174,2.9951601028442383
+GutenTAG_20,"['OmniAnomaly', 'PCA', 'CNN', 'LSTMAD', 'USAD', 'TranAD', 'AutoEncoder', 'ALLM4TS', 'OFA', 'RobustPCA', 'Donut', 'CBLOF', 'FITS', 'TimesNet', 'AnomalyTransformer', 'MCD', 'IForest', 'HBOS', 'LOF', 'OCSVM', 'KMeansAD', 'EIF', 'KNN', 'COPOD']","['IForest' 'LSTMAD' 'Donut' 'TranAD' 'AnomalyTransformer' 'ALLM4TS' 'OFA'
+ 'RobustPCA' 'LOF' 'CNN' 'OCSVM' 'FITS' 'TimesNet' 'USAD' 'AutoEncoder'
+ 'COPOD' 'KMeansAD' 'KNN' 'EIF' 'OmniAnomaly' 'PCA' 'CBLOF' 'HBOS' 'MCD']",0.19913043478260867,2.8503637313842773
+GutenTAG_21,"['OFA', 'ALLM4TS', 'KMeansAD', 'OmniAnomaly', 'PCA', 'KNN', 'LOF', 'FITS', 'TranAD', 'LSTMAD', 'TimesNet', 'CNN', 'USAD', 'CBLOF', 'Donut', 'AutoEncoder', 'EIF', 'OCSVM', 'IForest', 'RobustPCA', 'AnomalyTransformer', 'HBOS', 'COPOD', 'MCD']","['AutoEncoder' 'ALLM4TS' 'Donut' 'IForest' 'LSTMAD' 'AnomalyTransformer'
+ 'FITS' 'CNN' 'OCSVM' 'OFA' 'RobustPCA' 'TranAD' 'LOF' 'TimesNet' 'COPOD'
+ 'USAD' 'KNN' 'PCA' 'EIF' 'CBLOF' 'OmniAnomaly' 'KMeansAD' 'HBOS' 'MCD']",0.03826086956521739,2.862483263015747
+GutenTAG_22,"['KMeansAD', 'KNN', 'LOF', 'OFA', 'PCA', 'OmniAnomaly', 'CNN', 'LSTMAD', 'TranAD', 'IForest', 'USAD', 'Donut', 'CBLOF', 'ALLM4TS', 'EIF', 'FITS', 'AnomalyTransformer', 'TimesNet', 'HBOS', 'MCD', 'OCSVM', 'COPOD', 'AutoEncoder', 'RobustPCA']","['EIF' 'MCD' 'HBOS' 'KMeansAD' 'AutoEncoder' 'KNN' 'RobustPCA'
+ 'AnomalyTransformer' 'PCA' 'CBLOF' 'OmniAnomaly' 'OCSVM' 'COPOD' 'TranAD'
+ 'LSTMAD' 'TimesNet' 'ALLM4TS' 'USAD' 'LOF' 'CNN' 'IForest' 'OFA' 'FITS'
+ 'Donut']",-0.26347826086956516,2.9047152996063232
+GutenTAG_23,"['OmniAnomaly', 'PCA', 'LSTMAD', 'CNN', 'USAD', 'TranAD', 'ALLM4TS', 'AutoEncoder', 'RobustPCA', 'OFA', 'FITS', 'TimesNet', 'Donut', 'CBLOF', 'AnomalyTransformer', 'LOF', 'IForest', 'EIF', 'OCSVM', 'MCD', 'KMeansAD', 'KNN', 'HBOS', 'COPOD']","['IForest' 'LSTMAD' 'Donut' 'OFA' 'TranAD' 'CNN' 'ALLM4TS' 'RobustPCA'
+ 'AnomalyTransformer' 'OCSVM' 'FITS' 'TimesNet' 'USAD' 'LOF' 'AutoEncoder'
+ 'COPOD' 'KNN' 'OmniAnomaly' 'KMeansAD' 'EIF' 'PCA' 'CBLOF' 'HBOS' 'MCD']",0.3652173913043478,2.9153480529785156
+GutenTAG_24,"['OmniAnomaly', 'PCA', 'CNN', 'TranAD', 'ALLM4TS', 'LSTMAD', 'USAD', 'OFA', 'AutoEncoder', 'FITS', 'TimesNet', 'Donut', 'IForest', 'KMeansAD', 'CBLOF', 'RobustPCA', 'LOF', 'EIF', 'KNN', 'OCSVM', 'AnomalyTransformer', 'HBOS', 'MCD', 'COPOD']","['IForest' 'LSTMAD' 'ALLM4TS' 'Donut' 'OFA' 'AutoEncoder'
+ 'AnomalyTransformer' 'TranAD' 'OCSVM' 'RobustPCA' 'FITS' 'LOF' 'CNN'
+ 'TimesNet' 'USAD' 'COPOD' 'KNN' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF'
+ 'EIF' 'HBOS' 'MCD']",0.3043478260869565,3.094409227371216
+GutenTAG_25,"['OFA', 'KNN', 'OmniAnomaly', 'PCA', 'ALLM4TS', 'LOF', 'USAD', 'TranAD', 'CNN', 'LSTMAD', 'EIF', 'KMeansAD', 'TimesNet', 'CBLOF', 'Donut', 'FITS', 'IForest', 'AutoEncoder', 'OCSVM', 'AnomalyTransformer', 'MCD', 'RobustPCA', 'HBOS', 'COPOD']","['ALLM4TS' 'IForest' 'Donut' 'AutoEncoder' 'LSTMAD' 'AnomalyTransformer'
+ 'RobustPCA' 'FITS' 'LOF' 'OCSVM' 'CNN' 'OFA' 'TranAD' 'COPOD' 'TimesNet'
+ 'KNN' 'USAD' 'KMeansAD' 'EIF' 'CBLOF' 'PCA' 'OmniAnomaly' 'HBOS' 'MCD']",-0.09826086956521737,2.869187116622925
+GutenTAG_26,"['PCA', 'OmniAnomaly', 'ALLM4TS', 'OFA', 'TranAD', 'CNN', 'AutoEncoder', 'USAD', 'LSTMAD', 'FITS', 'LOF', 'TimesNet', 'Donut', 'KNN', 'EIF', 'RobustPCA', 'OCSVM', 'IForest', 'KMeansAD', 'CBLOF', 'HBOS', 'AnomalyTransformer', 'COPOD', 'MCD']","['LSTMAD' 'IForest' 'OFA' 'Donut' 'TranAD' 'AutoEncoder' 'ALLM4TS' 'CNN'
+ 'TimesNet' 'AnomalyTransformer' 'LOF' 'USAD' 'FITS' 'OCSVM' 'RobustPCA'
+ 'OmniAnomaly' 'PCA' 'KNN' 'COPOD' 'KMeansAD' 'EIF' 'CBLOF' 'HBOS' 'MCD']",0.5043478260869565,2.898930788040161
+GutenTAG_27,"['PCA', 'OmniAnomaly', 'USAD', 'CNN', 'LSTMAD', 'TranAD', 'FITS', 'ALLM4TS', 'OFA', 'AutoEncoder', 'IForest', 'Donut', 'TimesNet', 'RobustPCA', 'KMeansAD', 'LOF', 'AnomalyTransformer', 'CBLOF', 'EIF', 'MCD', 'OCSVM', 'HBOS', 'KNN', 'COPOD']","['IForest' 'LSTMAD' 'Donut' 'TranAD' 'OFA' 'CNN' 'FITS' 'USAD' 'LOF'
+ 'ALLM4TS' 'TimesNet' 'AnomalyTransformer' 'RobustPCA' 'OCSVM'
+ 'AutoEncoder' 'COPOD' 'OmniAnomaly' 'KNN' 'PCA' 'KMeansAD' 'CBLOF' 'EIF'
+ 'HBOS' 'MCD']",0.5243478260869565,2.9185004234313965
+GutenTAG_28,"['OmniAnomaly', 'PCA', 'CNN', 'TranAD', 'USAD', 'LSTMAD', 'RobustPCA', 'ALLM4TS', 'AutoEncoder', 'OFA', 'FITS', 'Donut', 'TimesNet', 'IForest', 'LOF', 'CBLOF', 'KMeansAD', 'AnomalyTransformer', 'OCSVM', 'EIF', 'KNN', 'MCD', 'HBOS', 'COPOD']","['IForest' 'OFA' 'LSTMAD' 'Donut' 'TranAD' 'LOF' 'FITS' 'OCSVM' 'USAD'
+ 'TimesNet' 'CNN' 'ALLM4TS' 'RobustPCA' 'AnomalyTransformer' 'OmniAnomaly'
+ 'AutoEncoder' 'PCA' 'KMeansAD' 'KNN' 'COPOD' 'CBLOF' 'EIF' 'HBOS' 'MCD']",0.4756521739130434,2.877412796020508
+GutenTAG_29,"['OFA', 'KNN', 'FITS', 'LOF', 'TimesNet', 'CBLOF', 'KMeansAD', 'PCA', 'COPOD', 'OmniAnomaly', 'OCSVM', 'AnomalyTransformer', 'HBOS', 'IForest', 'LSTMAD', 'Donut', 'CNN', 'EIF', 'TranAD', 'ALLM4TS', 'USAD', 'MCD', 'AutoEncoder', 'RobustPCA']","['LSTMAD' 'IForest' 'Donut' 'OFA' 'TranAD' 'AutoEncoder' 'LOF' 'CNN'
+ 'FITS' 'AnomalyTransformer' 'TimesNet' 'RobustPCA' 'ALLM4TS' 'USAD'
+ 'OCSVM' 'PCA' 'KMeansAD' 'KNN' 'OmniAnomaly' 'COPOD' 'EIF' 'CBLOF' 'HBOS'
+ 'MCD']",-0.05130434782608695,2.9051589965820312
+GutenTAG_2,"['AutoEncoder', 'TranAD', 'USAD', 'ALLM4TS', 'PCA', 'OmniAnomaly', 'CNN', 'OCSVM', 'LSTMAD', 'Donut', 'RobustPCA', 'OFA', 'TimesNet', 'IForest', 'AnomalyTransformer', 'FITS', 'LOF', 'MCD', 'EIF', 'HBOS', 'KMeansAD', 'KNN', 'CBLOF', 'COPOD']","['AutoEncoder' 'LSTMAD' 'IForest' 'ALLM4TS' 'TranAD' 'Donut' 'OFA'
+ 'AnomalyTransformer' 'RobustPCA' 'OCSVM' 'CNN' 'TimesNet' 'USAD' 'FITS'
+ 'EIF' 'LOF' 'KNN' 'COPOD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KMeansAD' 'HBOS'
+ 'MCD']",0.6,3.0137948989868164
+GutenTAG_3,"['OmniAnomaly', 'PCA', 'OFA', 'TranAD', 'USAD', 'ALLM4TS', 'CNN', 'LSTMAD', 'Donut', 'MCD', 'CBLOF', 'KMeansAD', 'EIF', 'TimesNet', 'FITS', 'IForest', 'AnomalyTransformer', 'KNN', 'COPOD', 'HBOS', 'RobustPCA', 'LOF', 'OCSVM', 'AutoEncoder']","['IForest' 'LSTMAD' 'AutoEncoder' 'Donut' 'ALLM4TS' 'TranAD' 'OFA'
+ 'AnomalyTransformer' 'RobustPCA' 'OCSVM' 'CNN' 'FITS' 'TimesNet' 'COPOD'
+ 'LOF' 'USAD' 'KNN' 'EIF' 'OmniAnomaly' 'PCA' 'CBLOF' 'KMeansAD' 'HBOS'
+ 'MCD']",-0.06173913043478261,2.8636085987091064
+GutenTAG_4,"['OFA', 'KMeansAD', 'OmniAnomaly', 'PCA', 'COPOD', 'KNN', 'IForest', 'EIF', 'CBLOF', 'LOF', 'USAD', 'TranAD', 'HBOS', 'CNN', 'LSTMAD', 'TimesNet', 'FITS', 'MCD', 'Donut', 'ALLM4TS', 'AnomalyTransformer', 'RobustPCA', 'AutoEncoder', 'OCSVM']","['LSTMAD' 'OFA' 'IForest' 'AutoEncoder' 'ALLM4TS' 'TranAD' 'Donut' 'CNN'
+ 'AnomalyTransformer' 'OCSVM' 'USAD' 'TimesNet' 'RobustPCA' 'FITS' 'LOF'
+ 'OmniAnomaly' 'KNN' 'PCA' 'COPOD' 'EIF' 'CBLOF' 'KMeansAD' 'HBOS' 'MCD']",-0.3008695652173913,2.8971211910247803
+GutenTAG_5,"['MCD', 'AutoEncoder', 'TranAD', 'PCA', 'IForest', 'CNN', 'LSTMAD', 'EIF', 'OmniAnomaly', 'USAD', 'AnomalyTransformer', 'HBOS', 'ALLM4TS', 'CBLOF', 'Donut', 'OFA', 'OCSVM', 'TimesNet', 'KNN', 'LOF', 'COPOD', 'RobustPCA', 'FITS', 'KMeansAD']","['IForest' 'LSTMAD' 'Donut' 'AutoEncoder' 'TranAD' 'OFA' 'CNN'
+ 'AnomalyTransformer' 'ALLM4TS' 'RobustPCA' 'FITS' 'LOF' 'TimesNet'
+ 'OCSVM' 'USAD' 'COPOD' 'KNN' 'EIF' 'OmniAnomaly' 'KMeansAD' 'PCA' 'CBLOF'
+ 'HBOS' 'MCD']",0.13999999999999999,2.89848256111145
+GutenTAG_6,"['OmniAnomaly', 'PCA', 'TranAD', 'ALLM4TS', 'CNN', 'LSTMAD', 'USAD', 'AutoEncoder', 'Donut', 'OFA', 'FITS', 'IForest', 'TimesNet', 'CBLOF', 'LOF', 'AnomalyTransformer', 'RobustPCA', 'EIF', 'OCSVM', 'HBOS', 'COPOD', 'MCD', 'KNN', 'KMeansAD']","['IForest' 'ALLM4TS' 'Donut' 'LSTMAD' 'AnomalyTransformer' 'OCSVM'
+ 'RobustPCA' 'OFA' 'AutoEncoder' 'FITS' 'TranAD' 'CNN' 'LOF' 'COPOD'
+ 'TimesNet' 'USAD' 'KNN' 'KMeansAD' 'CBLOF' 'EIF' 'OmniAnomaly' 'PCA'
+ 'HBOS' 'MCD']",0.2495652173913043,2.8558309078216553
+GutenTAG_7,"['ALLM4TS', 'LSTMAD', 'TranAD', 'RobustPCA', 'CNN', 'USAD', 'OmniAnomaly', 'PCA', 'AutoEncoder', 'Donut', 'FITS', 'OFA', 'TimesNet', 'LOF', 'AnomalyTransformer', 'IForest', 'HBOS', 'MCD', 'COPOD', 'CBLOF', 'KNN', 'KMeansAD', 'OCSVM', 'EIF']","['AutoEncoder' 'LSTMAD' 'IForest' 'TranAD' 'OFA' 'Donut' 'ALLM4TS'
+ 'AnomalyTransformer' 'RobustPCA' 'CNN' 'TimesNet' 'OCSVM' 'USAD' 'LOF'
+ 'FITS' 'EIF' 'KNN' 'OmniAnomaly' 'PCA' 'COPOD' 'KMeansAD' 'CBLOF' 'HBOS'
+ 'MCD']",0.5547826086956522,2.874159336090088
+GutenTAG_8,"['KMeansAD', 'KNN', 'CBLOF', 'EIF', 'COPOD', 'LOF', 'AutoEncoder', 'LSTMAD', 'TranAD', 'FITS', 'TimesNet', 'AnomalyTransformer', 'CNN', 'OCSVM', 'Donut', 'USAD', 'HBOS', 'OFA', 'MCD', 'RobustPCA', 'ALLM4TS', 'OmniAnomaly', 'PCA', 'IForest']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'KNN' 'OmniAnomaly' 'PCA' 'RobustPCA'
+ 'AnomalyTransformer' 'CBLOF' 'TranAD' 'LSTMAD' 'AutoEncoder' 'TimesNet'
+ 'USAD' 'COPOD' 'OCSVM' 'LOF' 'CNN' 'IForest' 'OFA' 'ALLM4TS' 'Donut'
+ 'FITS']",0.18086956521739128,2.8748366832733154
+GutenTAG_9,"['IForest', 'KNN', 'USAD', 'COPOD', 'MCD', 'TranAD', 'OFA', 'HBOS', 'LSTMAD', 'CNN', 'LOF', 'ALLM4TS', 'KMeansAD', 'Donut', 'OmniAnomaly', 'TimesNet', 'FITS', 'PCA', 'CBLOF', 'EIF', 'AnomalyTransformer', 'RobustPCA', 'AutoEncoder', 'OCSVM']","['LSTMAD' 'AutoEncoder' 'IForest' 'Donut' 'ALLM4TS' 'AnomalyTransformer'
+ 'OFA' 'TranAD' 'OCSVM' 'RobustPCA' 'LOF' 'FITS' 'CNN' 'TimesNet' 'USAD'
+ 'EIF' 'KNN' 'COPOD' 'KMeansAD' 'PCA' 'OmniAnomaly' 'CBLOF' 'HBOS' 'MCD']",-0.10695652173913042,3.015458583831787
+MITDB_100,"['AnomalyTransformer', 'CNN', 'IForest', 'KMeansAD', 'EIF', 'COPOD', 'MCD', 'CBLOF', 'RobustPCA', 'TimesNet', 'TranAD', 'LSTMAD', 'USAD', 'HBOS', 'AutoEncoder', 'OCSVM', 'LOF', 'KNN', 'OFA', 'ALLM4TS', 'PCA', 'OmniAnomaly', 'Donut', 'FITS']","['ALLM4TS' 'Donut' 'FITS' 'AnomalyTransformer' 'CNN' 'COPOD' 'RobustPCA'
+ 'IForest' 'OCSVM' 'CBLOF' 'LOF' 'AutoEncoder' 'OFA' 'MCD' 'LSTMAD' 'KNN'
+ 'TimesNet' 'TranAD' 'HBOS' 'PCA' 'USAD' 'OmniAnomaly' 'EIF' 'KMeansAD']",-0.042608695652173914,20.470382690429688
+MITDB_101,"['USAD', 'TranAD', 'CNN', 'RobustPCA', 'OmniAnomaly', 'PCA', 'OFA', 'IForest', 'ALLM4TS', 'LSTMAD', 'TimesNet', 'FITS', 'Donut', 'MCD', 'EIF', 'AnomalyTransformer', 'COPOD', 'KMeansAD', 'CBLOF', 'AutoEncoder', 'HBOS', 'OCSVM', 'KNN', 'LOF']","['AutoEncoder' 'MCD' 'ALLM4TS' 'OCSVM' 'HBOS' 'CBLOF' 'OmniAnomaly' 'PCA'
+ 'AnomalyTransformer' 'EIF' 'KNN' 'RobustPCA' 'COPOD' 'TimesNet' 'USAD'
+ 'KMeansAD' 'LOF' 'OFA' 'FITS' 'TranAD' 'LSTMAD' 'IForest' 'Donut' 'CNN']",-0.39391304347826084,21.90667223930359
+MITDB_102,"['OFA', 'IForest', 'CNN', 'KMeansAD', 'ALLM4TS', 'LSTMAD', 'AnomalyTransformer', 'FITS', 'KNN', 'LOF', 'EIF', 'HBOS', 'AutoEncoder', 'OCSVM', 'COPOD', 'CBLOF', 'MCD', 'TranAD', 'USAD', 'RobustPCA', 'PCA', 'OmniAnomaly', 'Donut', 'TimesNet']","['AutoEncoder' 'MCD' 'HBOS' 'ALLM4TS' 'EIF' 'OCSVM' 'CBLOF' 'KNN' 'PCA'
+ 'KMeansAD' 'OmniAnomaly' 'COPOD' 'AnomalyTransformer' 'RobustPCA'
+ 'TimesNet' 'LOF' 'USAD' 'FITS' 'OFA' 'TranAD' 'LSTMAD' 'Donut' 'CNN'
+ 'IForest']",-0.16260869565217392,20.004536628723145
+MITDB_103,"['OFA', 'OmniAnomaly', 'PCA', 'ALLM4TS', 'CNN', 'TranAD', 'USAD', 'Donut', 'IForest', 'RobustPCA', 'LSTMAD', 'TimesNet', 'MCD', 'OCSVM', 'AutoEncoder', 'HBOS', 'COPOD', 'EIF', 'FITS', 'KMeansAD', 'KNN', 'LOF', 'AnomalyTransformer', 'CBLOF']","['EIF' 'HBOS' 'MCD' 'OmniAnomaly' 'KMeansAD' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'RobustPCA' 'AnomalyTransformer' 'TranAD' 'COPOD' 'OCSVM'
+ 'LOF' 'LSTMAD' 'OFA' 'AutoEncoder' 'CNN' 'ALLM4TS' 'FITS' 'IForest'
+ 'Donut']",-0.2269565217391304,21.388665437698364
+MITDB_104,"['OFA', 'CNN', 'ALLM4TS', 'KMeansAD', 'PCA', 'OmniAnomaly', 'LSTMAD', 'RobustPCA', 'TranAD', 'USAD', 'OCSVM', 'CBLOF', 'AutoEncoder', 'HBOS', 'MCD', 'AnomalyTransformer', 'LOF', 'KNN', 'COPOD', 'EIF', 'FITS', 'TimesNet', 'Donut', 'IForest']","['ALLM4TS' 'Donut' 'FITS' 'IForest' 'AutoEncoder' 'OFA' 'OCSVM' 'LOF'
+ 'AnomalyTransformer' 'CNN' 'LSTMAD' 'RobustPCA' 'USAD' 'TimesNet'
+ 'TranAD' 'COPOD' 'PCA' 'OmniAnomaly' 'CBLOF' 'KNN' 'KMeansAD' 'EIF' 'MCD'
+ 'HBOS']",-0.050434782608695654,20.03168749809265
+MITDB_105,"['OFA', 'ALLM4TS', 'CNN', 'TimesNet', 'PCA', 'OmniAnomaly', 'IForest', 'KMeansAD', 'FITS', 'LSTMAD', 'USAD', 'Donut', 'AnomalyTransformer', 'TranAD', 'EIF', 'MCD', 'COPOD', 'AutoEncoder', 'RobustPCA', 'HBOS', 'OCSVM', 'CBLOF', 'KNN', 'LOF']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'RobustPCA' 'AnomalyTransformer' 'COPOD' 'OCSVM' 'TranAD'
+ 'AutoEncoder' 'LOF' 'LSTMAD' 'ALLM4TS' 'OFA' 'CNN' 'IForest' 'FITS'
+ 'Donut']",-0.29739130434782607,19.795700073242188
+MITDB_106,"['ALLM4TS', 'PCA', 'OmniAnomaly', 'CNN', 'IForest', 'TimesNet', 'OFA', 'Donut', 'USAD', 'TranAD', 'FITS', 'LSTMAD', 'RobustPCA', 'COPOD', 'AnomalyTransformer', 'MCD', 'KMeansAD', 'EIF', 'OCSVM', 'AutoEncoder', 'HBOS', 'CBLOF', 'KNN', 'LOF']","['OmniAnomaly' 'EIF' 'PCA' 'MCD' 'HBOS' 'KMeansAD' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'AnomalyTransformer' 'RobustPCA' 'OCSVM' 'ALLM4TS' 'OFA'
+ 'AutoEncoder' 'TranAD' 'LSTMAD' 'COPOD' 'LOF' 'IForest' 'CNN' 'FITS'
+ 'Donut']",-0.15478260869565216,20.72010040283203
+MITDB_107,"['CNN', 'OFA', 'ALLM4TS', 'LSTMAD', 'AnomalyTransformer', 'IForest', 'KMeansAD', 'RobustPCA', 'CBLOF', 'KNN', 'LOF', 'HBOS', 'AutoEncoder', 'OCSVM', 'EIF', 'USAD', 'COPOD', 'TranAD', 'FITS', 'MCD', 'OmniAnomaly', 'PCA', 'TimesNet', 'Donut']","['ALLM4TS' 'AutoEncoder' 'AnomalyTransformer' 'OCSVM' 'RobustPCA' 'FITS'
+ 'Donut' 'MCD' 'LOF' 'PCA' 'CBLOF' 'OFA' 'OmniAnomaly' 'CNN' 'COPOD'
+ 'TimesNet' 'IForest' 'KNN' 'USAD' 'LSTMAD' 'HBOS' 'TranAD' 'EIF'
+ 'KMeansAD']",0.009565217391304347,19.95083737373352
+MITDB_108,"['CNN', 'AnomalyTransformer', 'OFA', 'IForest', 'ALLM4TS', 'PCA', 'OmniAnomaly', 'TimesNet', 'COPOD', 'CBLOF', 'MCD', 'EIF', 'HBOS', 'AutoEncoder', 'OCSVM', 'USAD', 'RobustPCA', 'TranAD', 'LSTMAD', 'LOF', 'KNN', 'FITS', 'KMeansAD', 'Donut']","['EIF' 'HBOS' 'OmniAnomaly' 'MCD' 'KMeansAD' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'RobustPCA' 'AnomalyTransformer' 'TranAD' 'COPOD' 'OCSVM'
+ 'LOF' 'LSTMAD' 'OFA' 'CNN' 'IForest' 'FITS' 'ALLM4TS' 'AutoEncoder'
+ 'Donut']",0.02434782608695652,20.101166248321533
+MITDB_109,"['CNN', 'IForest', 'ALLM4TS', 'OFA', 'KMeansAD', 'LSTMAD', 'AnomalyTransformer', 'EIF', 'MCD', 'COPOD', 'TimesNet', 'HBOS', 'AutoEncoder', 'OCSVM', 'OmniAnomaly', 'PCA', 'Donut', 'USAD', 'TranAD', 'FITS', 'RobustPCA', 'KNN', 'LOF', 'CBLOF']","['MCD' 'HBOS' 'EIF' 'AutoEncoder' 'KMeansAD' 'CBLOF' 'PCA' 'OmniAnomaly'
+ 'KNN' 'ALLM4TS' 'OCSVM' 'RobustPCA' 'AnomalyTransformer' 'COPOD'
+ 'TimesNet' 'USAD' 'LOF' 'TranAD' 'OFA' 'LSTMAD' 'FITS' 'CNN' 'Donut'
+ 'IForest']",-0.09739130434782609,20.62363886833191
+MITDB_111,"['ALLM4TS', 'OFA', 'CNN', 'IForest', 'TimesNet', 'EIF', 'KMeansAD', 'OmniAnomaly', 'PCA', 'TranAD', 'USAD', 'LSTMAD', 'COPOD', 'Donut', 'MCD', 'FITS', 'CBLOF', 'AnomalyTransformer', 'RobustPCA', 'AutoEncoder', 'HBOS', 'OCSVM', 'KNN', 'LOF']","['MCD' 'HBOS' 'EIF' 'OmniAnomaly' 'AutoEncoder' 'CBLOF' 'PCA' 'KMeansAD'
+ 'KNN' 'OCSVM' 'ALLM4TS' 'COPOD' 'RobustPCA' 'TimesNet'
+ 'AnomalyTransformer' 'USAD' 'LOF' 'TranAD' 'OFA' 'LSTMAD' 'FITS' 'CNN'
+ 'IForest' 'Donut']",-0.23391304347826083,20.748942852020264
+MITDB_112,"['OFA', 'KMeansAD', 'LSTMAD', 'FITS', 'CNN', 'RobustPCA', 'EIF', 'TimesNet', 'CBLOF', 'IForest', 'KNN', 'LOF', 'HBOS', 'AutoEncoder', 'COPOD', 'AnomalyTransformer', 'OCSVM', 'MCD', 'USAD', 'TranAD', 'ALLM4TS', 'Donut', 'OmniAnomaly', 'PCA']","['EIF' 'MCD' 'HBOS' 'OmniAnomaly' 'PCA' 'KMeansAD' 'CBLOF' 'KNN'
+ 'AutoEncoder' 'AnomalyTransformer' 'ALLM4TS' 'OCSVM' 'RobustPCA'
+ 'TimesNet' 'USAD' 'COPOD' 'LOF' 'OFA' 'TranAD' 'LSTMAD' 'FITS' 'CNN'
+ 'Donut' 'IForest']",-0.2217391304347826,21.318835735321045
+MITDB_113,"['OFA', 'CNN', 'ALLM4TS', 'OmniAnomaly', 'PCA', 'KMeansAD', 'IForest', 'LSTMAD', 'USAD', 'TranAD', 'Donut', 'TimesNet', 'AnomalyTransformer', 'FITS', 'COPOD', 'MCD', 'CBLOF', 'EIF', 'OCSVM', 'AutoEncoder', 'HBOS', 'RobustPCA', 'LOF', 'KNN']","['AutoEncoder' 'ALLM4TS' 'MCD' 'OCSVM' 'HBOS' 'CBLOF' 'OmniAnomaly' 'PCA'
+ 'AnomalyTransformer' 'EIF' 'RobustPCA' 'KNN' 'COPOD' 'TimesNet' 'USAD'
+ 'LOF' 'OFA' 'FITS' 'KMeansAD' 'TranAD' 'LSTMAD' 'IForest' 'Donut' 'CNN']",-0.37043478260869556,21.319669008255005
+MITDB_114,"['OFA', 'ALLM4TS', 'CNN', 'PCA', 'OmniAnomaly', 'TimesNet', 'LSTMAD', 'Donut', 'IForest', 'USAD', 'TranAD', 'FITS', 'AnomalyTransformer', 'KNN', 'LOF', 'RobustPCA', 'OCSVM', 'HBOS', 'AutoEncoder', 'EIF', 'MCD', 'CBLOF', 'COPOD', 'KMeansAD']","['EIF' 'HBOS' 'OmniAnomaly' 'MCD' 'PCA' 'KMeansAD' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'RobustPCA' 'AnomalyTransformer' 'OCSVM' 'COPOD' 'TranAD'
+ 'OFA' 'ALLM4TS' 'AutoEncoder' 'LOF' 'LSTMAD' 'CNN' 'FITS' 'IForest'
+ 'Donut']",-0.3756521739130434,23.701934814453125
+MITDB_115,"['OFA', 'OmniAnomaly', 'PCA', 'CNN', 'ALLM4TS', 'LSTMAD', 'USAD', 'TranAD', 'Donut', 'TimesNet', 'FITS', 'IForest', 'KMeansAD', 'MCD', 'OCSVM', 'AutoEncoder', 'HBOS', 'COPOD', 'CBLOF', 'AnomalyTransformer', 'EIF', 'LOF', 'KNN', 'RobustPCA']","['EIF' 'HBOS' 'MCD' 'OmniAnomaly' 'KMeansAD' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'RobustPCA' 'COPOD' 'AnomalyTransformer' 'TranAD' 'OCSVM'
+ 'LOF' 'LSTMAD' 'OFA' 'CNN' 'AutoEncoder' 'ALLM4TS' 'IForest' 'FITS'
+ 'Donut']",-0.25999999999999995,21.12298560142517
+MITDB_116,"['OFA', 'ALLM4TS', 'CNN', 'TimesNet', 'OmniAnomaly', 'PCA', 'TranAD', 'LSTMAD', 'USAD', 'Donut', 'AnomalyTransformer', 'FITS', 'RobustPCA', 'CBLOF', 'LOF', 'KNN', 'IForest', 'OCSVM', 'AutoEncoder', 'HBOS', 'MCD', 'COPOD', 'EIF', 'KMeansAD']","['EIF' 'MCD' 'HBOS' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'RobustPCA' 'AnomalyTransformer' 'COPOD' 'OCSVM' 'TranAD'
+ 'AutoEncoder' 'LOF' 'LSTMAD' 'OFA' 'ALLM4TS' 'CNN' 'FITS' 'IForest'
+ 'Donut']",-0.42,22.20170783996582
+MITDB_117,"['CNN', 'PCA', 'OmniAnomaly', 'USAD', 'LSTMAD', 'TranAD', 'Donut', 'ALLM4TS', 'TimesNet', 'OFA', 'FITS', 'CBLOF', 'OCSVM', 'LOF', 'HBOS', 'KNN', 'AutoEncoder', 'AnomalyTransformer', 'COPOD', 'MCD', 'EIF', 'KMeansAD', 'IForest', 'RobustPCA']","['EIF' 'OmniAnomaly' 'PCA' 'KMeansAD' 'HBOS' 'MCD' 'CBLOF' 'KNN'
+ 'RobustPCA' 'USAD' 'AnomalyTransformer' 'TimesNet' 'LOF' 'COPOD' 'CNN'
+ 'TranAD' 'OCSVM' 'FITS' 'OFA' 'Donut' 'LSTMAD' 'IForest' 'ALLM4TS'
+ 'AutoEncoder']",-0.12956521739130433,21.849637031555176
+MITDB_118,"['CNN', 'AnomalyTransformer', 'LSTMAD', 'KMeansAD', 'COPOD', 'ALLM4TS', 'EIF', 'MCD', 'HBOS', 'AutoEncoder', 'OCSVM', 'OFA', 'CBLOF', 'USAD', 'RobustPCA', 'LOF', 'KNN', 'TranAD', 'PCA', 'OmniAnomaly', 'TimesNet', 'IForest', 'FITS', 'Donut']","['MCD' 'AutoEncoder' 'HBOS' 'CBLOF' 'ALLM4TS' 'EIF' 'OmniAnomaly' 'PCA'
+ 'OCSVM' 'KMeansAD' 'KNN' 'AnomalyTransformer' 'COPOD' 'RobustPCA'
+ 'TimesNet' 'USAD' 'LOF' 'FITS' 'OFA' 'TranAD' 'LSTMAD' 'Donut' 'IForest'
+ 'CNN']",0.2434782608695652,20.365214586257935
+MITDB_119,"['ALLM4TS', 'CNN', 'OFA', 'OmniAnomaly', 'PCA', 'TimesNet', 'LSTMAD', 'TranAD', 'USAD', 'Donut', 'FITS', 'IForest', 'MCD', 'OCSVM', 'AutoEncoder', 'HBOS', 'LOF', 'KNN', 'AnomalyTransformer', 'CBLOF', 'COPOD', 'EIF', 'KMeansAD', 'RobustPCA']","['MCD' 'HBOS' 'EIF' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF' 'AutoEncoder'
+ 'KNN' 'OCSVM' 'TimesNet' 'AnomalyTransformer' 'RobustPCA' 'ALLM4TS'
+ 'USAD' 'COPOD' 'LOF' 'OFA' 'TranAD' 'LSTMAD' 'FITS' 'CNN' 'Donut'
+ 'IForest']",-0.36173913043478256,21.457256317138672
+MITDB_121,"['KMeansAD', 'EIF', 'COPOD', 'IForest', 'OFA', 'MCD', 'CNN', 'HBOS', 'AutoEncoder', 'OCSVM', 'AnomalyTransformer', 'FITS', 'TimesNet', 'CBLOF', 'ALLM4TS', 'TranAD', 'RobustPCA', 'LOF', 'KNN', 'USAD', 'LSTMAD', 'OmniAnomaly', 'PCA', 'Donut']","['OFA' 'OmniAnomaly' 'USAD' 'PCA' 'IForest' 'CNN' 'TimesNet' 'TranAD'
+ 'FITS' 'LSTMAD' 'Donut' 'LOF' 'OCSVM' 'CBLOF' 'KMeansAD' 'ALLM4TS' 'KNN'
+ 'COPOD' 'AnomalyTransformer' 'RobustPCA' 'EIF' 'HBOS' 'AutoEncoder' 'MCD']",-0.3426086956521739,21.699373483657837
+MITDB_122,"['ALLM4TS', 'OmniAnomaly', 'PCA', 'OFA', 'IForest', 'TranAD', 'USAD', 'RobustPCA', 'KMeansAD', 'CNN', 'LSTMAD', 'Donut', 'EIF', 'COPOD', 'MCD', 'TimesNet', 'KNN', 'LOF', 'CBLOF', 'FITS', 'AutoEncoder', 'HBOS', 'AnomalyTransformer', 'OCSVM']","['ALLM4TS' 'OmniAnomaly' 'PCA' 'AnomalyTransformer' 'OFA' 'FITS' 'OCSVM'
+ 'USAD' 'RobustPCA' 'Donut' 'IForest' 'LOF' 'TimesNet' 'AutoEncoder' 'CNN'
+ 'TranAD' 'CBLOF' 'MCD' 'LSTMAD' 'KNN' 'COPOD' 'HBOS' 'KMeansAD' 'EIF']",0.3217391304347825,22.66460418701172
+MITDB_123,"['ALLM4TS', 'OFA', 'CNN', 'IForest', 'KMeansAD', 'TimesNet', 'LSTMAD', 'PCA', 'OmniAnomaly', 'Donut', 'USAD', 'TranAD', 'FITS', 'RobustPCA', 'CBLOF', 'MCD', 'COPOD', 'EIF', 'OCSVM', 'AutoEncoder', 'HBOS', 'AnomalyTransformer', 'LOF', 'KNN']","['OmniAnomaly' 'PCA' 'MCD' 'EIF' 'AnomalyTransformer' 'KMeansAD' 'CBLOF'
+ 'RobustPCA' 'HBOS' 'USAD' 'CNN' 'LOF' 'Donut' 'FITS' 'TimesNet' 'KNN'
+ 'TranAD' 'COPOD' 'IForest' 'OFA' 'ALLM4TS' 'OCSVM' 'LSTMAD' 'AutoEncoder']",-0.12869565217391304,22.171448707580566
+MITDB_124,"['IForest', 'CNN', 'ALLM4TS', 'OFA', 'KMeansAD', 'TimesNet', 'LSTMAD', 'FITS', 'AnomalyTransformer', 'OmniAnomaly', 'PCA', 'RobustPCA', 'COPOD', 'EIF', 'MCD', 'AutoEncoder', 'HBOS', 'OCSVM', 'KNN', 'LOF', 'CBLOF', 'Donut', 'USAD', 'TranAD']","['OmniAnomaly' 'PCA' 'ALLM4TS' 'AnomalyTransformer' 'CBLOF' 'RobustPCA'
+ 'MCD' 'OFA' 'USAD' 'FITS' 'OCSVM' 'EIF' 'TimesNet' 'Donut' 'CNN' 'HBOS'
+ 'LOF' 'KNN' 'IForest' 'COPOD' 'TranAD' 'KMeansAD' 'LSTMAD' 'AutoEncoder']",0.08869565217391304,22.1198627948761
+MITDB_200,"['ALLM4TS', 'CNN', 'PCA', 'OmniAnomaly', 'OFA', 'TimesNet', 'FITS', 'IForest', 'Donut', 'AnomalyTransformer', 'RobustPCA', 'LSTMAD', 'MCD', 'COPOD', 'OCSVM', 'HBOS', 'AutoEncoder', 'USAD', 'TranAD', 'EIF', 'KNN', 'LOF', 'CBLOF', 'KMeansAD']","['MCD' 'EIF' 'HBOS' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN'
+ 'AutoEncoder' 'RobustPCA' 'AnomalyTransformer' 'TimesNet' 'USAD' 'COPOD'
+ 'OCSVM' 'ALLM4TS' 'LOF' 'TranAD' 'LSTMAD' 'OFA' 'CNN' 'FITS' 'IForest'
+ 'Donut']",-0.3739130434782608,22.52357316017151
+MITDB_201,"['OFA', 'ALLM4TS', 'CNN', 'LSTMAD', 'RobustPCA', 'PCA', 'OmniAnomaly', 'USAD', 'TimesNet', 'TranAD', 'AnomalyTransformer', 'IForest', 'OCSVM', 'CBLOF', 'Donut', 'KNN', 'LOF', 'HBOS', 'AutoEncoder', 'FITS', 'MCD', 'EIF', 'KMeansAD', 'COPOD']","['MCD' 'HBOS' 'AutoEncoder' 'EIF' 'CBLOF' 'OmniAnomaly' 'PCA' 'OCSVM'
+ 'KMeansAD' 'KNN' 'ALLM4TS' 'COPOD' 'TimesNet' 'RobustPCA' 'USAD'
+ 'AnomalyTransformer' 'LOF' 'OFA' 'TranAD' 'FITS' 'LSTMAD' 'CNN' 'IForest'
+ 'Donut']",-0.38869565217391305,21.280755758285522
+MITDB_202,"['OFA', 'CNN', 'ALLM4TS', 'LSTMAD', 'OmniAnomaly', 'PCA', 'KMeansAD', 'IForest', 'TimesNet', 'USAD', 'Donut', 'TranAD', 'EIF', 'MCD', 'COPOD', 'FITS', 'CBLOF', 'AutoEncoder', 'HBOS', 'OCSVM', 'LOF', 'KNN', 'AnomalyTransformer', 'RobustPCA']","['HBOS' 'MCD' 'EIF' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN' 'OCSVM'
+ 'TimesNet' 'USAD' 'RobustPCA' 'COPOD' 'AnomalyTransformer' 'TranAD'
+ 'AutoEncoder' 'ALLM4TS' 'LOF' 'OFA' 'LSTMAD' 'CNN' 'FITS' 'IForest'
+ 'Donut']",-0.22347826086956518,20.787713527679443
+MITDB_203,"['ALLM4TS', 'CNN', 'OFA', 'PCA', 'OmniAnomaly', 'TimesNet', 'IForest', 'USAD', 'Donut', 'LSTMAD', 'TranAD', 'AnomalyTransformer', 'FITS', 'RobustPCA', 'COPOD', 'MCD', 'KMeansAD', 'EIF', 'OCSVM', 'HBOS', 'AutoEncoder', 'KNN', 'LOF', 'CBLOF']","['MCD' 'HBOS' 'EIF' 'CBLOF' 'OmniAnomaly' 'AutoEncoder' 'KMeansAD' 'PCA'
+ 'KNN' 'OCSVM' 'ALLM4TS' 'COPOD' 'RobustPCA' 'AnomalyTransformer'
+ 'TimesNet' 'USAD' 'LOF' 'TranAD' 'FITS' 'OFA' 'LSTMAD' 'CNN' 'IForest'
+ 'Donut']",-0.49391304347826087,22.38903546333313
+MITDB_205,"['OFA', 'CNN', 'ALLM4TS', 'OmniAnomaly', 'PCA', 'TimesNet', 'LSTMAD', 'Donut', 'USAD', 'TranAD', 'FITS', 'IForest', 'AnomalyTransformer', 'MCD', 'OCSVM', 'CBLOF', 'HBOS', 'AutoEncoder', 'COPOD', 'KNN', 'LOF', 'EIF', 'KMeansAD', 'RobustPCA']","['EIF' 'OmniAnomaly' 'HBOS' 'MCD' 'PCA' 'KMeansAD' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'TranAD' 'RobustPCA' 'OCSVM' 'AnomalyTransformer' 'LSTMAD'
+ 'COPOD' 'OFA' 'CNN' 'LOF' 'IForest' 'ALLM4TS' 'FITS' 'AutoEncoder'
+ 'Donut']",-0.21739130434782608,23.132028102874756
+MITDB_207,"['CNN', 'PCA', 'OmniAnomaly', 'IForest', 'USAD', 'TranAD', 'Donut', 'ALLM4TS', 'KMeansAD', 'MCD', 'COPOD', 'LSTMAD', 'CBLOF', 'OCSVM', 'EIF', 'HBOS', 'AutoEncoder', 'TimesNet', 'OFA', 'FITS', 'AnomalyTransformer', 'RobustPCA', 'KNN', 'LOF']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'RobustPCA' 'AnomalyTransformer' 'COPOD' 'TranAD' 'OCSVM'
+ 'LOF' 'LSTMAD' 'OFA' 'CNN' 'AutoEncoder' 'ALLM4TS' 'FITS' 'IForest'
+ 'Donut']",-0.019130434782608695,22.40778160095215
+MITDB_208,"['ALLM4TS', 'RobustPCA', 'TimesNet', 'OmniAnomaly', 'PCA', 'OFA', 'CNN', 'TranAD', 'Donut', 'USAD', 'FITS', 'LSTMAD', 'AnomalyTransformer', 'CBLOF', 'IForest', 'LOF', 'KNN', 'OCSVM', 'HBOS', 'AutoEncoder', 'COPOD', 'MCD', 'EIF', 'KMeansAD']","['MCD' 'EIF' 'HBOS' 'OmniAnomaly' 'PCA' 'KMeansAD' 'CBLOF' 'KNN'
+ 'AutoEncoder' 'USAD' 'TimesNet' 'RobustPCA' 'OCSVM' 'AnomalyTransformer'
+ 'COPOD' 'TranAD' 'ALLM4TS' 'LOF' 'LSTMAD' 'OFA' 'CNN' 'FITS' 'IForest'
+ 'Donut']",-0.3539130434782608,21.716456413269043
+MITDB_209,"['OFA', 'CNN', 'ALLM4TS', 'PCA', 'OmniAnomaly', 'TimesNet', 'FITS', 'LSTMAD', 'USAD', 'RobustPCA', 'TranAD', 'Donut', 'LOF', 'KNN', 'OCSVM', 'KMeansAD', 'HBOS', 'AutoEncoder', 'AnomalyTransformer', 'MCD', 'CBLOF', 'COPOD', 'EIF', 'IForest']","['MCD' 'PCA' 'OmniAnomaly' 'ALLM4TS' 'HBOS' 'AutoEncoder'
+ 'AnomalyTransformer' 'EIF' 'RobustPCA' 'CBLOF' 'OCSVM' 'USAD' 'KNN'
+ 'KMeansAD' 'TimesNet' 'LOF' 'TranAD' 'FITS' 'COPOD' 'OFA' 'Donut'
+ 'LSTMAD' 'IForest' 'CNN']",-0.11217391304347826,23.923019886016846
+MITDB_210,"['OFA', 'CNN', 'IForest', 'ALLM4TS', 'KMeansAD', 'PCA', 'OmniAnomaly', 'TimesNet', 'LSTMAD', 'AnomalyTransformer', 'FITS', 'USAD', 'Donut', 'TranAD', 'COPOD', 'MCD', 'EIF', 'CBLOF', 'HBOS', 'AutoEncoder', 'OCSVM', 'RobustPCA', 'KNN', 'LOF']","['MCD' 'HBOS' 'EIF' 'OmniAnomaly' 'PCA' 'KMeansAD' 'CBLOF' 'AutoEncoder'
+ 'KNN' 'OCSVM' 'RobustPCA' 'AnomalyTransformer' 'ALLM4TS' 'TimesNet'
+ 'USAD' 'COPOD' 'LOF' 'TranAD' 'OFA' 'LSTMAD' 'FITS' 'CNN' 'Donut'
+ 'IForest']",-0.3504347826086956,21.55195927619934
+MITDB_212,"['OFA', 'CNN', 'LSTMAD', 'KMeansAD', 'FITS', 'TimesNet', 'USAD', 'TranAD', 'OmniAnomaly', 'PCA', 'RobustPCA', 'Donut', 'ALLM4TS', 'MCD', 'IForest', 'EIF', 'COPOD', 'OCSVM', 'AutoEncoder', 'HBOS', 'CBLOF', 'LOF', 'KNN', 'AnomalyTransformer']","['MCD' 'HBOS' 'EIF' 'OmniAnomaly' 'PCA' 'CBLOF' 'KMeansAD' 'AutoEncoder'
+ 'KNN' 'OCSVM' 'ALLM4TS' 'TimesNet' 'RobustPCA' 'AnomalyTransformer'
+ 'USAD' 'COPOD' 'LOF' 'TranAD' 'OFA' 'LSTMAD' 'FITS' 'CNN' 'IForest'
+ 'Donut']",-0.3643478260869565,21.66492986679077
+MITDB_213,"['OFA', 'ALLM4TS', 'PCA', 'OmniAnomaly', 'CNN', 'LSTMAD', 'TimesNet', 'Donut', 'USAD', 'AnomalyTransformer', 'TranAD', 'FITS', 'IForest', 'RobustPCA', 'CBLOF', 'KMeansAD', 'HBOS', 'AutoEncoder', 'MCD', 'COPOD', 'KNN', 'LOF', 'OCSVM', 'EIF']","['AutoEncoder' 'ALLM4TS' 'MCD' 'HBOS' 'CBLOF' 'OCSVM' 'COPOD'
+ 'AnomalyTransformer' 'KNN' 'EIF' 'RobustPCA' 'KMeansAD' 'PCA'
+ 'OmniAnomaly' 'LOF' 'FITS' 'TimesNet' 'Donut' 'USAD' 'OFA' 'LSTMAD'
+ 'IForest' 'TranAD' 'CNN']",-0.468695652173913,23.20769476890564
+MITDB_214,"['CNN', 'OFA', 'ALLM4TS', 'IForest', 'TimesNet', 'LSTMAD', 'PCA', 'OmniAnomaly', 'AnomalyTransformer', 'KMeansAD', 'USAD', 'TranAD', 'MCD', 'EIF', 'COPOD', 'CBLOF', 'Donut', 'AutoEncoder', 'OCSVM', 'HBOS', 'FITS', 'RobustPCA', 'KNN', 'LOF']","['MCD' 'HBOS' 'EIF' 'KMeansAD' 'CBLOF' 'OmniAnomaly' 'PCA' 'AutoEncoder'
+ 'KNN' 'OCSVM' 'ALLM4TS' 'RobustPCA' 'COPOD' 'AnomalyTransformer'
+ 'TimesNet' 'USAD' 'LOF' 'TranAD' 'LSTMAD' 'OFA' 'CNN' 'FITS' 'Donut'
+ 'IForest']",-0.2434782608695652,22.755056142807007
+MITDB_215,"['OFA', 'CNN', 'OmniAnomaly', 'PCA', 'ALLM4TS', 'TimesNet', 'LSTMAD', 'IForest', 'Donut', 'USAD', 'TranAD', 'FITS', 'KMeansAD', 'EIF', 'RobustPCA', 'MCD', 'AnomalyTransformer', 'COPOD', 'OCSVM', 'AutoEncoder', 'HBOS', 'KNN', 'LOF', 'CBLOF']","['AutoEncoder' 'ALLM4TS' 'MCD' 'OCSVM' 'HBOS' 'CBLOF' 'AnomalyTransformer'
+ 'EIF' 'PCA' 'OmniAnomaly' 'KNN' 'RobustPCA' 'COPOD' 'KMeansAD' 'TimesNet'
+ 'LOF' 'USAD' 'FITS' 'OFA' 'LSTMAD' 'TranAD' 'Donut' 'IForest' 'CNN']",-0.4765217391304347,22.38677716255188
+MITDB_217,"['CNN', 'ALLM4TS', 'OFA', 'LSTMAD', 'AnomalyTransformer', 'IForest', 'KMeansAD', 'OCSVM', 'USAD', 'TranAD', 'KNN', 'LOF', 'TimesNet', 'HBOS', 'CBLOF', 'AutoEncoder', 'FITS', 'MCD', 'RobustPCA', 'COPOD', 'EIF', 'Donut', 'OmniAnomaly', 'PCA']","['ALLM4TS' 'AnomalyTransformer' 'AutoEncoder' 'PCA' 'Donut' 'OmniAnomaly'
+ 'RobustPCA' 'FITS' 'OFA' 'OCSVM' 'LOF' 'TimesNet' 'USAD' 'CNN' 'CBLOF'
+ 'IForest' 'MCD' 'LSTMAD' 'EIF' 'TranAD' 'KNN' 'COPOD' 'HBOS' 'KMeansAD']",-0.08,21.35586142539978
+MITDB_219,"['AnomalyTransformer', 'IForest', 'RobustPCA', 'TranAD', 'CNN', 'USAD', 'OmniAnomaly', 'PCA', 'Donut', 'EIF', 'COPOD', 'LSTMAD', 'MCD', 'CBLOF', 'OCSVM', 'LOF', 'KNN', 'ALLM4TS', 'HBOS', 'AutoEncoder', 'TimesNet', 'KMeansAD', 'OFA', 'FITS']","['Donut' 'FITS' 'ALLM4TS' 'IForest' 'OFA' 'LOF' 'CNN' 'LSTMAD'
+ 'AnomalyTransformer' 'OCSVM' 'USAD' 'AutoEncoder' 'TranAD' 'TimesNet'
+ 'RobustPCA' 'COPOD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN' 'KMeansAD' 'EIF'
+ 'MCD' 'HBOS']",0.042608695652173914,21.58333945274353
+MITDB_220,"['CNN', 'OFA', 'IForest', 'KMeansAD', 'TimesNet', 'LSTMAD', 'ALLM4TS', 'COPOD', 'MCD', 'EIF', 'FITS', 'PCA', 'OmniAnomaly', 'HBOS', 'AutoEncoder', 'OCSVM', 'Donut', 'USAD', 'KNN', 'LOF', 'TranAD', 'AnomalyTransformer', 'CBLOF', 'RobustPCA']","['MCD' 'HBOS' 'EIF' 'CBLOF' 'OmniAnomaly' 'PCA' 'KMeansAD' 'AutoEncoder'
+ 'KNN' 'ALLM4TS' 'OCSVM' 'COPOD' 'RobustPCA' 'AnomalyTransformer'
+ 'TimesNet' 'USAD' 'LOF' 'TranAD' 'OFA' 'FITS' 'LSTMAD' 'CNN' 'IForest'
+ 'Donut']",-0.18173913043478263,22.636090517044067
+MITDB_221,"['ALLM4TS', 'OmniAnomaly', 'PCA', 'CNN', 'OFA', 'TimesNet', 'LSTMAD', 'RobustPCA', 'IForest', 'USAD', 'TranAD', 'Donut', 'FITS', 'COPOD', 'MCD', 'KMeansAD', 'OCSVM', 'HBOS', 'AutoEncoder', 'AnomalyTransformer', 'CBLOF', 'EIF', 'KNN', 'LOF']","['MCD' 'HBOS' 'AutoEncoder' 'EIF' 'CBLOF' 'KMeansAD' 'ALLM4TS' 'OCSVM'
+ 'KNN' 'PCA' 'OmniAnomaly' 'COPOD' 'RobustPCA' 'AnomalyTransformer'
+ 'TimesNet' 'LOF' 'USAD' 'FITS' 'TranAD' 'OFA' 'LSTMAD' 'CNN' 'Donut'
+ 'IForest']",-0.42173913043478256,22.4133780002594
+MITDB_222,"['AnomalyTransformer', 'LSTMAD', 'TranAD', 'USAD', 'RobustPCA', 'LOF', 'KNN', 'OCSVM', 'HBOS', 'AutoEncoder', 'ALLM4TS', 'Donut', 'CBLOF', 'OmniAnomaly', 'PCA', 'EIF', 'COPOD', 'MCD', 'CNN', 'FITS', 'TimesNet', 'KMeansAD', 'OFA', 'IForest']","['MCD' 'EIF' 'HBOS' 'OmniAnomaly' 'PCA' 'KMeansAD' 'CBLOF' 'KNN'
+ 'AutoEncoder' 'TimesNet' 'USAD' 'AnomalyTransformer' 'OCSVM' 'RobustPCA'
+ 'ALLM4TS' 'COPOD' 'LOF' 'OFA' 'TranAD' 'LSTMAD' 'FITS' 'CNN' 'IForest'
+ 'Donut']",-0.004347826086956522,22.628910303115845
+MITDB_223,"['CNN', 'ALLM4TS', 'IForest', 'TimesNet', 'KMeansAD', 'LSTMAD', 'AnomalyTransformer', 'OFA', 'USAD', 'RobustPCA', 'Donut', 'TranAD', 'KNN', 'LOF', 'EIF', 'CBLOF', 'AutoEncoder', 'HBOS', 'OCSVM', 'PCA', 'OmniAnomaly', 'COPOD', 'MCD', 'FITS']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'RobustPCA' 'TranAD' 'COPOD' 'AnomalyTransformer' 'OCSVM'
+ 'LSTMAD' 'LOF' 'OFA' 'CNN' 'AutoEncoder' 'IForest' 'ALLM4TS' 'FITS'
+ 'Donut']",-0.3173913043478261,21.686332941055298
+MITDB_228,"['CNN', 'OmniAnomaly', 'PCA', 'ALLM4TS', 'OFA', 'IForest', 'TimesNet', 'AnomalyTransformer', 'TranAD', 'LSTMAD', 'USAD', 'Donut', 'FITS', 'RobustPCA', 'MCD', 'OCSVM', 'AutoEncoder', 'HBOS', 'COPOD', 'KNN', 'LOF', 'EIF', 'CBLOF', 'KMeansAD']","['AutoEncoder' 'MCD' 'ALLM4TS' 'HBOS' 'CBLOF' 'OCSVM' 'EIF' 'KNN' 'COPOD'
+ 'KMeansAD' 'AnomalyTransformer' 'RobustPCA' 'PCA' 'OmniAnomaly' 'LOF'
+ 'TimesNet' 'FITS' 'USAD' 'OFA' 'Donut' 'LSTMAD' 'TranAD' 'CNN' 'IForest']",-0.5252173913043477,21.436745643615723
+MITDB_230,"['OFA', 'CNN', 'PCA', 'OmniAnomaly', 'ALLM4TS', 'LSTMAD', 'KMeansAD', 'IForest', 'TranAD', 'USAD', 'Donut', 'TimesNet', 'FITS', 'MCD', 'COPOD', 'CBLOF', 'EIF', 'AnomalyTransformer', 'HBOS', 'AutoEncoder', 'OCSVM', 'RobustPCA', 'KNN', 'LOF']","['ALLM4TS' 'OmniAnomaly' 'CBLOF' 'AnomalyTransformer' 'RobustPCA' 'PCA'
+ 'CNN' 'OCSVM' 'EIF' 'Donut' 'FITS' 'OFA' 'MCD' 'HBOS' 'IForest' 'USAD'
+ 'COPOD' 'TimesNet' 'LOF' 'KNN' 'TranAD' 'KMeansAD' 'LSTMAD' 'AutoEncoder']",0.16260869565217392,22.189305305480957
+MITDB_232,"['OmniAnomaly', 'PCA', 'TimesNet', 'CNN', 'OFA', 'IForest', 'USAD', 'RobustPCA', 'FITS', 'TranAD', 'LSTMAD', 'ALLM4TS', 'Donut', 'MCD', 'CBLOF', 'COPOD', 'OCSVM', 'HBOS', 'AutoEncoder', 'KMeansAD', 'EIF', 'KNN', 'LOF', 'AnomalyTransformer']","['MCD' 'HBOS' 'EIF' 'AutoEncoder' 'CBLOF' 'ALLM4TS' 'OmniAnomaly' 'PCA'
+ 'KNN' 'KMeansAD' 'OCSVM' 'RobustPCA' 'AnomalyTransformer' 'COPOD'
+ 'TimesNet' 'USAD' 'LOF' 'OFA' 'TranAD' 'LSTMAD' 'CNN' 'FITS' 'Donut'
+ 'IForest']",-0.348695652173913,21.822941303253174
+MITDB_233,"['OFA', 'ALLM4TS', 'IForest', 'CNN', 'AnomalyTransformer', 'LSTMAD', 'TimesNet', 'MCD', 'CBLOF', 'COPOD', 'EIF', 'OCSVM', 'HBOS', 'AutoEncoder', 'FITS', 'KMeansAD', 'USAD', 'TranAD', 'PCA', 'OmniAnomaly', 'RobustPCA', 'KNN', 'LOF', 'Donut']","['MCD' 'HBOS' 'EIF' 'AutoEncoder' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF'
+ 'KNN' 'OCSVM' 'ALLM4TS' 'AnomalyTransformer' 'RobustPCA' 'TimesNet'
+ 'COPOD' 'USAD' 'LOF' 'TranAD' 'LSTMAD' 'OFA' 'FITS' 'CNN' 'Donut'
+ 'IForest']",-0.13304347826086957,22.501898288726807
+MITDB_234,"['OFA', 'CNN', 'TimesNet', 'KMeansAD', 'IForest', 'ALLM4TS', 'FITS', 'OmniAnomaly', 'PCA', 'LSTMAD', 'USAD', 'MCD', 'TranAD', 'COPOD', 'EIF', 'AnomalyTransformer', 'HBOS', 'AutoEncoder', 'OCSVM', 'Donut', 'RobustPCA', 'LOF', 'KNN', 'CBLOF']","['CBLOF' 'EIF' 'HBOS' 'OmniAnomaly' 'PCA' 'MCD' 'RobustPCA' 'ALLM4TS'
+ 'KMeansAD' 'AnomalyTransformer' 'OCSVM' 'COPOD' 'KNN' 'FITS' 'LOF'
+ 'TimesNet' 'CNN' 'USAD' 'OFA' 'Donut' 'TranAD' 'IForest' 'LSTMAD'
+ 'AutoEncoder']",-0.22347826086956518,20.348206520080566
+MSL_C-1,"['OFA', 'OmniAnomaly', 'KMeansAD', 'PCA', 'TimesNet', 'IForest', 'Donut', 'FITS', 'COPOD', 'HBOS', 'OCSVM', 'USAD', 'MCD', 'TranAD', 'AutoEncoder', 'EIF', 'CNN', 'KNN', 'LOF', 'LSTMAD', 'CBLOF', 'AnomalyTransformer', 'RobustPCA', 'ALLM4TS']","['MCD' 'HBOS' 'AutoEncoder' 'OmniAnomaly' 'PCA' 'KMeansAD' 'KNN' 'EIF'
+ 'CBLOF' 'USAD' 'TranAD' 'OCSVM' 'TimesNet' 'LSTMAD' 'COPOD' 'ALLM4TS'
+ 'LOF' 'CNN' 'RobustPCA' 'OFA' 'AnomalyTransformer' 'FITS' 'IForest'
+ 'Donut']",0.10173913043478258,2.6526095867156982
+MSL_C-2,"['OmniAnomaly', 'PCA', 'KMeansAD', 'IForest', 'COPOD', 'OCSVM', 'AutoEncoder', 'HBOS', 'OFA', 'FITS', 'USAD', 'EIF', 'TranAD', 'CBLOF', 'KNN', 'TimesNet', 'LSTMAD', 'CNN', 'MCD', 'Donut', 'LOF', 'AnomalyTransformer', 'ALLM4TS', 'RobustPCA']","['MCD' 'HBOS' 'OmniAnomaly' 'PCA' 'KMeansAD' 'AutoEncoder' 'KNN' 'USAD'
+ 'TranAD' 'TimesNet' 'CBLOF' 'LSTMAD' 'OCSVM' 'EIF' 'OFA' 'LOF' 'COPOD'
+ 'CNN' 'IForest' 'RobustPCA' 'ALLM4TS' 'AnomalyTransformer' 'FITS' 'Donut']",0.46956521739130425,2.618201971054077
+MSL_D-14,"['HBOS', 'AutoEncoder', 'OCSVM', 'COPOD', 'MCD', 'IForest', 'Donut', 'EIF', 'LOF', 'CBLOF', 'KMeansAD', 'TranAD', 'LSTMAD', 'ALLM4TS', 'KNN', 'CNN', 'USAD', 'AnomalyTransformer', 'OmniAnomaly', 'PCA', 'TimesNet', 'FITS', 'OFA', 'RobustPCA']","['FITS' 'LOF' 'OFA' 'MCD' 'USAD' 'Donut' 'ALLM4TS' 'OCSVM' 'CNN'
+ 'AutoEncoder' 'PCA' 'TimesNet' 'TranAD' 'LSTMAD' 'IForest' 'OmniAnomaly'
+ 'KNN' 'CBLOF' 'COPOD' 'KMeansAD' 'HBOS' 'AnomalyTransformer' 'RobustPCA'
+ 'EIF']",-0.09739130434782609,2.7089126110076904
+MSL_D-15,"['ALLM4TS', 'RobustPCA', 'OFA', 'Donut', 'OmniAnomaly', 'TranAD', 'PCA', 'FITS', 'TimesNet', 'CNN', 'LSTMAD', 'USAD', 'EIF', 'CBLOF', 'MCD', 'HBOS', 'OCSVM', 'LOF', 'KNN', 'COPOD', 'AnomalyTransformer', 'KMeansAD', 'AutoEncoder', 'IForest']","['MCD' 'HBOS' 'AutoEncoder' 'KNN' 'KMeansAD' 'CBLOF' 'PCA' 'EIF' 'OCSVM'
+ 'OmniAnomaly' 'COPOD' 'ALLM4TS' 'USAD' 'LOF' 'TimesNet' 'TranAD'
+ 'RobustPCA' 'CNN' 'AnomalyTransformer' 'FITS' 'LSTMAD' 'OFA' 'Donut'
+ 'IForest']",-0.34695652173913033,2.633629083633423
+MSL_D-16,"['IForest', 'HBOS', 'COPOD', 'OCSVM', 'Donut', 'KNN', 'LOF', 'CBLOF', 'EIF', 'KMeansAD', 'PCA', 'OmniAnomaly', 'AnomalyTransformer', 'USAD', 'AutoEncoder', 'OFA', 'TranAD', 'TimesNet', 'LSTMAD', 'CNN', 'RobustPCA', 'FITS', 'ALLM4TS', 'MCD']","['OFA' 'IForest' 'Donut' 'FITS' 'LSTMAD' 'USAD' 'TranAD' 'CNN' 'LOF'
+ 'TimesNet' 'OmniAnomaly' 'ALLM4TS' 'OCSVM' 'PCA' 'AutoEncoder' 'MCD'
+ 'AnomalyTransformer' 'KNN' 'RobustPCA' 'COPOD' 'CBLOF' 'KMeansAD' 'HBOS'
+ 'EIF']",-0.23217391304347823,2.633676052093506
+MSL_F-4,"['OmniAnomaly', 'OFA', 'PCA', 'COPOD', 'KMeansAD', 'MCD', 'OCSVM', 'AutoEncoder', 'IForest', 'HBOS', 'EIF', 'CBLOF', 'USAD', 'CNN', 'LSTMAD', 'TranAD', 'TimesNet', 'Donut', 'FITS', 'KNN', 'LOF', 'AnomalyTransformer', 'RobustPCA', 'ALLM4TS']","['MCD' 'HBOS' 'OmniAnomaly' 'PCA' 'KMeansAD' 'AutoEncoder' 'KNN' 'USAD'
+ 'EIF' 'TranAD' 'LSTMAD' 'TimesNet' 'CBLOF' 'OFA' 'OCSVM' 'LOF'
+ 'RobustPCA' 'COPOD' 'CNN' 'IForest' 'AnomalyTransformer' 'ALLM4TS' 'FITS'
+ 'Donut']",0.5469565217391303,2.8207688331604004
+MSL_F-5,"['ALLM4TS', 'RobustPCA', 'OmniAnomaly', 'PCA', 'CNN', 'TranAD', 'USAD', 'LSTMAD', 'Donut', 'TimesNet', 'FITS', 'IForest', 'AutoEncoder', 'MCD', 'OCSVM', 'OFA', 'CBLOF', 'COPOD', 'HBOS', 'LOF', 'EIF', 'KNN', 'AnomalyTransformer', 'KMeansAD']","['MCD' 'HBOS' 'KMeansAD' 'EIF' 'KNN' 'PCA' 'CBLOF' 'OmniAnomaly'
+ 'AutoEncoder' 'COPOD' 'USAD' 'OCSVM' 'TimesNet' 'TranAD' 'RobustPCA'
+ 'LOF' 'AnomalyTransformer' 'LSTMAD' 'ALLM4TS' 'CNN' 'OFA' 'FITS'
+ 'IForest' 'Donut']",-0.3678260869565217,2.8826918601989746
+MSL_F-7,"['IForest', 'KMeansAD', 'MCD', 'AutoEncoder', 'RobustPCA', 'COPOD', 'EIF', 'LSTMAD', 'HBOS', 'CNN', 'OFA', 'CBLOF', 'TranAD', 'FITS', 'KNN', 'AnomalyTransformer', 'TimesNet', 'USAD', 'ALLM4TS', 'Donut', 'LOF', 'OCSVM', 'OmniAnomaly', 'PCA']","['MCD' 'AutoEncoder' 'OFA' 'CNN' 'OCSVM' 'HBOS' 'ALLM4TS' 'TranAD' 'USAD'
+ 'LOF' 'FITS' 'TimesNet' 'PCA' 'KNN' 'LSTMAD' 'OmniAnomaly' 'Donut'
+ 'COPOD' 'KMeansAD' 'CBLOF' 'IForest' 'AnomalyTransformer' 'RobustPCA'
+ 'EIF']",-0.1243478260869565,2.8945319652557373
+MSL_F-8,"['IForest', 'Donut', 'AutoEncoder', 'COPOD', 'OCSVM', 'MCD', 'EIF', 'USAD', 'PCA', 'FITS', 'CBLOF', 'KNN', 'TranAD', 'TimesNet', 'OmniAnomaly', 'HBOS', 'CNN', 'AnomalyTransformer', 'LOF', 'LSTMAD', 'RobustPCA', 'KMeansAD', 'OFA', 'ALLM4TS']","['MCD' 'AutoEncoder' 'OFA' 'OCSVM' 'USAD' 'FITS' 'LOF' 'ALLM4TS'
+ 'TimesNet' 'OmniAnomaly' 'PCA' 'TranAD' 'LSTMAD' 'HBOS' 'Donut' 'KNN'
+ 'IForest' 'CNN' 'COPOD' 'CBLOF' 'KMeansAD' 'RobustPCA'
+ 'AnomalyTransformer' 'EIF']",0.12,2.654690980911255
+MSL_M-1,"['KMeansAD', 'Donut', 'OFA', 'AutoEncoder', 'PCA', 'OmniAnomaly', 'LOF', 'AnomalyTransformer', 'KNN', 'FITS', 'CBLOF', 'TimesNet', 'USAD', 'LSTMAD', 'CNN', 'EIF', 'TranAD', 'HBOS', 'OCSVM', 'MCD', 'COPOD', 'IForest', 'RobustPCA', 'ALLM4TS']","['MCD' 'HBOS' 'OmniAnomaly' 'PCA' 'KMeansAD' 'EIF' 'KNN' 'USAD' 'CBLOF'
+ 'TranAD' 'TimesNet' 'LSTMAD' 'CNN' 'AutoEncoder' 'OFA' 'LOF' 'COPOD'
+ 'RobustPCA' 'OCSVM' 'AnomalyTransformer' 'FITS' 'IForest' 'Donut'
+ 'ALLM4TS']",0.17130434782608694,2.6822659969329834
+MSL_M-2,"['ALLM4TS', 'OCSVM', 'Donut', 'MCD', 'AutoEncoder', 'OFA', 'RobustPCA', 'OmniAnomaly', 'PCA', 'TimesNet', 'CBLOF', 'TranAD', 'LSTMAD', 'FITS', 'CNN', 'EIF', 'HBOS', 'USAD', 'KNN', 'AnomalyTransformer', 'LOF', 'KMeansAD', 'COPOD', 'IForest']","['MCD' 'HBOS' 'KMeansAD' 'EIF' 'KNN' 'CBLOF' 'AutoEncoder' 'PCA'
+ 'OmniAnomaly' 'COPOD' 'OCSVM' 'USAD' 'TimesNet' 'TranAD' 'LOF'
+ 'RobustPCA' 'ALLM4TS' 'CNN' 'AnomalyTransformer' 'LSTMAD' 'OFA' 'FITS'
+ 'IForest' 'Donut']",-0.05565217391304347,2.6395606994628906
+MSL_M-3,"['IForest', 'ALLM4TS', 'COPOD', 'OCSVM', 'MCD', 'OmniAnomaly', 'PCA', 'HBOS', 'RobustPCA', 'CBLOF', 'TimesNet', 'TranAD', 'EIF', 'USAD', 'KNN', 'AutoEncoder', 'KMeansAD', 'LOF', 'AnomalyTransformer', 'Donut', 'OFA', 'FITS', 'CNN', 'LSTMAD']","['MCD' 'OFA' 'USAD' 'AutoEncoder' 'TranAD' 'FITS' 'CNN' 'LOF' 'LSTMAD'
+ 'TimesNet' 'Donut' 'PCA' 'OCSVM' 'OmniAnomaly' 'ALLM4TS' 'IForest' 'KNN'
+ 'HBOS' 'AnomalyTransformer' 'COPOD' 'RobustPCA' 'CBLOF' 'KMeansAD' 'EIF']",-0.3095652173913043,2.6284244060516357
+MSL_M-4,"['IForest', 'OCSVM', 'MCD', 'COPOD', 'HBOS', 'CBLOF', 'EIF', 'KNN', 'Donut', 'TimesNet', 'USAD', 'AnomalyTransformer', 'TranAD', 'OmniAnomaly', 'LOF', 'PCA', 'KMeansAD', 'AutoEncoder', 'CNN', 'FITS', 'LSTMAD', 'OFA', 'RobustPCA', 'ALLM4TS']","['OFA' 'IForest' 'LSTMAD' 'USAD' 'TranAD' 'Donut' 'CNN' 'FITS'
+ 'OmniAnomaly' 'TimesNet' 'LOF' 'PCA' 'MCD' 'OCSVM' 'ALLM4TS' 'KNN'
+ 'AnomalyTransformer' 'AutoEncoder' 'RobustPCA' 'KMeansAD' 'COPOD' 'CBLOF'
+ 'HBOS' 'EIF']",-0.23043478260869563,2.616711378097534
+MSL_M-5,"['KMeansAD', 'OmniAnomaly', 'PCA', 'OFA', 'IForest', 'HBOS', 'CBLOF', 'LOF', 'OCSVM', 'KNN', 'EIF', 'RobustPCA', 'USAD', 'COPOD', 'TimesNet', 'FITS', 'AnomalyTransformer', 'LSTMAD', 'Donut', 'TranAD', 'MCD', 'CNN', 'AutoEncoder', 'ALLM4TS']","['MCD' 'HBOS' 'OmniAnomaly' 'KMeansAD' 'PCA' 'AutoEncoder' 'KNN' 'EIF'
+ 'CBLOF' 'USAD' 'TimesNet' 'TranAD' 'LSTMAD' 'OCSVM' 'COPOD' 'LOF' 'OFA'
+ 'RobustPCA' 'CNN' 'ALLM4TS' 'AnomalyTransformer' 'IForest' 'FITS' 'Donut']",0.32434782608695645,2.6801304817199707
+MSL_M-6,"['ALLM4TS', 'RobustPCA', 'PCA', 'OmniAnomaly', 'Donut', 'OFA', 'MCD', 'AutoEncoder', 'OCSVM', 'TranAD', 'IForest', 'LSTMAD', 'CNN', 'USAD', 'TimesNet', 'FITS', 'KNN', 'COPOD', 'LOF', 'AnomalyTransformer', 'CBLOF', 'HBOS', 'EIF', 'KMeansAD']","['MCD' 'AutoEncoder' 'OFA' 'USAD' 'OCSVM' 'PCA' 'OmniAnomaly' 'TimesNet'
+ 'LOF' 'ALLM4TS' 'FITS' 'TranAD' 'LSTMAD' 'KNN' 'Donut' 'HBOS' 'IForest'
+ 'CNN' 'KMeansAD' 'CBLOF' 'COPOD' 'RobustPCA' 'AnomalyTransformer' 'EIF']",0.5104347826086956,2.619570016860962
+MSL_M-7,"['IForest', 'COPOD', 'HBOS', 'CBLOF', 'EIF', 'OCSVM', 'MCD', 'AutoEncoder', 'KMeansAD', 'ALLM4TS', 'KNN', 'PCA', 'OmniAnomaly', 'TranAD', 'TimesNet', 'CNN', 'USAD', 'LSTMAD', 'FITS', 'Donut', 'OFA', 'LOF', 'RobustPCA', 'AnomalyTransformer']","['OFA' 'FITS' 'MCD' 'USAD' 'LOF' 'Donut' 'OCSVM' 'AutoEncoder' 'ALLM4TS'
+ 'TranAD' 'TimesNet' 'PCA' 'IForest' 'CNN' 'OmniAnomaly' 'LSTMAD' 'KNN'
+ 'COPOD' 'CBLOF' 'AnomalyTransformer' 'RobustPCA' 'HBOS' 'KMeansAD' 'EIF']",-0.3060869565217391,2.7086353302001953
+MSL_P-10,"['OmniAnomaly', 'PCA', 'OFA', 'IForest', 'KMeansAD', 'ALLM4TS', 'FITS', 'CBLOF', 'USAD', 'TimesNet', 'KNN', 'TranAD', 'LSTMAD', 'CNN', 'HBOS', 'LOF', 'EIF', 'AutoEncoder', 'MCD', 'COPOD', 'OCSVM', 'Donut', 'AnomalyTransformer', 'RobustPCA']","['MCD' 'HBOS' 'AutoEncoder' 'EIF' 'KMeansAD' 'KNN' 'CBLOF' 'PCA'
+ 'OmniAnomaly' 'OCSVM' 'COPOD' 'TimesNet' 'ALLM4TS' 'RobustPCA' 'USAD'
+ 'AnomalyTransformer' 'LOF' 'TranAD' 'LSTMAD' 'CNN' 'OFA' 'FITS' 'Donut'
+ 'IForest']",-0.09217391304347824,3.107940912246704
+MSL_P-11,"['IForest', 'KMeansAD', 'Donut', 'TranAD', 'USAD', 'TimesNet', 'PCA', 'LSTMAD', 'OmniAnomaly', 'CNN', 'MCD', 'EIF', 'CBLOF', 'OCSVM', 'KNN', 'COPOD', 'LOF', 'AutoEncoder', 'HBOS', 'FITS', 'AnomalyTransformer', 'OFA', 'RobustPCA', 'ALLM4TS']","['OFA' 'MCD' 'USAD' 'TranAD' 'TimesNet' 'LSTMAD' 'AutoEncoder' 'LOF'
+ 'OmniAnomaly' 'FITS' 'OCSVM' 'PCA' 'IForest' 'CNN' 'Donut' 'ALLM4TS'
+ 'KNN' 'KMeansAD' 'HBOS' 'COPOD' 'CBLOF' 'AnomalyTransformer' 'RobustPCA'
+ 'EIF']",0.25217391304347825,2.8336751461029053
+MSL_P-14,"['OmniAnomaly', 'PCA', 'IForest', 'OFA', 'KMeansAD', 'TimesNet', 'FITS', 'USAD', 'CBLOF', 'TranAD', 'CNN', 'LSTMAD', 'HBOS', 'KNN', 'LOF', 'EIF', 'MCD', 'AutoEncoder', 'Donut', 'OCSVM', 'COPOD', 'AnomalyTransformer', 'RobustPCA', 'ALLM4TS']","['MCD' 'HBOS' 'AutoEncoder' 'EIF' 'KNN' 'KMeansAD' 'PCA' 'CBLOF'
+ 'OmniAnomaly' 'OCSVM' 'ALLM4TS' 'RobustPCA' 'COPOD' 'TimesNet'
+ 'AnomalyTransformer' 'USAD' 'LOF' 'TranAD' 'LSTMAD' 'CNN' 'OFA' 'FITS'
+ 'Donut' 'IForest']",-0.18173913043478263,3.066788911819458
+MSL_P-15,"['IForest', 'RobustPCA', 'Donut', 'TranAD', 'AutoEncoder', 'MCD', 'OCSVM', 'AnomalyTransformer', 'LOF', 'KNN', 'HBOS', 'COPOD', 'EIF', 'USAD', 'CBLOF', 'CNN', 'LSTMAD', 'KMeansAD', 'FITS', 'TimesNet', 'ALLM4TS', 'OFA', 'OmniAnomaly', 'PCA']","['MCD' 'HBOS' 'EIF' 'KMeansAD' 'PCA' 'KNN' 'OmniAnomaly' 'AutoEncoder'
+ 'CBLOF' 'USAD' 'COPOD' 'OCSVM' 'TimesNet' 'RobustPCA' 'TranAD'
+ 'AnomalyTransformer' 'LOF' 'LSTMAD' 'ALLM4TS' 'CNN' 'OFA' 'FITS'
+ 'IForest' 'Donut']",-0.09565217391304347,2.7702410221099854
+MSL_S-2,"['KMeansAD', 'IForest', 'OFA', 'PCA', 'OmniAnomaly', 'USAD', 'EIF', 'LOF', 'OCSVM', 'AutoEncoder', 'CBLOF', 'TranAD', 'LSTMAD', 'CNN', 'KNN', 'HBOS', 'COPOD', 'MCD', 'TimesNet', 'FITS', 'AnomalyTransformer', 'ALLM4TS', 'RobustPCA', 'Donut']","['OFA' 'Donut' 'USAD' 'FITS' 'IForest' 'LOF' 'TranAD' 'TimesNet' 'CNN'
+ 'LSTMAD' 'PCA' 'OmniAnomaly' 'OCSVM' 'ALLM4TS' 'MCD' 'KNN' 'AutoEncoder'
+ 'COPOD' 'CBLOF' 'RobustPCA' 'AnomalyTransformer' 'KMeansAD' 'HBOS' 'EIF']",0.11478260869565216,2.7142457962036133
+MSL_T-12,"['OFA', 'PCA', 'OmniAnomaly', 'USAD', 'TimesNet', 'FITS', 'LSTMAD', 'CNN', 'RobustPCA', 'TranAD', 'OCSVM', 'LOF', 'KMeansAD', 'HBOS', 'KNN', 'Donut', 'ALLM4TS', 'AnomalyTransformer', 'COPOD', 'EIF', 'CBLOF', 'AutoEncoder', 'MCD', 'IForest']","['MCD' 'HBOS' 'EIF' 'OmniAnomaly' 'AutoEncoder' 'KMeansAD' 'PCA' 'KNN'
+ 'CBLOF' 'USAD' 'TimesNet' 'TranAD' 'OCSVM' 'RobustPCA' 'LSTMAD'
+ 'AnomalyTransformer' 'COPOD' 'LOF' 'OFA' 'ALLM4TS' 'IForest' 'CNN' 'FITS'
+ 'Donut']",-0.1208695652173913,2.7356646060943604
+MSL_T-13,"['RobustPCA', 'PCA', 'Donut', 'OmniAnomaly', 'KMeansAD', 'TimesNet', 'FITS', 'IForest', 'KNN', 'CBLOF', 'COPOD', 'LOF', 'OCSVM', 'USAD', 'ALLM4TS', 'EIF', 'MCD', 'AutoEncoder', 'HBOS', 'AnomalyTransformer', 'LSTMAD', 'TranAD', 'CNN', 'OFA']","['MCD' 'HBOS' 'EIF' 'KMeansAD' 'KNN' 'CBLOF' 'AutoEncoder' 'OmniAnomaly'
+ 'PCA' 'COPOD' 'RobustPCA' 'USAD' 'TranAD' 'TimesNet' 'OCSVM'
+ 'AnomalyTransformer' 'LSTMAD' 'CNN' 'LOF' 'ALLM4TS' 'OFA' 'FITS'
+ 'IForest' 'Donut']",0.03565217391304347,2.606762647628784
+MSL_T-4,"['OCSVM', 'AutoEncoder', 'MCD', 'KNN', 'AnomalyTransformer', 'COPOD', 'LOF', 'EIF', 'HBOS', 'RobustPCA', 'CBLOF', 'IForest', 'TranAD', 'USAD', 'FITS', 'KMeansAD', 'LSTMAD', 'TimesNet', 'CNN', 'ALLM4TS', 'OmniAnomaly', 'PCA', 'OFA', 'Donut']","['CNN' 'TranAD' 'OFA' 'FITS' 'USAD' 'LSTMAD' 'Donut' 'TimesNet' 'LOF'
+ 'MCD' 'PCA' 'IForest' 'OmniAnomaly' 'KNN' 'AutoEncoder' 'HBOS' 'COPOD'
+ 'AnomalyTransformer' 'OCSVM' 'ALLM4TS' 'RobustPCA' 'CBLOF' 'KMeansAD'
+ 'EIF']",-0.4234782608695652,2.7501308917999268
+MSL_T-5,"['KMeansAD', 'OmniAnomaly', 'PCA', 'AutoEncoder', 'LOF', 'OCSVM', 'KNN', 'EIF', 'COPOD', 'HBOS', 'CBLOF', 'MCD', 'USAD', 'FITS', 'OFA', 'CNN', 'LSTMAD', 'TranAD', 'IForest', 'TimesNet', 'RobustPCA', 'AnomalyTransformer', 'Donut', 'ALLM4TS']","['CNN' 'MCD' 'OFA' 'FITS' 'TranAD' 'LOF' 'Donut' 'USAD' 'TimesNet'
+ 'LSTMAD' 'PCA' 'AutoEncoder' 'OmniAnomaly' 'KNN' 'IForest' 'HBOS' 'OCSVM'
+ 'ALLM4TS' 'AnomalyTransformer' 'COPOD' 'KMeansAD' 'RobustPCA' 'CBLOF'
+ 'EIF']",-0.14260869565217388,2.708547830581665
+MSL_T-8,"['KMeansAD', 'IForest', 'ALLM4TS', 'USAD', 'PCA', 'OmniAnomaly', 'EIF', 'AutoEncoder', 'COPOD', 'OCSVM', 'TranAD', 'MCD', 'LOF', 'OFA', 'LSTMAD', 'HBOS', 'CBLOF', 'TimesNet', 'CNN', 'FITS', 'Donut', 'KNN', 'RobustPCA', 'AnomalyTransformer']","['OFA' 'IForest' 'USAD' 'OmniAnomaly' 'Donut' 'LSTMAD' 'TranAD' 'PCA'
+ 'FITS' 'TimesNet' 'LOF' 'CNN' 'OCSVM' 'MCD' 'ALLM4TS' 'KNN'
+ 'AnomalyTransformer' 'RobustPCA' 'AutoEncoder' 'CBLOF' 'COPOD' 'KMeansAD'
+ 'HBOS' 'EIF']",0.08956521739130434,2.6318585872650146
+OPPORTUNITY_S1-ADL2,"['CBLOF', 'MCD', 'IForest', 'OCSVM', 'USAD', 'TranAD', 'Donut', 'PCA', 'OmniAnomaly', 'EIF', 'LOF', 'CNN', 'LSTMAD', 'COPOD', 'AutoEncoder', 'HBOS', 'KMeansAD', 'AnomalyTransformer', 'ALLM4TS', 'KNN', 'TimesNet', 'FITS', 'OFA', 'RobustPCA']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'OmniAnomaly' 'PCA' 'KNN' 'CBLOF'
+ 'TimesNet' 'TranAD' 'USAD' 'COPOD' 'RobustPCA' 'LSTMAD' 'CNN'
+ 'AnomalyTransformer' 'AutoEncoder' 'OCSVM' 'LOF' 'OFA' 'IForest' 'FITS'
+ 'ALLM4TS' 'Donut']",0.1643478260869565,4.133939504623413
+OPPORTUNITY_S1-ADL3,"['MCD', 'CBLOF', 'OCSVM', 'IForest', 'COPOD', 'Donut', 'HBOS', 'KMeansAD', 'TranAD', 'PCA', 'OmniAnomaly', 'LSTMAD', 'AutoEncoder', 'USAD', 'AnomalyTransformer', 'LOF', 'CNN', 'EIF', 'KNN', 'ALLM4TS', 'FITS', 'TimesNet', 'OFA', 'RobustPCA']","['EIF' 'HBOS' 'KMeansAD' 'MCD' 'OmniAnomaly' 'PCA' 'KNN' 'CBLOF'
+ 'TimesNet' 'USAD' 'TranAD' 'COPOD' 'RobustPCA' 'LSTMAD'
+ 'AnomalyTransformer' 'CNN' 'OCSVM' 'LOF' 'AutoEncoder' 'OFA' 'IForest'
+ 'FITS' 'Donut' 'ALLM4TS']",0.22434782608695653,4.238635540008545
+OPPORTUNITY_S1-ADL4,"['MCD', 'OCSVM', 'IForest', 'AutoEncoder', 'EIF', 'COPOD', 'CBLOF', 'Donut', 'USAD', 'LSTMAD', 'TranAD', 'OmniAnomaly', 'PCA', 'LOF', 'CNN', 'HBOS', 'KMeansAD', 'AnomalyTransformer', 'KNN', 'ALLM4TS', 'FITS', 'RobustPCA', 'OFA', 'TimesNet']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'OmniAnomaly' 'PCA' 'KNN' 'CBLOF' 'USAD'
+ 'TranAD' 'TimesNet' 'LSTMAD' 'RobustPCA' 'COPOD' 'CNN'
+ 'AnomalyTransformer' 'OFA' 'LOF' 'OCSVM' 'AutoEncoder' 'IForest' 'FITS'
+ 'Donut' 'ALLM4TS']",0.08086956521739129,4.161902189254761
+OPPORTUNITY_S1-ADL5,"['MCD', 'CBLOF', 'OCSVM', 'COPOD', 'IForest', 'AutoEncoder', 'Donut', 'TranAD', 'USAD', 'PCA', 'OmniAnomaly', 'LSTMAD', 'HBOS', 'EIF', 'CNN', 'KMeansAD', 'LOF', 'AnomalyTransformer', 'ALLM4TS', 'KNN', 'FITS', 'OFA', 'RobustPCA', 'TimesNet']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'KNN' 'OmniAnomaly' 'PCA' 'CBLOF' 'COPOD'
+ 'TimesNet' 'USAD' 'TranAD' 'RobustPCA' 'AutoEncoder' 'LSTMAD'
+ 'AnomalyTransformer' 'CNN' 'OCSVM' 'LOF' 'OFA' 'IForest' 'ALLM4TS' 'FITS'
+ 'Donut']",0.15391304347826085,4.000068426132202
+OPPORTUNITY_S2-ADL1,"['CBLOF', 'IForest', 'MCD', 'KMeansAD', 'AutoEncoder', 'COPOD', 'KNN', 'PCA', 'OmniAnomaly', 'USAD', 'LOF', 'EIF', 'HBOS', 'TranAD', 'Donut', 'LSTMAD', 'CNN', 'OCSVM', 'AnomalyTransformer', 'ALLM4TS', 'FITS', 'OFA', 'TimesNet', 'RobustPCA']","['EIF' 'HBOS' 'KMeansAD' 'MCD' 'OmniAnomaly' 'PCA' 'KNN' 'CBLOF' 'USAD'
+ 'TranAD' 'TimesNet' 'LSTMAD' 'CNN' 'RobustPCA' 'COPOD' 'OFA'
+ 'AnomalyTransformer' 'LOF' 'IForest' 'OCSVM' 'FITS' 'Donut' 'AutoEncoder'
+ 'ALLM4TS']",0.3660869565217391,4.797849893569946
+OPPORTUNITY_S2-ADL2,"['IForest', 'MCD', 'KMeansAD', 'EIF', 'AutoEncoder', 'CBLOF', 'OCSVM', 'KNN', 'COPOD', 'TranAD', 'USAD', 'LOF', 'OmniAnomaly', 'PCA', 'Donut', 'LSTMAD', 'HBOS', 'CNN', 'AnomalyTransformer', 'ALLM4TS', 'FITS', 'TimesNet', 'OFA', 'RobustPCA']","['EIF' 'HBOS' 'KMeansAD' 'MCD' 'OmniAnomaly' 'PCA' 'KNN' 'CBLOF' 'USAD'
+ 'TimesNet' 'TranAD' 'LSTMAD' 'COPOD' 'RobustPCA' 'CNN'
+ 'AnomalyTransformer' 'OFA' 'LOF' 'OCSVM' 'AutoEncoder' 'IForest' 'FITS'
+ 'Donut' 'ALLM4TS']",0.3078260869565217,4.023547410964966
+OPPORTUNITY_S3-ADL3,"['IForest', 'MCD', 'CBLOF', 'KNN', 'KMeansAD', 'LOF', 'EIF', 'AutoEncoder', 'PCA', 'OmniAnomaly', 'Donut', 'TranAD', 'USAD', 'LSTMAD', 'OCSVM', 'HBOS', 'CNN', 'COPOD', 'AnomalyTransformer', 'TimesNet', 'ALLM4TS', 'FITS', 'OFA', 'RobustPCA']","['EIF' 'HBOS' 'KMeansAD' 'MCD' 'OmniAnomaly' 'PCA' 'KNN' 'CBLOF' 'TranAD'
+ 'USAD' 'TimesNet' 'LSTMAD' 'CNN' 'COPOD' 'RobustPCA' 'AnomalyTransformer'
+ 'OFA' 'LOF' 'IForest' 'OCSVM' 'AutoEncoder' 'FITS' 'Donut' 'ALLM4TS']",0.39826086956521733,3.8234102725982666
+OPPORTUNITY_S3-ADL4,"['IForest', 'MCD', 'COPOD', 'KMeansAD', 'AutoEncoder', 'EIF', 'CBLOF', 'PCA', 'OmniAnomaly', 'CNN', 'LOF', 'LSTMAD', 'Donut', 'TranAD', 'USAD', 'KNN', 'HBOS', 'OCSVM', 'AnomalyTransformer', 'ALLM4TS', 'TimesNet', 'FITS', 'OFA', 'RobustPCA']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'OmniAnomaly' 'PCA' 'KNN' 'CBLOF'
+ 'TimesNet' 'USAD' 'TranAD' 'COPOD' 'LSTMAD' 'RobustPCA' 'CNN'
+ 'AnomalyTransformer' 'AutoEncoder' 'OCSVM' 'OFA' 'LOF' 'IForest' 'FITS'
+ 'Donut' 'ALLM4TS']",0.3460869565217391,3.891045093536377
+OPPORTUNITY_S3-ADL5,"['MCD', 'IForest', 'KMeansAD', 'CBLOF', 'AutoEncoder', 'LOF', 'KNN', 'LSTMAD', 'CNN', 'TranAD', 'Donut', 'USAD', 'OmniAnomaly', 'PCA', 'COPOD', 'OCSVM', 'HBOS', 'EIF', 'AnomalyTransformer', 'ALLM4TS', 'OFA', 'TimesNet', 'FITS', 'RobustPCA']","['EIF' 'HBOS' 'KMeansAD' 'MCD' 'OmniAnomaly' 'PCA' 'KNN' 'CBLOF' 'USAD'
+ 'TranAD' 'TimesNet' 'LSTMAD' 'COPOD' 'CNN' 'RobustPCA'
+ 'AnomalyTransformer' 'LOF' 'OFA' 'OCSVM' 'IForest' 'AutoEncoder' 'FITS'
+ 'Donut' 'ALLM4TS']",0.2121739130434782,3.8519246578216553
+OPPORTUNITY_S4-ADL2,"['MCD', 'CBLOF', 'AutoEncoder', 'COPOD', 'LSTMAD', 'IForest', 'KMeansAD', 'TranAD', 'LOF', 'CNN', 'USAD', 'OCSVM', 'Donut', 'PCA', 'OmniAnomaly', 'EIF', 'HBOS', 'AnomalyTransformer', 'KNN', 'ALLM4TS', 'OFA', 'TimesNet', 'FITS', 'RobustPCA']","['EIF' 'HBOS' 'KMeansAD' 'MCD' 'OmniAnomaly' 'PCA' 'KNN' 'CBLOF' 'USAD'
+ 'TranAD' 'TimesNet' 'LSTMAD' 'COPOD' 'RobustPCA' 'CNN'
+ 'AnomalyTransformer' 'LOF' 'OFA' 'OCSVM' 'IForest' 'AutoEncoder' 'FITS'
+ 'Donut' 'ALLM4TS']",0.1452173913043478,4.563345909118652
+OPPORTUNITY_S4-ADL3,"['MCD', 'KMeansAD', 'AutoEncoder', 'COPOD', 'CBLOF', 'LSTMAD', 'IForest', 'LOF', 'CNN', 'KNN', 'TranAD', 'Donut', 'USAD', 'HBOS', 'EIF', 'PCA', 'OmniAnomaly', 'OCSVM', 'AnomalyTransformer', 'ALLM4TS', 'OFA', 'FITS', 'TimesNet', 'RobustPCA']","['EIF' 'HBOS' 'KMeansAD' 'MCD' 'OmniAnomaly' 'PCA' 'KNN' 'CBLOF' 'USAD'
+ 'TranAD' 'TimesNet' 'LSTMAD' 'RobustPCA' 'COPOD' 'CNN'
+ 'AnomalyTransformer' 'OFA' 'LOF' 'OCSVM' 'IForest' 'AutoEncoder' 'FITS'
+ 'Donut' 'ALLM4TS']",0.2078260869565217,3.8154096603393555
+OPPORTUNITY_S4-ADL4,"['MCD', 'KMeansAD', 'IForest', 'COPOD', 'CBLOF', 'AutoEncoder', 'LSTMAD', 'LOF', 'TranAD', 'USAD', 'Donut', 'HBOS', 'CNN', 'EIF', 'OCSVM', 'OmniAnomaly', 'PCA', 'KNN', 'AnomalyTransformer', 'OFA', 'ALLM4TS', 'FITS', 'TimesNet', 'RobustPCA']","['EIF' 'HBOS' 'KMeansAD' 'MCD' 'OmniAnomaly' 'PCA' 'KNN' 'CBLOF' 'USAD'
+ 'TranAD' 'TimesNet' 'LSTMAD' 'RobustPCA' 'CNN' 'COPOD'
+ 'AnomalyTransformer' 'OFA' 'LOF' 'OCSVM' 'IForest' 'AutoEncoder' 'FITS'
+ 'Donut' 'ALLM4TS']",0.18869565217391301,3.663572072982788
+OPPORTUNITY_S4-ADL5,"['MCD', 'KMeansAD', 'AnomalyTransformer', 'COPOD', 'CBLOF', 'IForest', 'LSTMAD', 'TranAD', 'USAD', 'CNN', 'Donut', 'AutoEncoder', 'HBOS', 'EIF', 'PCA', 'OmniAnomaly', 'OCSVM', 'LOF', 'KNN', 'ALLM4TS', 'OFA', 'TimesNet', 'FITS', 'RobustPCA']","['EIF' 'HBOS' 'KMeansAD' 'MCD' 'OmniAnomaly' 'PCA' 'KNN' 'CBLOF' 'TranAD'
+ 'USAD' 'TimesNet' 'LSTMAD' 'CNN' 'RobustPCA' 'COPOD' 'AnomalyTransformer'
+ 'OFA' 'LOF' 'IForest' 'OCSVM' 'AutoEncoder' 'Donut' 'FITS' 'ALLM4TS']",0.2982608695652174,3.9974987506866455
+PSM,"['CNN', 'LSTMAD', 'Donut', 'HBOS', 'IForest', 'EIF', 'MCD', 'OmniAnomaly', 'PCA', 'COPOD', 'CBLOF', 'OFA', 'KNN', 'KMeansAD', 'USAD', 'TimesNet', 'TranAD', 'FITS', 'RobustPCA', 'LOF', 'AnomalyTransformer', 'ALLM4TS', 'OCSVM', 'AutoEncoder']","['EIF' 'MCD' 'AutoEncoder' 'HBOS' 'AnomalyTransformer' 'RobustPCA' 'PCA'
+ 'KNN' 'LOF' 'KMeansAD' 'OCSVM' 'CBLOF' 'TimesNet' 'ALLM4TS' 'OmniAnomaly'
+ 'COPOD' 'TranAD' 'FITS' 'USAD' 'Donut' 'LSTMAD' 'CNN' 'OFA' 'IForest']",-0.29304347826086957,7.9787774085998535
+SMAP_A-1,"['PCA', 'OmniAnomaly', 'OFA', 'KMeansAD', 'IForest', 'TimesNet', 'FITS', 'AutoEncoder', 'USAD', 'EIF', 'KNN', 'CBLOF', 'OCSVM', 'MCD', 'HBOS', 'CNN', 'Donut', 'LSTMAD', 'LOF', 'ALLM4TS', 'TranAD', 'COPOD', 'AnomalyTransformer', 'RobustPCA']","['Donut' 'OFA' 'ALLM4TS' 'FITS' 'IForest' 'OCSVM' 'LOF' 'PCA' 'TimesNet'
+ 'CBLOF' 'USAD' 'OmniAnomaly' 'CNN' 'LSTMAD' 'RobustPCA'
+ 'AnomalyTransformer' 'TranAD' 'COPOD' 'KNN' 'KMeansAD' 'AutoEncoder'
+ 'HBOS' 'EIF' 'MCD']",0.17043478260869566,5.103611946105957
+SMAP_A-2,"['IForest', 'EIF', 'OCSVM', 'MCD', 'USAD', 'RobustPCA', 'CBLOF', 'TranAD', 'AnomalyTransformer', 'Donut', 'HBOS', 'CNN', 'COPOD', 'LOF', 'KNN', 'KMeansAD', 'AutoEncoder', 'LSTMAD', 'FITS', 'TimesNet', 'OFA', 'ALLM4TS', 'PCA', 'OmniAnomaly']","['Donut' 'FITS' 'OFA' 'LOF' 'IForest' 'CNN' 'USAD' 'TimesNet' 'LSTMAD'
+ 'TranAD' 'PCA' 'ALLM4TS' 'OCSVM' 'OmniAnomaly' 'AnomalyTransformer'
+ 'RobustPCA' 'KNN' 'KMeansAD' 'COPOD' 'CBLOF' 'AutoEncoder' 'MCD' 'HBOS'
+ 'EIF']",-0.23478260869565212,2.7896809577941895
+SMAP_A-3,"['IForest', 'AutoEncoder', 'Donut', 'CNN', 'AnomalyTransformer', 'LOF', 'USAD', 'MCD', 'HBOS', 'KNN', 'TranAD', 'EIF', 'CBLOF', 'LSTMAD', 'RobustPCA', 'COPOD', 'KMeansAD', 'OCSVM', 'FITS', 'ALLM4TS', 'TimesNet', 'OmniAnomaly', 'PCA', 'OFA']","['Donut' 'FITS' 'LOF' 'OFA' 'CNN' 'ALLM4TS' 'IForest' 'TimesNet' 'OCSVM'
+ 'LSTMAD' 'USAD' 'TranAD' 'AutoEncoder' 'AnomalyTransformer' 'PCA' 'COPOD'
+ 'RobustPCA' 'KNN' 'OmniAnomaly' 'CBLOF' 'KMeansAD' 'MCD' 'HBOS' 'EIF']",0.06,6.208208799362183
+SMAP_A-4,"['AutoEncoder', 'Donut', 'EIF', 'IForest', 'COPOD', 'CNN', 'RobustPCA', 'LSTMAD', 'AnomalyTransformer', 'USAD', 'HBOS', 'TranAD', 'KNN', 'LOF', 'CBLOF', 'OCSVM', 'MCD', 'ALLM4TS', 'TimesNet', 'FITS', 'KMeansAD', 'OFA', 'PCA', 'OmniAnomaly']","['Donut' 'FITS' 'OFA' 'LOF' 'CNN' 'IForest' 'ALLM4TS' 'TimesNet' 'USAD'
+ 'LSTMAD' 'OCSVM' 'TranAD' 'PCA' 'AutoEncoder' 'AnomalyTransformer'
+ 'OmniAnomaly' 'COPOD' 'RobustPCA' 'KNN' 'KMeansAD' 'CBLOF' 'MCD' 'HBOS'
+ 'EIF']",-0.034782608695652174,2.764211654663086
+SMAP_A-5,"['KMeansAD', 'IForest', 'OmniAnomaly', 'CNN', 'PCA', 'FITS', 'TimesNet', 'EIF', 'Donut', 'OFA', 'CBLOF', 'LSTMAD', 'TranAD', 'MCD', 'LOF', 'COPOD', 'OCSVM', 'RobustPCA', 'USAD', 'HBOS', 'KNN', 'AutoEncoder', 'AnomalyTransformer', 'ALLM4TS']","['OFA' 'IForest' 'USAD' 'Donut' 'OmniAnomaly' 'LSTMAD' 'FITS' 'PCA'
+ 'TimesNet' 'TranAD' 'LOF' 'OCSVM' 'ALLM4TS' 'CNN' 'AutoEncoder'
+ 'KMeansAD' 'AnomalyTransformer' 'KNN' 'RobustPCA' 'CBLOF' 'COPOD' 'MCD'
+ 'HBOS' 'EIF']",0.37304347826086953,2.6812660694122314
+SMAP_A-6,"['KMeansAD', 'TranAD', 'USAD', 'PCA', 'OmniAnomaly', 'ALLM4TS', 'LSTMAD', 'CNN', 'IForest', 'EIF', 'TimesNet', 'CBLOF', 'AutoEncoder', 'LOF', 'HBOS', 'FITS', 'OFA', 'MCD', 'OCSVM', 'COPOD', 'Donut', 'RobustPCA', 'AnomalyTransformer', 'KNN']","['OFA' 'IForest' 'USAD' 'OmniAnomaly' 'LSTMAD' 'Donut' 'TranAD' 'TimesNet'
+ 'FITS' 'PCA' 'CNN' 'LOF' 'KMeansAD' 'OCSVM' 'KNN' 'AnomalyTransformer'
+ 'RobustPCA' 'CBLOF' 'COPOD' 'ALLM4TS' 'AutoEncoder' 'HBOS' 'MCD' 'EIF']",0.32260869565217387,2.63737416267395
+SMAP_A-8,"['RobustPCA', 'ALLM4TS', 'USAD', 'TranAD', 'OCSVM', 'Donut', 'LOF', 'KNN', 'OmniAnomaly', 'PCA', 'MCD', 'AnomalyTransformer', 'COPOD', 'HBOS', 'AutoEncoder', 'EIF', 'CNN', 'CBLOF', 'TimesNet', 'FITS', 'IForest', 'KMeansAD', 'OFA', 'LSTMAD']","['MCD' 'HBOS' 'AutoEncoder' 'COPOD' 'CNN' 'EIF' 'CBLOF' 'FITS' 'KNN'
+ 'ALLM4TS' 'AnomalyTransformer' 'OCSVM' 'RobustPCA' 'LOF' 'TimesNet'
+ 'Donut' 'TranAD' 'LSTMAD' 'PCA' 'USAD' 'KMeansAD' 'OFA' 'OmniAnomaly'
+ 'IForest']",0.050434782608695654,2.8302528858184814
+SMAP_A-9,"['RobustPCA', 'ALLM4TS', 'TranAD', 'USAD', 'LSTMAD', 'Donut', 'CNN', 'OCSVM', 'MCD', 'OmniAnomaly', 'PCA', 'HBOS', 'AnomalyTransformer', 'LOF', 'AutoEncoder', 'KNN', 'EIF', 'CBLOF', 'COPOD', 'TimesNet', 'FITS', 'IForest', 'OFA', 'KMeansAD']","['MCD' 'HBOS' 'AutoEncoder' 'EIF' 'CBLOF' 'COPOD' 'KNN' 'KMeansAD'
+ 'ALLM4TS' 'OCSVM' 'RobustPCA' 'PCA' 'AnomalyTransformer' 'OmniAnomaly'
+ 'CNN' 'TimesNet' 'LOF' 'TranAD' 'USAD' 'FITS' 'LSTMAD' 'Donut' 'OFA'
+ 'IForest']",-0.033913043478260865,2.8506782054901123
+SMAP_B-1,"['IForest', 'LSTMAD', 'TimesNet', 'FITS', 'KMeansAD', 'OFA', 'AutoEncoder', 'MCD', 'OCSVM', 'TranAD', 'RobustPCA', 'EIF', 'HBOS', 'COPOD', 'ALLM4TS', 'PCA', 'OmniAnomaly', 'Donut', 'KNN', 'AnomalyTransformer', 'LOF', 'CNN', 'CBLOF', 'USAD']","['OmniAnomaly' 'KMeansAD' 'OFA' 'PCA' 'USAD' 'IForest' 'TimesNet' 'OCSVM'
+ 'LSTMAD' 'LOF' 'KNN' 'CBLOF' 'TranAD' 'Donut' 'FITS' 'HBOS' 'MCD'
+ 'ALLM4TS' 'COPOD' 'RobustPCA' 'CNN' 'AnomalyTransformer' 'AutoEncoder'
+ 'EIF']",0.16,2.8200535774230957
+SMAP_D-11,"['IForest', 'Donut', 'FITS', 'TimesNet', 'OFA', 'CNN', 'EIF', 'KMeansAD', 'LSTMAD', 'MCD', 'AutoEncoder', 'CBLOF', 'HBOS', 'ALLM4TS', 'KNN', 'AnomalyTransformer', 'LOF', 'OCSVM', 'USAD', 'TranAD', 'COPOD', 'RobustPCA', 'PCA', 'OmniAnomaly']","['MCD' 'HBOS' 'EIF' 'KMeansAD' 'PCA' 'OmniAnomaly' 'CBLOF' 'KNN'
+ 'AutoEncoder' 'TimesNet' 'USAD' 'COPOD' 'OCSVM' 'RobustPCA'
+ 'AnomalyTransformer' 'TranAD' 'LOF' 'LSTMAD' 'OFA' 'ALLM4TS' 'CNN' 'FITS'
+ 'IForest' 'Donut']",-0.3539130434782608,2.7672367095947266
+SMAP_D-1,"['MCD', 'OCSVM', 'AutoEncoder', 'HBOS', 'EIF', 'TranAD', 'COPOD', 'KNN', 'CNN', 'Donut', 'LOF', 'IForest', 'AnomalyTransformer', 'LSTMAD', 'ALLM4TS', 'RobustPCA', 'PCA', 'OmniAnomaly', 'OFA', 'KMeansAD', 'CBLOF', 'USAD', 'FITS', 'TimesNet']","['MCD' 'HBOS' 'AutoEncoder' 'COPOD' 'CNN' 'FITS' 'EIF' 'ALLM4TS' 'CBLOF'
+ 'KNN' 'AnomalyTransformer' 'LOF' 'RobustPCA' 'Donut' 'OCSVM' 'TimesNet'
+ 'TranAD' 'PCA' 'USAD' 'LSTMAD' 'OFA' 'KMeansAD' 'IForest' 'OmniAnomaly']",0.5156521739130434,2.8306844234466553
+SMAP_D-2,"['AutoEncoder', 'OCSVM', 'MCD', 'COPOD', 'HBOS', 'EIF', 'TranAD', 'RobustPCA', 'ALLM4TS', 'Donut', 'LSTMAD', 'CNN', 'KNN', 'IForest', 'KMeansAD', 'CBLOF', 'LOF', 'AnomalyTransformer', 'OmniAnomaly', 'PCA', 'FITS', 'TimesNet', 'USAD', 'OFA']","['Donut' 'OFA' 'FITS' 'IForest' 'LOF' 'USAD' 'PCA' 'TimesNet'
+ 'OmniAnomaly' 'CNN' 'LSTMAD' 'TranAD' 'KMeansAD' 'OCSVM' 'RobustPCA'
+ 'KNN' 'AnomalyTransformer' 'CBLOF' 'ALLM4TS' 'COPOD' 'HBOS' 'EIF' 'MCD'
+ 'AutoEncoder']",-0.706086956521739,2.798499345779419
+SMAP_D-3,"['MCD', 'OCSVM', 'AutoEncoder', 'IForest', 'KMeansAD', 'EIF', 'COPOD', 'HBOS', 'KNN', 'LSTMAD', 'Donut', 'TimesNet', 'LOF', 'AnomalyTransformer', 'CBLOF', 'PCA', 'OmniAnomaly', 'FITS', 'CNN', 'TranAD', 'USAD', 'OFA', 'ALLM4TS', 'RobustPCA']","['Donut' 'FITS' 'OFA' 'CNN' 'LOF' 'IForest' 'USAD' 'TranAD' 'TimesNet'
+ 'LSTMAD' 'PCA' 'OmniAnomaly' 'KMeansAD' 'COPOD' 'OCSVM' 'KNN' 'RobustPCA'
+ 'AnomalyTransformer' 'CBLOF' 'ALLM4TS' 'MCD' 'HBOS' 'AutoEncoder' 'EIF']",-0.3695652173913043,2.9173786640167236
+SMAP_D-4,"['MCD', 'AutoEncoder', 'OCSVM', 'IForest', 'KMeansAD', 'EIF', 'COPOD', 'CBLOF', 'HBOS', 'KNN', 'Donut', 'LSTMAD', 'LOF', 'TimesNet', 'PCA', 'OmniAnomaly', 'TranAD', 'AnomalyTransformer', 'OFA', 'CNN', 'FITS', 'USAD', 'ALLM4TS', 'RobustPCA']","['FITS' 'Donut' 'LOF' 'OFA' 'CNN' 'IForest' 'ALLM4TS' 'OCSVM' 'TimesNet'
+ 'USAD' 'LSTMAD' 'TranAD' 'COPOD' 'PCA' 'AnomalyTransformer' 'RobustPCA'
+ 'KNN' 'KMeansAD' 'CBLOF' 'OmniAnomaly' 'MCD' 'AutoEncoder' 'HBOS' 'EIF']",-0.43304347826086953,2.8560690879821777
+SMAP_D-5,"['OmniAnomaly', 'PCA', 'KMeansAD', 'IForest', 'KNN', 'FITS', 'RobustPCA', 'OFA', 'CBLOF', 'USAD', 'COPOD', 'CNN', 'TranAD', 'TimesNet', 'LSTMAD', 'EIF', 'HBOS', 'LOF', 'ALLM4TS', 'AnomalyTransformer', 'AutoEncoder', 'Donut', 'OCSVM', 'MCD']","['Donut' 'FITS' 'LOF' 'OFA' 'CNN' 'IForest' 'TimesNet' 'USAD' 'LSTMAD'
+ 'PCA' 'TranAD' 'OCSVM' 'ALLM4TS' 'OmniAnomaly' 'AnomalyTransformer'
+ 'KMeansAD' 'RobustPCA' 'KNN' 'COPOD' 'CBLOF' 'AutoEncoder' 'MCD' 'HBOS'
+ 'EIF']",0.13652173913043478,2.8102283477783203
+SMAP_D-6,"['PCA', 'IForest', 'OmniAnomaly', 'OFA', 'KMeansAD', 'FITS', 'MCD', 'EIF', 'CBLOF', 'KNN', 'ALLM4TS', 'RobustPCA', 'USAD', 'TimesNet', 'AutoEncoder', 'CNN', 'TranAD', 'LSTMAD', 'HBOS', 'COPOD', 'LOF', 'AnomalyTransformer', 'Donut', 'OCSVM']","['Donut' 'FITS' 'LOF' 'OFA' 'IForest' 'CNN' 'TimesNet' 'USAD' 'OCSVM'
+ 'ALLM4TS' 'LSTMAD' 'TranAD' 'PCA' 'OmniAnomaly' 'AnomalyTransformer'
+ 'KMeansAD' 'COPOD' 'RobustPCA' 'KNN' 'CBLOF' 'AutoEncoder' 'MCD' 'HBOS'
+ 'EIF']",-0.09652173913043478,2.878688335418701
+SMAP_D-7,"['MCD', 'AutoEncoder', 'OCSVM', 'IForest', 'COPOD', 'KMeansAD', 'EIF', 'Donut', 'LSTMAD', 'TranAD', 'HBOS', 'CNN', 'CBLOF', 'PCA', 'OmniAnomaly', 'KNN', 'LOF', 'OFA', 'USAD', 'FITS', 'AnomalyTransformer', 'TimesNet', 'RobustPCA', 'ALLM4TS']","['AutoEncoder' 'MCD' 'FITS' 'HBOS' 'CNN' 'ALLM4TS' 'COPOD' 'Donut'
+ 'AnomalyTransformer' 'LOF' 'KNN' 'TimesNet' 'RobustPCA' 'OCSVM' 'EIF'
+ 'CBLOF' 'TranAD' 'LSTMAD' 'USAD' 'PCA' 'OFA' 'IForest' 'OmniAnomaly'
+ 'KMeansAD']",0.03652173913043478,2.791788101196289
+SMAP_D-8,"['IForest', 'PCA', 'OmniAnomaly', 'TimesNet', 'OFA', 'KMeansAD', 'ALLM4TS', 'KNN', 'MCD', 'CBLOF', 'EIF', 'OCSVM', 'AutoEncoder', 'LSTMAD', 'FITS', 'USAD', 'CNN', 'Donut', 'HBOS', 'COPOD', 'LOF', 'AnomalyTransformer', 'RobustPCA', 'TranAD']","['OmniAnomaly' 'OFA' 'PCA' 'KMeansAD' 'USAD' 'IForest' 'TimesNet' 'LSTMAD'
+ 'TranAD' 'Donut' 'LOF' 'KNN' 'OCSVM' 'CBLOF' 'FITS' 'RobustPCA'
+ 'AnomalyTransformer' 'CNN' 'EIF' 'ALLM4TS' 'COPOD' 'HBOS' 'AutoEncoder'
+ 'MCD']",0.4460869565217391,2.7361021041870117
+SMAP_D-9,"['AutoEncoder', 'MCD', 'OCSVM', 'TranAD', 'HBOS', 'COPOD', 'EIF', 'RobustPCA', 'USAD', 'LSTMAD', 'ALLM4TS', 'CNN', 'IForest', 'KMeansAD', 'PCA', 'TimesNet', 'Donut', 'OmniAnomaly', 'FITS', 'OFA', 'KNN', 'AnomalyTransformer', 'LOF', 'CBLOF']","['OmniAnomaly' 'KMeansAD' 'OFA' 'PCA' 'USAD' 'IForest' 'TimesNet' 'LSTMAD'
+ 'TranAD' 'LOF' 'Donut' 'KNN' 'OCSVM' 'FITS' 'CBLOF' 'RobustPCA' 'CNN'
+ 'HBOS' 'AnomalyTransformer' 'MCD' 'COPOD' 'ALLM4TS' 'EIF' 'AutoEncoder']",-0.4052173913043478,2.706519603729248
+SMAP_E-10,"['IForest', 'MCD', 'LOF', 'AutoEncoder', 'KMeansAD', 'CBLOF', 'KNN', 'PCA', 'OmniAnomaly', 'LSTMAD', 'TimesNet', 'COPOD', 'EIF', 'CNN', 'HBOS', 'Donut', 'TranAD', 'USAD', 'FITS', 'OFA', 'AnomalyTransformer', 'RobustPCA', 'OCSVM', 'ALLM4TS']","['Donut' 'OFA' 'FITS' 'IForest' 'LOF' 'USAD' 'CNN' 'TimesNet' 'LSTMAD'
+ 'PCA' 'OmniAnomaly' 'TranAD' 'OCSVM' 'RobustPCA' 'ALLM4TS' 'KMeansAD'
+ 'AnomalyTransformer' 'KNN' 'CBLOF' 'COPOD' 'HBOS' 'EIF' 'AutoEncoder'
+ 'MCD']",-0.19652173913043475,2.8461551666259766
+SMAP_E-11,"['IForest', 'AutoEncoder', 'MCD', 'LSTMAD', 'RobustPCA', 'KMeansAD', 'TranAD', 'PCA', 'OmniAnomaly', 'HBOS', 'EIF', 'CNN', 'TimesNet', 'USAD', 'COPOD', 'CBLOF', 'Donut', 'FITS', 'KNN', 'LOF', 'AnomalyTransformer', 'OFA', 'ALLM4TS', 'OCSVM']","['Donut' 'FITS' 'CNN' 'LOF' 'OFA' 'IForest' 'LSTMAD' 'TimesNet' 'TranAD'
+ 'USAD' 'ALLM4TS' 'AnomalyTransformer' 'OCSVM' 'RobustPCA' 'COPOD' 'PCA'
+ 'KNN' 'OmniAnomaly' 'CBLOF' 'AutoEncoder' 'KMeansAD' 'MCD' 'HBOS' 'EIF']",-0.32608695652173914,2.7839438915252686
+SMAP_E-12,"['LOF', 'OCSVM', 'IForest', 'COPOD', 'EIF', 'KNN', 'KMeansAD', 'MCD', 'CBLOF', 'Donut', 'PCA', 'OmniAnomaly', 'AnomalyTransformer', 'AutoEncoder', 'FITS', 'HBOS', 'TimesNet', 'CNN', 'LSTMAD', 'TranAD', 'RobustPCA', 'USAD', 'OFA', 'ALLM4TS']","['Donut' 'FITS' 'OFA' 'LOF' 'IForest' 'OCSVM' 'ALLM4TS' 'USAD' 'PCA'
+ 'TimesNet' 'OmniAnomaly' 'LSTMAD' 'RobustPCA' 'AnomalyTransformer'
+ 'KMeansAD' 'TranAD' 'CBLOF' 'CNN' 'COPOD' 'KNN' 'AutoEncoder' 'MCD'
+ 'HBOS' 'EIF']",-0.10956521739130433,2.793022394180298
+SMAP_E-13,"['ALLM4TS', 'KMeansAD', 'IForest', 'AutoEncoder', 'Donut', 'CNN', 'RobustPCA', 'COPOD', 'CBLOF', 'OCSVM', 'AnomalyTransformer', 'LOF', 'LSTMAD', 'TranAD', 'MCD', 'TimesNet', 'HBOS', 'KNN', 'USAD', 'FITS', 'EIF', 'OFA', 'PCA', 'OmniAnomaly']","['Donut' 'FITS' 'LOF' 'OFA' 'CNN' 'IForest' 'TimesNet' 'USAD' 'LSTMAD'
+ 'ALLM4TS' 'TranAD' 'OCSVM' 'PCA' 'AnomalyTransformer' 'COPOD'
+ 'OmniAnomaly' 'RobustPCA' 'KNN' 'KMeansAD' 'CBLOF' 'AutoEncoder' 'MCD'
+ 'HBOS' 'EIF']",0.05130434782608695,2.8664066791534424
+SMAP_E-1,"['IForest', 'MCD', 'CBLOF', 'EIF', 'AutoEncoder', 'KMeansAD', 'COPOD', 'HBOS', 'TranAD', 'Donut', 'CNN', 'LSTMAD', 'PCA', 'OmniAnomaly', 'TimesNet', 'AnomalyTransformer', 'KNN', 'LOF', 'FITS', 'OCSVM', 'USAD', 'RobustPCA', 'OFA', 'ALLM4TS']","['Donut' 'OFA' 'FITS' 'IForest' 'LOF' 'USAD' 'TimesNet' 'CNN' 'LSTMAD'
+ 'OCSVM' 'PCA' 'TranAD' 'OmniAnomaly' 'ALLM4TS' 'RobustPCA'
+ 'AnomalyTransformer' 'KMeansAD' 'CBLOF' 'COPOD' 'KNN' 'AutoEncoder' 'EIF'
+ 'HBOS' 'MCD']",-0.4408695652173913,2.8197503089904785
+SMAP_E-2,"['RobustPCA', 'IForest', 'TranAD', 'LSTMAD', 'CNN', 'AutoEncoder', 'MCD', 'USAD', 'Donut', 'EIF', 'LOF', 'ALLM4TS', 'COPOD', 'KNN', 'AnomalyTransformer', 'HBOS', 'OCSVM', 'OmniAnomaly', 'PCA', 'CBLOF', 'KMeansAD', 'TimesNet', 'FITS', 'OFA']","['Donut' 'FITS' 'OFA' 'CNN' 'IForest' 'LOF' 'LSTMAD' 'ALLM4TS' 'TimesNet'
+ 'OCSVM' 'TranAD' 'USAD' 'COPOD' 'AnomalyTransformer' 'RobustPCA' 'PCA'
+ 'OmniAnomaly' 'KNN' 'CBLOF' 'KMeansAD' 'AutoEncoder' 'MCD' 'HBOS' 'EIF']",0.03304347826086956,2.8559093475341797
+SMAP_E-3,"['OCSVM', 'MCD', 'IForest', 'COPOD', 'HBOS', 'TranAD', 'Donut', 'EIF', 'USAD', 'LSTMAD', 'CNN', 'LOF', 'AnomalyTransformer', 'KNN', 'AutoEncoder', 'KMeansAD', 'CBLOF', 'OFA', 'OmniAnomaly', 'PCA', 'RobustPCA', 'FITS', 'TimesNet', 'ALLM4TS']","['FITS' 'Donut' 'ALLM4TS' 'CNN' 'LOF' 'IForest' 'OFA' 'COPOD' 'OCSVM'
+ 'LSTMAD' 'AnomalyTransformer' 'TranAD' 'TimesNet' 'CBLOF' 'RobustPCA'
+ 'USAD' 'KNN' 'AutoEncoder' 'KMeansAD' 'PCA' 'MCD' 'OmniAnomaly' 'HBOS'
+ 'EIF']",-0.054782608695652164,2.8341686725616455
+SMAP_E-4,"['IForest', 'Donut', 'LSTMAD', 'TranAD', 'CNN', 'USAD', 'OCSVM', 'LOF', 'AnomalyTransformer', 'KNN', 'HBOS', 'AutoEncoder', 'RobustPCA', 'MCD', 'CBLOF', 'COPOD', 'EIF', 'KMeansAD', 'ALLM4TS', 'OmniAnomaly', 'PCA', 'OFA', 'FITS', 'TimesNet']","['MCD' 'HBOS' 'KMeansAD' 'EIF' 'PCA' 'KNN' 'CBLOF' 'OmniAnomaly'
+ 'AutoEncoder' 'COPOD' 'LOF' 'RobustPCA' 'TimesNet' 'AnomalyTransformer'
+ 'OCSVM' 'USAD' 'CNN' 'TranAD' 'FITS' 'ALLM4TS' 'Donut' 'LSTMAD' 'OFA'
+ 'IForest']",-0.34695652173913033,2.876620292663574
+SMAP_E-5,"['PCA', 'OmniAnomaly', 'IForest', 'FITS', 'KMeansAD', 'OFA', 'TimesNet', 'CNN', 'LSTMAD', 'USAD', 'MCD', 'KNN', 'Donut', 'AutoEncoder', 'TranAD', 'LOF', 'COPOD', 'AnomalyTransformer', 'HBOS', 'CBLOF', 'OCSVM', 'RobustPCA', 'EIF', 'ALLM4TS']","['OFA' 'Donut' 'IForest' 'FITS' 'LOF' 'PCA' 'USAD' 'OmniAnomaly' 'OCSVM'
+ 'TimesNet' 'LSTMAD' 'ALLM4TS' 'KMeansAD' 'TranAD' 'RobustPCA' 'CNN'
+ 'CBLOF' 'AnomalyTransformer' 'KNN' 'COPOD' 'HBOS' 'MCD' 'AutoEncoder'
+ 'EIF']",0.5260869565217391,2.7846226692199707
+SMAP_E-6,"['PCA', 'OmniAnomaly', 'KMeansAD', 'TimesNet', 'FITS', 'OFA', 'AutoEncoder', 'CNN', 'OCSVM', 'EIF', 'CBLOF', 'MCD', 'LSTMAD', 'KNN', 'TranAD', 'USAD', 'COPOD', 'HBOS', 'LOF', 'Donut', 'IForest', 'ALLM4TS', 'RobustPCA', 'AnomalyTransformer']","['OFA' 'Donut' 'PCA' 'OmniAnomaly' 'IForest' 'USAD' 'FITS' 'LOF'
+ 'TimesNet' 'OCSVM' 'LSTMAD' 'ALLM4TS' 'TranAD' 'CNN' 'RobustPCA' 'CBLOF'
+ 'AnomalyTransformer' 'KMeansAD' 'KNN' 'COPOD' 'HBOS' 'MCD' 'EIF'
+ 'AutoEncoder']",0.14260869565217388,2.7889339923858643
+SMAP_E-7,"['OmniAnomaly', 'PCA', 'IForest', 'KMeansAD', 'OFA', 'OCSVM', 'AutoEncoder', 'EIF', 'CBLOF', 'MCD', 'TimesNet', 'FITS', 'LSTMAD', 'TranAD', 'CNN', 'USAD', 'HBOS', 'COPOD', 'Donut', 'KNN', 'AnomalyTransformer', 'LOF', 'RobustPCA', 'ALLM4TS']","['MCD' 'HBOS' 'AutoEncoder' 'CNN' 'COPOD' 'FITS' 'EIF' 'ALLM4TS' 'CBLOF'
+ 'AnomalyTransformer' 'KNN' 'LOF' 'RobustPCA' 'Donut' 'OCSVM' 'TimesNet'
+ 'TranAD' 'LSTMAD' 'USAD' 'PCA' 'OFA' 'KMeansAD' 'IForest' 'OmniAnomaly']",-0.4408695652173913,2.8204548358917236
+SMAP_E-8,"['IForest', 'PCA', 'OmniAnomaly', 'OFA', 'MCD', 'AutoEncoder', 'ALLM4TS', 'CNN', 'TranAD', 'RobustPCA', 'EIF', 'HBOS', 'LSTMAD', 'USAD', 'COPOD', 'Donut', 'FITS', 'TimesNet', 'KMeansAD', 'AnomalyTransformer', 'KNN', 'LOF', 'OCSVM', 'CBLOF']","['Donut' 'FITS' 'ALLM4TS' 'CNN' 'LOF' 'OFA' 'IForest' 'OCSVM' 'LSTMAD'
+ 'TimesNet' 'TranAD' 'COPOD' 'USAD' 'AnomalyTransformer' 'RobustPCA'
+ 'AutoEncoder' 'PCA' 'KNN' 'CBLOF' 'OmniAnomaly' 'KMeansAD' 'MCD' 'HBOS'
+ 'EIF']",-0.05304347826086955,2.991730213165283
+SMAP_E-9,"['OmniAnomaly', 'PCA', 'OFA', 'ALLM4TS', 'TimesNet', 'IForest', 'FITS', 'TranAD', 'USAD', 'CNN', 'KMeansAD', 'AnomalyTransformer', 'Donut', 'EIF', 'LSTMAD', 'COPOD', 'HBOS', 'AutoEncoder', 'KNN', 'OCSVM', 'CBLOF', 'LOF', 'MCD', 'RobustPCA']","['Donut' 'FITS' 'IForest' 'OFA' 'CNN' 'LOF' 'LSTMAD' 'TranAD' 'USAD'
+ 'TimesNet' 'ALLM4TS' 'OCSVM' 'PCA' 'AnomalyTransformer' 'OmniAnomaly'
+ 'RobustPCA' 'COPOD' 'KNN' 'AutoEncoder' 'KMeansAD' 'CBLOF' 'MCD' 'HBOS'
+ 'EIF']",0.44869565217391305,2.8236255645751953
+SMAP_F-1,"['ALLM4TS', 'RobustPCA', 'LOF', 'KNN', 'OCSVM', 'Donut', 'AnomalyTransformer', 'AutoEncoder', 'MCD', 'HBOS', 'CBLOF', 'TranAD', 'EIF', 'COPOD', 'USAD', 'CNN', 'PCA', 'LSTMAD', 'OmniAnomaly', 'IForest', 'FITS', 'KMeansAD', 'OFA', 'TimesNet']","['MCD' 'HBOS' 'KMeansAD' 'EIF' 'CBLOF' 'PCA' 'OmniAnomaly' 'KNN' 'COPOD'
+ 'USAD' 'RobustPCA' 'LOF' 'TimesNet' 'OCSVM' 'AnomalyTransformer' 'TranAD'
+ 'CNN' 'FITS' 'LSTMAD' 'AutoEncoder' 'OFA' 'ALLM4TS' 'IForest' 'Donut']",-0.00608695652173913,2.896181344985962
+SMAP_F-2,"['RobustPCA', 'ALLM4TS', 'TranAD', 'USAD', 'LSTMAD', 'IForest', 'CNN', 'OmniAnomaly', 'PCA', 'AnomalyTransformer', 'HBOS', 'KNN', 'AutoEncoder', 'OCSVM', 'LOF', 'CBLOF', 'MCD', 'COPOD', 'EIF', 'OFA', 'TimesNet', 'KMeansAD', 'Donut', 'FITS']","['MCD' 'HBOS' 'EIF' 'CBLOF' 'KMeansAD' 'KNN' 'OmniAnomaly' 'PCA' 'COPOD'
+ 'RobustPCA' 'OCSVM' 'USAD' 'AutoEncoder' 'TimesNet' 'AnomalyTransformer'
+ 'TranAD' 'LOF' 'CNN' 'LSTMAD' 'ALLM4TS' 'FITS' 'IForest' 'OFA' 'Donut']",-0.07043478260869565,2.9250173568725586
+SMAP_F-3,"['OmniAnomaly', 'PCA', 'KMeansAD', 'IForest', 'FITS', 'OFA', 'TimesNet', 'USAD', 'CNN', 'LSTMAD', 'KNN', 'CBLOF', 'TranAD', 'HBOS', 'EIF', 'AutoEncoder', 'Donut', 'LOF', 'MCD', 'COPOD', 'ALLM4TS', 'AnomalyTransformer', 'RobustPCA', 'OCSVM']","['FITS' 'Donut' 'LOF' 'ALLM4TS' 'IForest' 'CNN' 'OCSVM' 'OFA' 'COPOD'
+ 'AnomalyTransformer' 'LSTMAD' 'RobustPCA' 'TimesNet' 'TranAD' 'USAD'
+ 'AutoEncoder' 'KNN' 'CBLOF' 'PCA' 'KMeansAD' 'OmniAnomaly' 'MCD' 'HBOS'
+ 'EIF']",-0.19652173913043475,2.823719024658203
+SMAP_G-1,"['EIF', 'MCD', 'OCSVM', 'HBOS', 'CBLOF', 'IForest', 'COPOD', 'KMeansAD', 'AnomalyTransformer', 'USAD', 'KNN', 'LOF', 'TranAD', 'Donut', 'AutoEncoder', 'LSTMAD', 'FITS', 'OFA', 'CNN', 'TimesNet', 'RobustPCA', 'OmniAnomaly', 'ALLM4TS', 'PCA']","['Donut' 'FITS' 'LOF' 'IForest' 'CNN' 'OFA' 'ALLM4TS' 'LSTMAD' 'OCSVM'
+ 'TranAD' 'USAD' 'TimesNet' 'AnomalyTransformer' 'RobustPCA' 'COPOD' 'PCA'
+ 'AutoEncoder' 'KNN' 'KMeansAD' 'OmniAnomaly' 'CBLOF' 'MCD' 'HBOS' 'EIF']",-0.37652173913043474,2.8764865398406982
+SMAP_G-2,"['PCA', 'OmniAnomaly', 'KMeansAD', 'OFA', 'AutoEncoder', 'FITS', 'EIF', 'CBLOF', 'OCSVM', 'MCD', 'KNN', 'USAD', 'TimesNet', 'CNN', 'ALLM4TS', 'LSTMAD', 'TranAD', 'HBOS', 'COPOD', 'Donut', 'LOF', 'RobustPCA', 'AnomalyTransformer', 'IForest']","['Donut' 'OFA' 'FITS' 'LOF' 'IForest' 'PCA' 'USAD' 'OmniAnomaly'
+ 'TimesNet' 'LSTMAD' 'TranAD' 'CNN' 'OCSVM' 'KMeansAD' 'RobustPCA'
+ 'AnomalyTransformer' 'KNN' 'ALLM4TS' 'CBLOF' 'COPOD' 'EIF' 'HBOS'
+ 'AutoEncoder' 'MCD']",-0.015652173913043476,2.7363076210021973
+SMAP_G-3,"['PCA', 'OmniAnomaly', 'OFA', 'TimesNet', 'FITS', 'USAD', 'CNN', 'OCSVM', 'TranAD', 'KNN', 'MCD', 'ALLM4TS', 'LSTMAD', 'KMeansAD', 'Donut', 'EIF', 'AutoEncoder', 'CBLOF', 'COPOD', 'RobustPCA', 'HBOS', 'LOF', 'AnomalyTransformer', 'IForest']","['Donut' 'OFA' 'FITS' 'LOF' 'IForest' 'PCA' 'USAD' 'TimesNet'
+ 'OmniAnomaly' 'LSTMAD' 'TranAD' 'CNN' 'OCSVM' 'RobustPCA'
+ 'AnomalyTransformer' 'ALLM4TS' 'KMeansAD' 'KNN' 'CBLOF' 'COPOD' 'EIF'
+ 'AutoEncoder' 'HBOS' 'MCD']",0.3678260869565217,2.8074698448181152
+SMAP_G-6,"['RobustPCA', 'IForest', 'TranAD', 'USAD', 'FITS', 'CNN', 'TimesNet', 'OFA', 'Donut', 'LSTMAD', 'KMeansAD', 'OmniAnomaly', 'PCA', 'ALLM4TS', 'MCD', 'OCSVM', 'HBOS', 'CBLOF', 'COPOD', 'AnomalyTransformer', 'KNN', 'LOF', 'EIF', 'AutoEncoder']","['MCD' 'HBOS' 'AutoEncoder' 'ALLM4TS' 'COPOD' 'CBLOF' 'OCSVM' 'KNN' 'EIF'
+ 'FITS' 'RobustPCA' 'AnomalyTransformer' 'LOF' 'CNN' 'KMeansAD' 'TimesNet'
+ 'PCA' 'Donut' 'USAD' 'OFA' 'TranAD' 'OmniAnomaly' 'LSTMAD' 'IForest']",-0.6182608695652172,2.894221067428589
+SMAP_G-7,"['OmniAnomaly', 'PCA', 'IForest', 'TimesNet', 'KMeansAD', 'OFA', 'FITS', 'Donut', 'USAD', 'TranAD', 'LSTMAD', 'CNN', 'AutoEncoder', 'MCD', 'HBOS', 'COPOD', 'OCSVM', 'CBLOF', 'EIF', 'RobustPCA', 'ALLM4TS', 'KNN', 'LOF', 'AnomalyTransformer']","['MCD' 'OmniAnomaly' 'KMeansAD' 'HBOS' 'PCA' 'EIF' 'CBLOF' 'USAD' 'KNN'
+ 'TimesNet' 'OFA' 'TranAD' 'OCSVM' 'RobustPCA' 'LSTMAD' 'AutoEncoder'
+ 'AnomalyTransformer' 'COPOD' 'LOF' 'IForest' 'ALLM4TS' 'FITS' 'CNN'
+ 'Donut']",0.18869565217391301,2.5532145500183105
+SMAP_P-1,"['IForest', 'COPOD', 'MCD', 'ALLM4TS', 'RobustPCA', 'EIF', 'USAD', 'OFA', 'TranAD', 'LOF', 'Donut', 'FITS', 'CBLOF', 'OCSVM', 'OmniAnomaly', 'PCA', 'AnomalyTransformer', 'TimesNet', 'HBOS', 'KNN', 'AutoEncoder', 'LSTMAD', 'CNN', 'KMeansAD']","['FITS' 'Donut' 'LOF' 'CNN' 'OFA' 'IForest' 'ALLM4TS' 'OCSVM' 'USAD'
+ 'TimesNet' 'TranAD' 'LSTMAD' 'COPOD' 'AnomalyTransformer' 'AutoEncoder'
+ 'PCA' 'RobustPCA' 'KNN' 'KMeansAD' 'OmniAnomaly' 'CBLOF' 'MCD' 'HBOS'
+ 'EIF']",0.13391304347826086,2.9341700077056885
+SMAP_P-2,"['KMeansAD', 'MCD', 'OCSVM', 'AutoEncoder', 'IForest', 'LSTMAD', 'TranAD', 'COPOD', 'EIF', 'HBOS', 'CBLOF', 'CNN', 'FITS', 'Donut', 'OmniAnomaly', 'PCA', 'OFA', 'USAD', 'TimesNet', 'LOF', 'KNN', 'AnomalyTransformer', 'RobustPCA', 'ALLM4TS']","['Donut' 'FITS' 'OFA' 'CNN' 'IForest' 'LOF' 'LSTMAD' 'ALLM4TS' 'USAD'
+ 'TranAD' 'TimesNet' 'OCSVM' 'AnomalyTransformer' 'RobustPCA' 'PCA'
+ 'COPOD' 'OmniAnomaly' 'AutoEncoder' 'KNN' 'CBLOF' 'KMeansAD' 'MCD' 'HBOS'
+ 'EIF']",-0.27999999999999997,2.8470804691314697
+SMAP_P-3,"['KMeansAD', 'IForest', 'CBLOF', 'FITS', 'AutoEncoder', 'MCD', 'TranAD', 'LSTMAD', 'CNN', 'Donut', 'TimesNet', 'EIF', 'RobustPCA', 'OmniAnomaly', 'PCA', 'USAD', 'OFA', 'HBOS', 'AnomalyTransformer', 'COPOD', 'KNN', 'LOF', 'OCSVM', 'ALLM4TS']","['Donut' 'FITS' 'CNN' 'IForest' 'OFA' 'LOF' 'ALLM4TS' 'OCSVM' 'LSTMAD'
+ 'TranAD' 'USAD' 'TimesNet' 'COPOD' 'AnomalyTransformer' 'AutoEncoder'
+ 'RobustPCA' 'PCA' 'KNN' 'OmniAnomaly' 'CBLOF' 'KMeansAD' 'MCD' 'HBOS'
+ 'EIF']",-0.047826086956521734,2.919402599334717
+SMAP_P-4,"['IForest', 'OFA', 'OmniAnomaly', 'KMeansAD', 'PCA', 'TimesNet', 'FITS', 'CNN', 'AutoEncoder', 'MCD', 'CBLOF', 'OCSVM', 'LOF', 'EIF', 'USAD', 'AnomalyTransformer', 'KNN', 'TranAD', 'HBOS', 'COPOD', 'RobustPCA', 'Donut', 'LSTMAD', 'ALLM4TS']","['OmniAnomaly' 'OFA' 'KMeansAD' 'PCA' 'USAD' 'IForest' 'TimesNet' 'LSTMAD'
+ 'LOF' 'OCSVM' 'TranAD' 'Donut' 'KNN' 'CBLOF' 'FITS' 'RobustPCA' 'ALLM4TS'
+ 'AnomalyTransformer' 'COPOD' 'CNN' 'HBOS' 'EIF' 'MCD' 'AutoEncoder']",0.43478260869565216,2.7298195362091064
+SMAP_S-1,"['IForest', 'ALLM4TS', 'RobustPCA', 'TranAD', 'USAD', 'Donut', 'OCSVM', 'LSTMAD', 'CNN', 'LOF', 'COPOD', 'KNN', 'AnomalyTransformer', 'CBLOF', 'AutoEncoder', 'HBOS', 'MCD', 'EIF', 'PCA', 'OmniAnomaly', 'FITS', 'KMeansAD', 'TimesNet', 'OFA']","['FITS' 'Donut' 'LOF' 'CNN' 'OFA' 'IForest' 'USAD' 'TranAD' 'OCSVM'
+ 'TimesNet' 'ALLM4TS' 'LSTMAD' 'KMeansAD' 'PCA' 'COPOD' 'OmniAnomaly'
+ 'KNN' 'RobustPCA' 'CBLOF' 'AnomalyTransformer' 'MCD' 'HBOS' 'AutoEncoder'
+ 'EIF']",0.22608695652173913,2.743450880050659
+SMAP_T-1,"['ALLM4TS', 'RobustPCA', 'Donut', 'PCA', 'OmniAnomaly', 'OFA', 'IForest', 'CNN', 'LSTMAD', 'USAD', 'KMeansAD', 'TranAD', 'OCSVM', 'KNN', 'LOF', 'AnomalyTransformer', 'AutoEncoder', 'EIF', 'HBOS', 'CBLOF', 'TimesNet', 'FITS', 'COPOD', 'MCD']","['MCD' 'HBOS' 'CBLOF' 'AutoEncoder' 'EIF' 'COPOD' 'KNN' 'ALLM4TS'
+ 'KMeansAD' 'OCSVM' 'RobustPCA' 'OmniAnomaly' 'PCA' 'AnomalyTransformer'
+ 'TimesNet' 'CNN' 'FITS' 'LOF' 'USAD' 'TranAD' 'LSTMAD' 'OFA' 'IForest'
+ 'Donut']",-0.49391304347826087,2.799875497817993
+SMAP_T-2,"['OFA', 'RobustPCA', 'PCA', 'OmniAnomaly', 'ALLM4TS', 'IForest', 'CNN', 'TranAD', 'LSTMAD', 'USAD', 'KMeansAD', 'TimesNet', 'OCSVM', 'CBLOF', 'EIF', 'AutoEncoder', 'AnomalyTransformer', 'HBOS', 'LOF', 'KNN', 'COPOD', 'MCD', 'FITS', 'Donut']","['MCD' 'HBOS' 'AutoEncoder' 'CBLOF' 'EIF' 'COPOD' 'KNN' 'OCSVM' 'ALLM4TS'
+ 'KMeansAD' 'OmniAnomaly' 'PCA' 'RobustPCA' 'TimesNet'
+ 'AnomalyTransformer' 'LOF' 'FITS' 'USAD' 'OFA' 'CNN' 'TranAD' 'LSTMAD'
+ 'Donut' 'IForest']",-0.31565217391304345,2.85115385055542
+SMAP_T-3,"['OFA', 'IForest', 'PCA', 'OmniAnomaly', 'TimesNet', 'KMeansAD', 'CNN', 'ALLM4TS', 'FITS', 'LSTMAD', 'CBLOF', 'OCSVM', 'USAD', 'AutoEncoder', 'KNN', 'HBOS', 'EIF', 'Donut', 'MCD', 'TranAD', 'AnomalyTransformer', 'LOF', 'COPOD', 'RobustPCA']","['FITS' 'OFA' 'Donut' 'AutoEncoder' 'CNN' 'IForest' 'ALLM4TS' 'LSTMAD'
+ 'TranAD' 'TimesNet' 'USAD' 'LOF' 'OCSVM' 'COPOD' 'AnomalyTransformer'
+ 'RobustPCA' 'PCA' 'OmniAnomaly' 'KNN' 'CBLOF' 'MCD' 'HBOS' 'EIF'
+ 'KMeansAD']",0.2452173913043478,2.7113332748413086
+SMD_machine-1-2,"['OCSVM', 'CBLOF', 'OmniAnomaly', 'PCA', 'EIF', 'USAD', 'KMeansAD', 'TranAD', 'AutoEncoder', 'MCD', 'ALLM4TS', 'OFA', 'TimesNet', 'CNN', 'HBOS', 'IForest', 'KNN', 'LSTMAD', 'COPOD', 'Donut', 'RobustPCA', 'FITS', 'LOF', 'AnomalyTransformer']","['IForest' 'OFA' 'LSTMAD' 'Donut' 'TranAD' 'USAD' 'OmniAnomaly' 'TimesNet'
+ 'FITS' 'CNN' 'LOF' 'PCA' 'OCSVM' 'AnomalyTransformer' 'RobustPCA' 'KNN'
+ 'ALLM4TS' 'KMeansAD' 'COPOD' 'AutoEncoder' 'CBLOF' 'EIF' 'HBOS' 'MCD']",-0.18173913043478263,2.7828962802886963
+SMD_machine-1-3,"['KMeansAD', 'OFA', 'TimesNet', 'FITS', 'CNN', 'LSTMAD', 'KNN', 'OmniAnomaly', 'PCA', 'MCD', 'EIF', 'ALLM4TS', 'TranAD', 'USAD', 'LOF', 'IForest', 'HBOS', 'CBLOF', 'Donut', 'COPOD', 'RobustPCA', 'AutoEncoder', 'OCSVM', 'AnomalyTransformer']","['EIF' 'HBOS' 'OmniAnomaly' 'MCD' 'CBLOF' 'PCA' 'KMeansAD' 'USAD' 'KNN'
+ 'TranAD' 'LSTMAD' 'TimesNet' 'RobustPCA' 'COPOD' 'OFA' 'IForest'
+ 'AnomalyTransformer' 'CNN' 'OCSVM' 'LOF' 'Donut' 'FITS' 'ALLM4TS'
+ 'AutoEncoder']",0.2452173913043478,3.777662515640259
+SMD_machine-1-4,"['KMeansAD', 'OFA', 'FITS', 'TimesNet', 'CNN', 'LSTMAD', 'TranAD', 'KNN', 'OmniAnomaly', 'PCA', 'USAD', 'MCD', 'EIF', 'Donut', 'LOF', 'HBOS', 'COPOD', 'IForest', 'ALLM4TS', 'CBLOF', 'AutoEncoder', 'OCSVM', 'RobustPCA', 'AnomalyTransformer']","['EIF' 'OmniAnomaly' 'HBOS' 'MCD' 'PCA' 'USAD' 'TranAD' 'CBLOF' 'KMeansAD'
+ 'KNN' 'RobustPCA' 'LSTMAD' 'TimesNet' 'AnomalyTransformer' 'OFA'
+ 'IForest' 'CNN' 'COPOD' 'LOF' 'OCSVM' 'Donut' 'FITS' 'ALLM4TS'
+ 'AutoEncoder']",0.2078260869565217,3.098498582839966
+SMD_machine-1-6,"['AutoEncoder', 'OCSVM', 'EIF', 'KMeansAD', 'CNN', 'LSTMAD', 'TimesNet', 'MCD', 'KNN', 'FITS', 'OmniAnomaly', 'PCA', 'OFA', 'Donut', 'TranAD', 'HBOS', 'USAD', 'ALLM4TS', 'IForest', 'COPOD', 'CBLOF', 'RobustPCA', 'LOF', 'AnomalyTransformer']","['OmniAnomaly' 'LSTMAD' 'EIF' 'TranAD' 'IForest' 'PCA' 'USAD' 'OFA'
+ 'TimesNet' 'HBOS' 'KMeansAD' 'MCD' 'KNN' 'RobustPCA' 'CNN'
+ 'AnomalyTransformer' 'CBLOF' 'AutoEncoder' 'Donut' 'OCSVM' 'COPOD' 'LOF'
+ 'FITS' 'ALLM4TS']",0.21565217391304345,3.855782985687256
+SMD_machine-1-7,"['KMeansAD', 'PCA', 'OmniAnomaly', 'OFA', 'TimesNet', 'CNN', 'KNN', 'CBLOF', 'LSTMAD', 'USAD', 'EIF', 'MCD', 'FITS', 'TranAD', 'Donut', 'LOF', 'OCSVM', 'ALLM4TS', 'AutoEncoder', 'HBOS', 'IForest', 'COPOD', 'AnomalyTransformer', 'RobustPCA']","['EIF' 'HBOS' 'MCD' 'CBLOF' 'AutoEncoder' 'RobustPCA' 'AnomalyTransformer'
+ 'COPOD' 'ALLM4TS' 'KNN' 'OCSVM' 'TimesNet' 'PCA' 'KMeansAD' 'OmniAnomaly'
+ 'LSTMAD' 'TranAD' 'CNN' 'USAD' 'LOF' 'FITS' 'Donut' 'OFA' 'IForest']",-0.2539130434782608,3.681389331817627
+SMD_machine-1-8,"['USAD', 'CNN', 'LSTMAD', 'KMeansAD', 'TimesNet', 'TranAD', 'PCA', 'OFA', 'OmniAnomaly', 'CBLOF', 'KNN', 'EIF', 'MCD', 'AutoEncoder', 'FITS', 'LOF', 'RobustPCA', 'HBOS', 'Donut', 'COPOD', 'ALLM4TS', 'OCSVM', 'AnomalyTransformer', 'IForest']","['IForest' 'LSTMAD' 'Donut' 'OFA' 'TranAD' 'USAD' 'CNN' 'FITS'
+ 'OmniAnomaly' 'TimesNet' 'LOF' 'PCA' 'AnomalyTransformer' 'RobustPCA'
+ 'COPOD' 'KNN' 'KMeansAD' 'OCSVM' 'ALLM4TS' 'CBLOF' 'AutoEncoder' 'EIF'
+ 'HBOS' 'MCD']",0.25217391304347825,4.012341260910034
+SMD_machine-2-1,"['OFA', 'OmniAnomaly', 'PCA', 'CBLOF', 'EIF', 'ALLM4TS', 'AutoEncoder', 'KMeansAD', 'OCSVM', 'Donut', 'CNN', 'TimesNet', 'USAD', 'KNN', 'LSTMAD', 'TranAD', 'HBOS', 'FITS', 'IForest', 'MCD', 'RobustPCA', 'COPOD', 'LOF', 'AnomalyTransformer']","['IForest' 'LSTMAD' 'OFA' 'Donut' 'TranAD' 'CNN' 'FITS' 'USAD' 'TimesNet'
+ 'OmniAnomaly' 'LOF' 'COPOD' 'RobustPCA' 'AnomalyTransformer' 'OCSVM'
+ 'ALLM4TS' 'KNN' 'PCA' 'CBLOF' 'KMeansAD' 'AutoEncoder' 'EIF' 'HBOS' 'MCD']",-0.1226086956521739,3.447291612625122
+SMD_machine-2-2,"['RobustPCA', 'OmniAnomaly', 'PCA', 'IForest', 'KMeansAD', 'EIF', 'LSTMAD', 'USAD', 'HBOS', 'CNN', 'TranAD', 'COPOD', 'KNN', 'OFA', 'CBLOF', 'Donut', 'LOF', 'TimesNet', 'MCD', 'AnomalyTransformer', 'FITS', 'OCSVM', 'ALLM4TS', 'AutoEncoder']","['IForest' 'LSTMAD' 'OFA' 'CNN' 'TranAD' 'Donut' 'USAD' 'FITS' 'TimesNet'
+ 'LOF' 'OmniAnomaly' 'AnomalyTransformer' 'RobustPCA' 'PCA' 'COPOD' 'KNN'
+ 'CBLOF' 'KMeansAD' 'OCSVM' 'EIF' 'ALLM4TS' 'HBOS' 'AutoEncoder' 'MCD']",0.2904347826086956,2.9402337074279785
+SMD_machine-2-3,"['KMeansAD', 'PCA', 'OmniAnomaly', 'USAD', 'CNN', 'TranAD', 'KNN', 'EIF', 'OCSVM', 'HBOS', 'LSTMAD', 'TimesNet', 'COPOD', 'CBLOF', 'IForest', 'OFA', 'MCD', 'ALLM4TS', 'FITS', 'LOF', 'AutoEncoder', 'Donut', 'RobustPCA', 'AnomalyTransformer']","['IForest' 'Donut' 'OFA' 'LSTMAD' 'ALLM4TS' 'FITS' 'TimesNet'
+ 'AutoEncoder' 'CNN' 'TranAD' 'OCSVM' 'LOF' 'USAD' 'COPOD' 'OmniAnomaly'
+ 'CBLOF' 'KNN' 'AnomalyTransformer' 'RobustPCA' 'PCA' 'KMeansAD' 'EIF'
+ 'HBOS' 'MCD']",-0.2895652173913043,3.567305564880371
+SMD_machine-2-4,"['USAD', 'MCD', 'OmniAnomaly', 'PCA', 'KMeansAD', 'TranAD', 'EIF', 'CBLOF', 'CNN', 'LSTMAD', 'TimesNet', 'AutoEncoder', 'OFA', 'OCSVM', 'Donut', 'HBOS', 'KNN', 'IForest', 'COPOD', 'FITS', 'LOF', 'ALLM4TS', 'AnomalyTransformer', 'RobustPCA']","['IForest' 'LSTMAD' 'OFA' 'Donut' 'TranAD' 'USAD' 'OmniAnomaly' 'TimesNet'
+ 'CNN' 'FITS' 'LOF' 'PCA' 'RobustPCA' 'AnomalyTransformer' 'KMeansAD'
+ 'OCSVM' 'KNN' 'COPOD' 'ALLM4TS' 'CBLOF' 'AutoEncoder' 'EIF' 'HBOS' 'MCD']",0.04869565217391304,3.9008994102478027
+SMD_machine-2-5,"['KMeansAD', 'USAD', 'LSTMAD', 'MCD', 'CNN', 'OmniAnomaly', 'PCA', 'TranAD', 'OFA', 'TimesNet', 'AutoEncoder', 'CBLOF', 'FITS', 'EIF', 'OCSVM', 'KNN', 'COPOD', 'Donut', 'LOF', 'HBOS', 'ALLM4TS', 'IForest', 'RobustPCA', 'AnomalyTransformer']","['IForest' 'OFA' 'Donut' 'LSTMAD' 'FITS' 'TranAD' 'USAD' 'CNN' 'TimesNet'
+ 'LOF' 'ALLM4TS' 'OmniAnomaly' 'AnomalyTransformer' 'RobustPCA' 'OCSVM'
+ 'PCA' 'COPOD' 'KNN' 'CBLOF' 'AutoEncoder' 'KMeansAD' 'EIF' 'HBOS' 'MCD']",-0.011304347826086955,3.8388431072235107
+SMD_machine-2-7,"['USAD', 'CBLOF', 'TranAD', 'CNN', 'EIF', 'LSTMAD', 'OCSVM', 'OmniAnomaly', 'COPOD', 'PCA', 'AutoEncoder', 'TimesNet', 'KMeansAD', 'OFA', 'MCD', 'Donut', 'HBOS', 'FITS', 'KNN', 'ALLM4TS', 'LOF', 'IForest', 'RobustPCA', 'AnomalyTransformer']","['IForest' 'LSTMAD' 'OFA' 'Donut' 'TranAD' 'CNN' 'FITS' 'USAD' 'TimesNet'
+ 'OmniAnomaly' 'LOF' 'OCSVM' 'ALLM4TS' 'COPOD' 'RobustPCA' 'PCA'
+ 'AnomalyTransformer' 'KNN' 'KMeansAD' 'CBLOF' 'AutoEncoder' 'HBOS' 'EIF'
+ 'MCD']",0.06434782608695652,3.896223783493042
+SMD_machine-2-9,"['AutoEncoder', 'KMeansAD', 'OCSVM', 'OFA', 'CBLOF', 'EIF', 'CNN', 'LSTMAD', 'KNN', 'USAD', 'OmniAnomaly', 'PCA', 'TranAD', 'FITS', 'TimesNet', 'COPOD', 'ALLM4TS', 'LOF', 'MCD', 'HBOS', 'IForest', 'AnomalyTransformer', 'Donut', 'RobustPCA']","['EIF' 'HBOS' 'MCD' 'OmniAnomaly' 'KMeansAD' 'CBLOF' 'KNN' 'PCA' 'LSTMAD'
+ 'TranAD' 'USAD' 'TimesNet' 'COPOD' 'RobustPCA' 'IForest'
+ 'AnomalyTransformer' 'OFA' 'OCSVM' 'CNN' 'LOF' 'AutoEncoder' 'Donut'
+ 'ALLM4TS' 'FITS']",0.14608695652173911,3.3020665645599365
+SMD_machine-3-10,"['CBLOF', 'EIF', 'TranAD', 'USAD', 'LSTMAD', 'OmniAnomaly', 'PCA', 'CNN', 'FITS', 'TimesNet', 'ALLM4TS', 'Donut', 'OFA', 'LOF', 'HBOS', 'RobustPCA', 'OCSVM', 'KMeansAD', 'IForest', 'KNN', 'COPOD', 'AutoEncoder', 'AnomalyTransformer', 'MCD']","['EIF' 'MCD' 'HBOS' 'KMeansAD' 'OmniAnomaly' 'PCA' 'KNN' 'TranAD' 'CBLOF'
+ 'USAD' 'LSTMAD' 'TimesNet' 'RobustPCA' 'COPOD' 'IForest'
+ 'AnomalyTransformer' 'CNN' 'LOF' 'OFA' 'OCSVM' 'Donut' 'FITS'
+ 'AutoEncoder' 'ALLM4TS']",0.1973913043478261,3.883169412612915
+SMD_machine-3-2,"['PCA', 'OmniAnomaly', 'OFA', 'USAD', 'RobustPCA', 'TimesNet', 'OCSVM', 'CNN', 'MCD', 'LSTMAD', 'FITS', 'AutoEncoder', 'ALLM4TS', 'AnomalyTransformer', 'EIF', 'IForest', 'KMeansAD', 'KNN', 'TranAD', 'LOF', 'CBLOF', 'Donut', 'HBOS', 'COPOD']","['IForest' 'LSTMAD' 'OFA' 'Donut' 'TranAD' 'OmniAnomaly' 'USAD' 'TimesNet'
+ 'CNN' 'FITS' 'LOF' 'PCA' 'RobustPCA' 'AnomalyTransformer' 'KNN' 'OCSVM'
+ 'KMeansAD' 'COPOD' 'CBLOF' 'ALLM4TS' 'EIF' 'HBOS' 'AutoEncoder' 'MCD']",0.27478260869565213,3.506659746170044
+SMD_machine-3-3,"['CBLOF', 'KNN', 'KMeansAD', 'MCD', 'USAD', 'EIF', 'TimesNet', 'OFA', 'CNN', 'LSTMAD', 'OmniAnomaly', 'PCA', 'TranAD', 'FITS', 'LOF', 'IForest', 'ALLM4TS', 'OCSVM', 'HBOS', 'Donut', 'AutoEncoder', 'COPOD', 'AnomalyTransformer', 'RobustPCA']","['IForest' 'LSTMAD' 'Donut' 'OFA' 'TranAD' 'CNN' 'FITS' 'USAD' 'TimesNet'
+ 'AnomalyTransformer' 'RobustPCA' 'LOF' 'OmniAnomaly' 'COPOD' 'ALLM4TS'
+ 'OCSVM' 'KNN' 'AutoEncoder' 'PCA' 'CBLOF' 'KMeansAD' 'EIF' 'HBOS' 'MCD']",-0.21391304347826084,3.960019826889038
+SMD_machine-3-5,"['USAD', 'TranAD', 'CNN', 'LSTMAD', 'CBLOF', 'OFA', 'EIF', 'KNN', 'TimesNet', 'PCA', 'OmniAnomaly', 'KMeansAD', 'Donut', 'FITS', 'AutoEncoder', 'IForest', 'LOF', 'MCD', 'HBOS', 'COPOD', 'AnomalyTransformer', 'OCSVM', 'ALLM4TS', 'RobustPCA']","['IForest' 'Donut' 'OFA' 'LSTMAD' 'FITS' 'ALLM4TS' 'TranAD' 'CNN' 'LOF'
+ 'USAD' 'TimesNet' 'OCSVM' 'AnomalyTransformer' 'RobustPCA' 'AutoEncoder'
+ 'COPOD' 'OmniAnomaly' 'PCA' 'KNN' 'CBLOF' 'KMeansAD' 'EIF' 'HBOS' 'MCD']",0.1269565217391304,3.175166130065918
+SMD_machine-3-6,"['MCD', 'CNN', 'EIF', 'AutoEncoder', 'PCA', 'OmniAnomaly', 'LSTMAD', 'HBOS', 'OCSVM', 'CBLOF', 'TimesNet', 'Donut', 'KNN', 'ALLM4TS', 'KMeansAD', 'USAD', 'TranAD', 'OFA', 'FITS', 'IForest', 'COPOD', 'LOF', 'AnomalyTransformer', 'RobustPCA']","['MCD' 'HBOS' 'EIF' 'OmniAnomaly' 'KMeansAD' 'PCA' 'CBLOF' 'KNN' 'TranAD'
+ 'LSTMAD' 'USAD' 'RobustPCA' 'IForest' 'TimesNet' 'COPOD'
+ 'AnomalyTransformer' 'CNN' 'OFA' 'OCSVM' 'LOF' 'Donut' 'FITS' 'ALLM4TS'
+ 'AutoEncoder']",0.3652173913043478,3.426288366317749
+SVDB_800,"['PCA', 'OmniAnomaly', 'IForest', 'ALLM4TS', 'OFA', 'LSTMAD', 'CNN', 'USAD', 'KMeansAD', 'TranAD', 'Donut', 'FITS', 'COPOD', 'CBLOF', 'MCD', 'RobustPCA', 'HBOS', 'AutoEncoder', 'TimesNet', 'OCSVM', 'EIF', 'AnomalyTransformer', 'KNN', 'LOF']","['AutoEncoder' 'ALLM4TS' 'MCD' 'HBOS' 'CBLOF' 'OCSVM' 'EIF' 'COPOD' 'KNN'
+ 'AnomalyTransformer' 'RobustPCA' 'KMeansAD' 'PCA' 'OmniAnomaly' 'LOF'
+ 'TimesNet' 'FITS' 'USAD' 'CNN' 'Donut' 'OFA' 'LSTMAD' 'TranAD' 'IForest']",-0.44695652173913036,8.358034133911133
+SVDB_801,"['PCA', 'OmniAnomaly', 'ALLM4TS', 'OFA', 'LSTMAD', 'CNN', 'IForest', 'USAD', 'TimesNet', 'TranAD', 'RobustPCA', 'Donut', 'FITS', 'KMeansAD', 'AnomalyTransformer', 'EIF', 'COPOD', 'LOF', 'KNN', 'OCSVM', 'HBOS', 'AutoEncoder', 'MCD', 'CBLOF']","['EIF' 'HBOS' 'MCD' 'OmniAnomaly' 'KMeansAD' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'RobustPCA' 'TranAD' 'COPOD' 'AnomalyTransformer' 'OCSVM'
+ 'CNN' 'LSTMAD' 'OFA' 'LOF' 'IForest' 'ALLM4TS' 'FITS' 'Donut'
+ 'AutoEncoder']",-0.17130434782608694,8.45424485206604
+SVDB_802,"['OFA', 'PCA', 'OmniAnomaly', 'ALLM4TS', 'CNN', 'LSTMAD', 'TimesNet', 'USAD', 'Donut', 'TranAD', 'FITS', 'IForest', 'KMeansAD', 'MCD', 'OCSVM', 'KNN', 'LOF', 'AutoEncoder', 'HBOS', 'COPOD', 'AnomalyTransformer', 'CBLOF', 'EIF', 'RobustPCA']","['EIF' 'MCD' 'PCA' 'OmniAnomaly' 'HBOS' 'AnomalyTransformer' 'KMeansAD'
+ 'CBLOF' 'RobustPCA' 'KNN' 'USAD' 'TimesNet' 'AutoEncoder' 'LOF' 'ALLM4TS'
+ 'OCSVM' 'COPOD' 'TranAD' 'FITS' 'Donut' 'OFA' 'LSTMAD' 'CNN' 'IForest']",-0.35478260869565215,8.150906801223755
+SVDB_803,"['OmniAnomaly', 'PCA', 'ALLM4TS', 'OFA', 'CNN', 'LSTMAD', 'IForest', 'FITS', 'AnomalyTransformer', 'USAD', 'TranAD', 'Donut', 'TimesNet', 'MCD', 'KMeansAD', 'OCSVM', 'EIF', 'AutoEncoder', 'HBOS', 'LOF', 'KNN', 'COPOD', 'RobustPCA', 'CBLOF']","['ALLM4TS' 'Donut' 'FITS' 'IForest' 'OFA' 'LOF' 'OCSVM'
+ 'AnomalyTransformer' 'AutoEncoder' 'CNN' 'RobustPCA' 'TimesNet' 'LSTMAD'
+ 'USAD' 'COPOD' 'TranAD' 'CBLOF' 'PCA' 'OmniAnomaly' 'KNN' 'KMeansAD'
+ 'EIF' 'HBOS' 'MCD']",0.2982608695652174,8.208775281906128
+SVDB_804,"['PCA', 'OmniAnomaly', 'OFA', 'ALLM4TS', 'IForest', 'CNN', 'TimesNet', 'LSTMAD', 'USAD', 'TranAD', 'FITS', 'Donut', 'MCD', 'COPOD', 'OCSVM', 'HBOS', 'AutoEncoder', 'RobustPCA', 'EIF', 'AnomalyTransformer', 'KMeansAD', 'KNN', 'LOF', 'CBLOF']","['MCD' 'HBOS' 'AutoEncoder' 'EIF' 'CBLOF' 'ALLM4TS' 'KMeansAD' 'OCSVM'
+ 'KNN' 'PCA' 'OmniAnomaly' 'COPOD' 'RobustPCA' 'AnomalyTransformer'
+ 'TimesNet' 'LOF' 'USAD' 'FITS' 'TranAD' 'OFA' 'LSTMAD' 'CNN' 'Donut'
+ 'IForest']",-0.42173913043478256,8.293912410736084
+SVDB_805,"['PCA', 'OmniAnomaly', 'OFA', 'ALLM4TS', 'CNN', 'LSTMAD', 'IForest', 'TimesNet', 'USAD', 'FITS', 'TranAD', 'Donut', 'RobustPCA', 'KMeansAD', 'MCD', 'OCSVM', 'COPOD', 'HBOS', 'AutoEncoder', 'EIF', 'LOF', 'KNN', 'AnomalyTransformer', 'CBLOF']","['MCD' 'HBOS' 'EIF' 'AutoEncoder' 'CBLOF' 'KMeansAD' 'OmniAnomaly' 'PCA'
+ 'KNN' 'OCSVM' 'ALLM4TS' 'COPOD' 'RobustPCA' 'AnomalyTransformer'
+ 'TimesNet' 'USAD' 'LOF' 'TranAD' 'OFA' 'LSTMAD' 'FITS' 'CNN' 'IForest'
+ 'Donut']",-0.4130434782608695,8.128945350646973
+SVDB_806,"['OFA', 'IForest', 'LSTMAD', 'KMeansAD', 'CNN', 'TimesNet', 'FITS', 'RobustPCA', 'TranAD', 'ALLM4TS', 'COPOD', 'EIF', 'MCD', 'USAD', 'Donut', 'OCSVM', 'HBOS', 'AutoEncoder', 'CBLOF', 'OmniAnomaly', 'PCA', 'LOF', 'KNN', 'AnomalyTransformer']","['MCD' 'HBOS' 'EIF' 'OmniAnomaly' 'CBLOF' 'PCA' 'KMeansAD' 'KNN' 'OCSVM'
+ 'AutoEncoder' 'ALLM4TS' 'RobustPCA' 'COPOD' 'AnomalyTransformer'
+ 'TimesNet' 'USAD' 'LOF' 'TranAD' 'OFA' 'FITS' 'LSTMAD' 'CNN' 'IForest'
+ 'Donut']",-0.4843478260869564,8.244849681854248
+SVDB_807,"['IForest', 'PCA', 'OmniAnomaly', 'OFA', 'Donut', 'AnomalyTransformer', 'FITS', 'CNN', 'KNN', 'LOF', 'CBLOF', 'OCSVM', 'HBOS', 'AutoEncoder', 'COPOD', 'MCD', 'ALLM4TS', 'EIF', 'RobustPCA', 'TranAD', 'LSTMAD', 'USAD', 'KMeansAD', 'TimesNet']","['MCD' 'HBOS' 'AutoEncoder' 'EIF' 'CBLOF' 'ALLM4TS' 'KMeansAD' 'PCA'
+ 'OmniAnomaly' 'OCSVM' 'KNN' 'COPOD' 'RobustPCA' 'AnomalyTransformer'
+ 'TimesNet' 'LOF' 'USAD' 'FITS' 'TranAD' 'LSTMAD' 'OFA' 'Donut' 'CNN'
+ 'IForest']",-0.24434782608695652,8.758426189422607
+SVDB_808,"['OFA', 'PCA', 'OmniAnomaly', 'ALLM4TS', 'CNN', 'LSTMAD', 'TimesNet', 'USAD', 'IForest', 'TranAD', 'Donut', 'FITS', 'KMeansAD', 'RobustPCA', 'EIF', 'LOF', 'KNN', 'AnomalyTransformer', 'COPOD', 'OCSVM', 'AutoEncoder', 'HBOS', 'MCD', 'CBLOF']","['OmniAnomaly' 'OFA' 'ALLM4TS' 'PCA' 'USAD' 'IForest' 'TimesNet' 'Donut'
+ 'FITS' 'OCSVM' 'LOF' 'LSTMAD' 'AutoEncoder' 'TranAD' 'AnomalyTransformer'
+ 'CBLOF' 'RobustPCA' 'KNN' 'CNN' 'COPOD' 'KMeansAD' 'EIF' 'HBOS' 'MCD']",0.7034782608695651,7.97077751159668
+SVDB_809,"['OFA', 'PCA', 'OmniAnomaly', 'ALLM4TS', 'IForest', 'CNN', 'LSTMAD', 'KMeansAD', 'TimesNet', 'FITS', 'USAD', 'Donut', 'TranAD', 'RobustPCA', 'MCD', 'COPOD', 'CBLOF', 'OCSVM', 'HBOS', 'AutoEncoder', 'EIF', 'LOF', 'AnomalyTransformer', 'KNN']","['ALLM4TS' 'CBLOF' 'MCD' 'OCSVM' 'AnomalyTransformer' 'AutoEncoder'
+ 'RobustPCA' 'COPOD' 'HBOS' 'FITS' 'PCA' 'OmniAnomaly' 'LOF' 'EIF' 'KNN'
+ 'Donut' 'TimesNet' 'USAD' 'KMeansAD' 'OFA' 'CNN' 'IForest' 'TranAD'
+ 'LSTMAD']",-0.38869565217391305,8.478118419647217
+SVDB_810,"['PCA', 'OmniAnomaly', 'ALLM4TS', 'OFA', 'CNN', 'LSTMAD', 'USAD', 'RobustPCA', 'TranAD', 'Donut', 'TimesNet', 'FITS', 'IForest', 'KMeansAD', 'MCD', 'COPOD', 'EIF', 'OCSVM', 'HBOS', 'AutoEncoder', 'AnomalyTransformer', 'KNN', 'LOF', 'CBLOF']","['MCD' 'AutoEncoder' 'HBOS' 'ALLM4TS' 'EIF' 'CBLOF' 'OCSVM' 'KNN' 'COPOD'
+ 'PCA' 'KMeansAD' 'OmniAnomaly' 'AnomalyTransformer' 'RobustPCA'
+ 'TimesNet' 'LOF' 'USAD' 'FITS' 'TranAD' 'OFA' 'LSTMAD' 'Donut' 'CNN'
+ 'IForest']",-0.42260869565217385,8.125333309173584
+SVDB_811,"['OFA', 'ALLM4TS', 'CNN', 'OmniAnomaly', 'PCA', 'LSTMAD', 'USAD', 'TranAD', 'IForest', 'Donut', 'TimesNet', 'KMeansAD', 'FITS', 'AnomalyTransformer', 'OCSVM', 'MCD', 'CBLOF', 'AutoEncoder', 'HBOS', 'LOF', 'KNN', 'COPOD', 'RobustPCA', 'EIF']","['MCD' 'HBOS' 'AutoEncoder' 'OmniAnomaly' 'EIF' 'PCA' 'CBLOF' 'KMeansAD'
+ 'ALLM4TS' 'KNN' 'OCSVM' 'AnomalyTransformer' 'RobustPCA' 'USAD'
+ 'TimesNet' 'COPOD' 'LOF' 'TranAD' 'LSTMAD' 'OFA' 'FITS' 'CNN' 'IForest'
+ 'Donut']",-0.3321739130434782,8.61852240562439
+SVDB_812,"['PCA', 'OmniAnomaly', 'OFA', 'ALLM4TS', 'CNN', 'LSTMAD', 'IForest', 'KMeansAD', 'TimesNet', 'USAD', 'TranAD', 'Donut', 'FITS', 'RobustPCA', 'COPOD', 'MCD', 'EIF', 'OCSVM', 'HBOS', 'AutoEncoder', 'AnomalyTransformer', 'LOF', 'KNN', 'CBLOF']","['MCD' 'HBOS' 'EIF' 'CBLOF' 'KMeansAD' 'OmniAnomaly' 'PCA' 'AutoEncoder'
+ 'KNN' 'OCSVM' 'COPOD' 'RobustPCA' 'ALLM4TS' 'AnomalyTransformer'
+ 'TimesNet' 'USAD' 'LOF' 'TranAD' 'LSTMAD' 'OFA' 'FITS' 'CNN' 'IForest'
+ 'Donut']",-0.33999999999999997,8.13753604888916
+SVDB_820,"['PCA', 'OmniAnomaly', 'IForest', 'OFA', 'FITS', 'CNN', 'LSTMAD', 'KMeansAD', 'AnomalyTransformer', 'ALLM4TS', 'MCD', 'COPOD', 'TimesNet', 'USAD', 'CBLOF', 'OCSVM', 'HBOS', 'AutoEncoder', 'TranAD', 'RobustPCA', 'EIF', 'Donut', 'LOF', 'KNN']","['MCD' 'HBOS' 'AutoEncoder' 'EIF' 'CBLOF' 'PCA' 'KMeansAD' 'OmniAnomaly'
+ 'KNN' 'ALLM4TS' 'OCSVM' 'AnomalyTransformer' 'RobustPCA' 'COPOD'
+ 'TimesNet' 'USAD' 'LOF' 'TranAD' 'OFA' 'FITS' 'LSTMAD' 'Donut' 'CNN'
+ 'IForest']",-0.18869565217391301,8.387977838516235
+SVDB_821,"['PCA', 'OmniAnomaly', 'CNN', 'IForest', 'FITS', 'LSTMAD', 'TimesNet', 'USAD', 'TranAD', 'RobustPCA', 'OCSVM', 'MCD', 'HBOS', 'AutoEncoder', 'LOF', 'KNN', 'COPOD', 'AnomalyTransformer', 'CBLOF', 'KMeansAD', 'OFA', 'EIF', 'Donut', 'ALLM4TS']","['MCD' 'HBOS' 'AutoEncoder' 'EIF' 'KMeansAD' 'CBLOF' 'PCA' 'KNN' 'ALLM4TS'
+ 'OmniAnomaly' 'OCSVM' 'RobustPCA' 'COPOD' 'AnomalyTransformer' 'TimesNet'
+ 'USAD' 'LOF' 'TranAD' 'LSTMAD' 'OFA' 'FITS' 'CNN' 'Donut' 'IForest']",-0.26347826086956516,8.545730829238892
+SVDB_822,"['OFA', 'PCA', 'OmniAnomaly', 'KMeansAD', 'RobustPCA', 'EIF', 'FITS', 'Donut', 'AnomalyTransformer', 'LOF', 'KNN', 'CBLOF', 'TimesNet', 'HBOS', 'AutoEncoder', 'COPOD', 'OCSVM', 'MCD', 'ALLM4TS', 'TranAD', 'USAD', 'IForest', 'LSTMAD', 'CNN']","['MCD' 'HBOS' 'EIF' 'KMeansAD' 'CBLOF' 'AutoEncoder' 'OmniAnomaly' 'PCA'
+ 'KNN' 'OCSVM' 'ALLM4TS' 'COPOD' 'RobustPCA' 'AnomalyTransformer'
+ 'TimesNet' 'USAD' 'LOF' 'TranAD' 'LSTMAD' 'OFA' 'CNN' 'FITS' 'IForest'
+ 'Donut']",0.21913043478260866,8.545896053314209
+SVDB_823,"['OmniAnomaly', 'PCA', 'IForest', 'FITS', 'TimesNet', 'CNN', 'USAD', 'TranAD', 'Donut', 'ALLM4TS', 'LSTMAD', 'KMeansAD', 'MCD', 'RobustPCA', 'OCSVM', 'COPOD', 'HBOS', 'AutoEncoder', 'CBLOF', 'AnomalyTransformer', 'LOF', 'KNN', 'EIF', 'OFA']","['EIF' 'OmniAnomaly' 'MCD' 'PCA' 'AnomalyTransformer' 'HBOS' 'RobustPCA'
+ 'CBLOF' 'KMeansAD' 'ALLM4TS' 'KNN' 'USAD' 'LOF' 'TimesNet' 'OCSVM' 'FITS'
+ 'Donut' 'COPOD' 'CNN' 'TranAD' 'OFA' 'LSTMAD' 'IForest' 'AutoEncoder']",-0.08521739130434783,8.090240240097046
+SVDB_824,"['OFA', 'TimesNet', 'PCA', 'OmniAnomaly', 'IForest', 'KMeansAD', 'FITS', 'LSTMAD', 'CNN', 'COPOD', 'CBLOF', 'MCD', 'EIF', 'HBOS', 'AutoEncoder', 'OCSVM', 'ALLM4TS', 'RobustPCA', 'USAD', 'Donut', 'AnomalyTransformer', 'KNN', 'LOF', 'TranAD']","['MCD' 'ALLM4TS' 'OmniAnomaly' 'PCA' 'CNN' 'CBLOF' 'HBOS' 'RobustPCA'
+ 'OCSVM' 'AnomalyTransformer' 'EIF' 'Donut' 'FITS' 'KNN' 'COPOD' 'OFA'
+ 'IForest' 'USAD' 'TranAD' 'TimesNet' 'LOF' 'LSTMAD' 'KMeansAD'
+ 'AutoEncoder']",0.047826086956521734,8.448753833770752
+SVDB_825,"['CNN', 'FITS', 'LSTMAD', 'PCA', 'OmniAnomaly', 'OFA', 'AnomalyTransformer', 'ALLM4TS', 'TranAD', 'USAD', 'LOF', 'KNN', 'OCSVM', 'HBOS', 'AutoEncoder', 'CBLOF', 'MCD', 'RobustPCA', 'COPOD', 'TimesNet', 'IForest', 'EIF', 'Donut', 'KMeansAD']","['ALLM4TS' 'AutoEncoder' 'AnomalyTransformer' 'OCSVM' 'RobustPCA' 'FITS'
+ 'Donut' 'CBLOF' 'LOF' 'MCD' 'PCA' 'OFA' 'COPOD' 'CNN' 'OmniAnomaly'
+ 'TimesNet' 'EIF' 'KNN' 'USAD' 'HBOS' 'IForest' 'LSTMAD' 'TranAD'
+ 'KMeansAD']",0.1243478260869565,8.437489748001099
+SVDB_826,"['OmniAnomaly', 'PCA', 'FITS', 'CNN', 'LSTMAD', 'ALLM4TS', 'OFA', 'TranAD', 'Donut', 'IForest', 'USAD', 'RobustPCA', 'TimesNet', 'AnomalyTransformer', 'EIF', 'COPOD', 'LOF', 'KNN', 'OCSVM', 'AutoEncoder', 'HBOS', 'MCD', 'KMeansAD', 'CBLOF']","['MCD' 'EIF' 'OmniAnomaly' 'PCA' 'HBOS' 'CBLOF' 'AnomalyTransformer'
+ 'RobustPCA' 'ALLM4TS' 'KMeansAD' 'KNN' 'AutoEncoder' 'COPOD' 'USAD' 'LOF'
+ 'OCSVM' 'TimesNet' 'FITS' 'Donut' 'CNN' 'TranAD' 'IForest' 'LSTMAD' 'OFA']",-0.35130434782608694,8.071083307266235
+SVDB_827,"['PCA', 'OmniAnomaly', 'IForest', 'CNN', 'OFA', 'RobustPCA', 'LSTMAD', 'Donut', 'MCD', 'OCSVM', 'FITS', 'COPOD', 'HBOS', 'AutoEncoder', 'AnomalyTransformer', 'KMeansAD', 'EIF', 'ALLM4TS', 'LOF', 'KNN', 'CBLOF', 'TranAD', 'USAD', 'TimesNet']","['AutoEncoder' 'ALLM4TS' 'MCD' 'HBOS' 'OCSVM' 'CBLOF' 'COPOD' 'EIF'
+ 'AnomalyTransformer' 'KNN' 'RobustPCA' 'FITS' 'LOF' 'KMeansAD' 'PCA'
+ 'TimesNet' 'OmniAnomaly' 'Donut' 'CNN' 'USAD' 'OFA' 'TranAD' 'LSTMAD'
+ 'IForest']",-0.248695652173913,8.083396673202515
+SVDB_828,"['OFA', 'ALLM4TS', 'OmniAnomaly', 'PCA', 'CNN', 'LSTMAD', 'KMeansAD', 'TimesNet', 'USAD', 'TranAD', 'FITS', 'Donut', 'IForest', 'RobustPCA', 'EIF', 'CBLOF', 'COPOD', 'MCD', 'HBOS', 'AutoEncoder', 'OCSVM', 'AnomalyTransformer', 'KNN', 'LOF']","['MCD' 'HBOS' 'EIF' 'OmniAnomaly' 'KMeansAD' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'COPOD' 'TimesNet' 'RobustPCA' 'AnomalyTransformer' 'OCSVM' 'LOF'
+ 'TranAD' 'AutoEncoder' 'ALLM4TS' 'LSTMAD' 'OFA' 'FITS' 'CNN' 'IForest'
+ 'Donut']",-0.20608695652173914,8.191492319107056
+SVDB_829,"['OmniAnomaly', 'PCA', 'Donut', 'ALLM4TS', 'FITS', 'TranAD', 'IForest', 'USAD', 'TimesNet', 'OFA', 'LSTMAD', 'CNN', 'AutoEncoder', 'OCSVM', 'MCD', 'HBOS', 'COPOD', 'CBLOF', 'AnomalyTransformer', 'LOF', 'KNN', 'RobustPCA', 'EIF', 'KMeansAD']","['AutoEncoder' 'ALLM4TS' 'MCD' 'OCSVM' 'HBOS' 'CBLOF' 'AnomalyTransformer'
+ 'RobustPCA' 'COPOD' 'KNN' 'PCA' 'EIF' 'OmniAnomaly' 'FITS' 'LOF'
+ 'TimesNet' 'OFA' 'Donut' 'USAD' 'KMeansAD' 'LSTMAD' 'IForest' 'TranAD'
+ 'CNN']",-0.24,8.347503185272217
+SVDB_840,"['OmniAnomaly', 'PCA', 'OFA', 'IForest', 'CNN', 'ALLM4TS', 'LSTMAD', 'FITS', 'TimesNet', 'USAD', 'Donut', 'TranAD', 'KMeansAD', 'CBLOF', 'MCD', 'AnomalyTransformer', 'OCSVM', 'KNN', 'LOF', 'COPOD', 'AutoEncoder', 'HBOS', 'EIF', 'RobustPCA']","['OmniAnomaly' 'PCA' 'EIF' 'AnomalyTransformer' 'MCD' 'RobustPCA' 'CBLOF'
+ 'KMeansAD' 'HBOS' 'USAD' 'LOF' 'ALLM4TS' 'KNN' 'Donut' 'TimesNet' 'FITS'
+ 'CNN' 'COPOD' 'TranAD' 'OCSVM' 'IForest' 'OFA' 'LSTMAD' 'AutoEncoder']",-0.11565217391304347,8.202370882034302
+SVDB_841,"['PCA', 'OmniAnomaly', 'OFA', 'ALLM4TS', 'TimesNet', 'CNN', 'LSTMAD', 'AnomalyTransformer', 'IForest', 'FITS', 'RobustPCA', 'USAD', 'EIF', 'COPOD', 'CBLOF', 'LOF', 'KNN', 'HBOS', 'AutoEncoder', 'OCSVM', 'MCD', 'Donut', 'KMeansAD', 'TranAD']","['ALLM4TS' 'AutoEncoder' 'OCSVM' 'AnomalyTransformer' 'COPOD' 'FITS'
+ 'RobustPCA' 'CBLOF' 'Donut' 'MCD' 'LOF' 'IForest' 'CNN' 'KNN' 'HBOS'
+ 'TimesNet' 'OFA' 'PCA' 'EIF' 'LSTMAD' 'USAD' 'OmniAnomaly' 'TranAD'
+ 'KMeansAD']",-0.06521739130434781,8.204222679138184
+SVDB_842,"['OFA', 'LSTMAD', 'KMeansAD', 'PCA', 'OmniAnomaly', 'IForest', 'CNN', 'FITS', 'TimesNet', 'Donut', 'ALLM4TS', 'USAD', 'CBLOF', 'COPOD', 'MCD', 'TranAD', 'AutoEncoder', 'HBOS', 'OCSVM', 'RobustPCA', 'AnomalyTransformer', 'EIF', 'KNN', 'LOF']","['EIF' 'MCD' 'HBOS' 'OmniAnomaly' 'KMeansAD' 'PCA' 'CBLOF' 'KNN'
+ 'AutoEncoder' 'RobustPCA' 'TimesNet' 'USAD' 'AnomalyTransformer' 'OCSVM'
+ 'COPOD' 'ALLM4TS' 'TranAD' 'LOF' 'LSTMAD' 'OFA' 'CNN' 'FITS' 'IForest'
+ 'Donut']",-0.2834782608695652,8.245399713516235
+SVDB_843,"['OFA', 'LSTMAD', 'TimesNet', 'Donut', 'PCA', 'OmniAnomaly', 'CNN', 'KMeansAD', 'TranAD', 'FITS', 'USAD', 'ALLM4TS', 'IForest', 'COPOD', 'MCD', 'EIF', 'AnomalyTransformer', 'OCSVM', 'AutoEncoder', 'HBOS', 'LOF', 'KNN', 'CBLOF', 'RobustPCA']","['EIF' 'HBOS' 'KMeansAD' 'MCD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'RobustPCA' 'AnomalyTransformer' 'COPOD' 'TranAD' 'LOF'
+ 'LSTMAD' 'OCSVM' 'CNN' 'OFA' 'IForest' 'FITS' 'ALLM4TS' 'Donut'
+ 'AutoEncoder']",-0.19826086956521738,7.965943098068237
+SVDB_844,"['OFA', 'PCA', 'OmniAnomaly', 'CNN', 'ALLM4TS', 'LSTMAD', 'KMeansAD', 'IForest', 'TimesNet', 'COPOD', 'MCD', 'CBLOF', 'FITS', 'USAD', 'EIF', 'HBOS', 'OCSVM', 'AutoEncoder', 'RobustPCA', 'TranAD', 'Donut', 'AnomalyTransformer', 'KNN', 'LOF']","['ALLM4TS' 'AutoEncoder' 'OCSVM' 'AnomalyTransformer' 'COPOD' 'RobustPCA'
+ 'CBLOF' 'FITS' 'MCD' 'Donut' 'LOF' 'KNN' 'HBOS' 'IForest' 'CNN'
+ 'TimesNet' 'OFA' 'PCA' 'EIF' 'LSTMAD' 'USAD' 'OmniAnomaly' 'TranAD'
+ 'KMeansAD']",-0.34695652173913033,8.094356775283813
+SVDB_845,"['OFA', 'KMeansAD', 'IForest', 'ALLM4TS', 'LSTMAD', 'OmniAnomaly', 'PCA', 'CNN', 'FITS', 'TimesNet', 'MCD', 'Donut', 'COPOD', 'EIF', 'USAD', 'OCSVM', 'HBOS', 'AutoEncoder', 'TranAD', 'LOF', 'KNN', 'AnomalyTransformer', 'CBLOF', 'RobustPCA']","['MCD' 'HBOS' 'AutoEncoder' 'EIF' 'CBLOF' 'KMeansAD' 'PCA' 'OmniAnomaly'
+ 'KNN' 'ALLM4TS' 'OCSVM' 'COPOD' 'AnomalyTransformer' 'RobustPCA'
+ 'TimesNet' 'USAD' 'LOF' 'TranAD' 'LSTMAD' 'FITS' 'OFA' 'CNN' 'Donut'
+ 'IForest']",-0.2573913043478261,8.225394248962402
+SVDB_846,"['OFA', 'ALLM4TS', 'KMeansAD', 'PCA', 'OmniAnomaly', 'MCD', 'HBOS', 'AutoEncoder', 'OCSVM', 'LSTMAD', 'COPOD', 'FITS', 'Donut', 'CNN', 'KNN', 'LOF', 'EIF', 'AnomalyTransformer', 'USAD', 'CBLOF', 'TranAD', 'RobustPCA', 'IForest', 'TimesNet']","['MCD' 'HBOS' 'EIF' 'AutoEncoder' 'CBLOF' 'KMeansAD' 'ALLM4TS' 'KNN'
+ 'OCSVM' 'PCA' 'OmniAnomaly' 'COPOD' 'RobustPCA' 'AnomalyTransformer'
+ 'TimesNet' 'LOF' 'USAD' 'FITS' 'TranAD' 'LSTMAD' 'OFA' 'CNN' 'Donut'
+ 'IForest']",0.3347826086956522,7.79619574546814
+SVDB_847,"['OmniAnomaly', 'PCA', 'OFA', 'ALLM4TS', 'IForest', 'CNN', 'LSTMAD', 'KMeansAD', 'USAD', 'AnomalyTransformer', 'TranAD', 'Donut', 'FITS', 'TimesNet', 'RobustPCA', 'COPOD', 'CBLOF', 'MCD', 'OCSVM', 'AutoEncoder', 'HBOS', 'EIF', 'KNN', 'LOF']","['MCD' 'HBOS' 'EIF' 'AutoEncoder' 'CBLOF' 'ALLM4TS' 'OmniAnomaly'
+ 'KMeansAD' 'KNN' 'PCA' 'OCSVM' 'COPOD' 'RobustPCA' 'AnomalyTransformer'
+ 'TimesNet' 'USAD' 'LOF' 'OFA' 'TranAD' 'LSTMAD' 'FITS' 'CNN' 'Donut'
+ 'IForest']",-0.3782608695652173,8.273453950881958
+SVDB_848,"['KMeansAD', 'PCA', 'OmniAnomaly', 'IForest', 'OFA', 'USAD', 'ALLM4TS', 'CNN', 'TranAD', 'MCD', 'TimesNet', 'COPOD', 'LSTMAD', 'AutoEncoder', 'HBOS', 'OCSVM', 'EIF', 'Donut', 'RobustPCA', 'LOF', 'KNN', 'AnomalyTransformer', 'CBLOF', 'FITS']","['OFA' 'IForest' 'Donut' 'FITS' 'ALLM4TS' 'USAD' 'OmniAnomaly' 'LSTMAD'
+ 'LOF' 'TimesNet' 'TranAD' 'OCSVM' 'PCA' 'CNN' 'AnomalyTransformer'
+ 'RobustPCA' 'COPOD' 'CBLOF' 'AutoEncoder' 'KNN' 'KMeansAD' 'EIF' 'HBOS'
+ 'MCD']",0.21391304347826084,8.211088418960571
+SVDB_849,"['OFA', 'ALLM4TS', 'PCA', 'OmniAnomaly', 'CNN', 'LSTMAD', 'TimesNet', 'FITS', 'KMeansAD', 'USAD', 'Donut', 'TranAD', 'IForest', 'CBLOF', 'OCSVM', 'MCD', 'HBOS', 'AutoEncoder', 'COPOD', 'RobustPCA', 'KNN', 'LOF', 'AnomalyTransformer', 'EIF']","['EIF' 'HBOS' 'KMeansAD' 'MCD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'RobustPCA' 'COPOD' 'TranAD' 'AnomalyTransformer' 'OCSVM'
+ 'LSTMAD' 'OFA' 'LOF' 'CNN' 'IForest' 'ALLM4TS' 'FITS' 'AutoEncoder'
+ 'Donut']",-0.19652173913043475,8.08143949508667
+SVDB_850,"['OFA', 'OmniAnomaly', 'PCA', 'LSTMAD', 'CNN', 'IForest', 'RobustPCA', 'KMeansAD', 'ALLM4TS', 'Donut', 'USAD', 'FITS', 'TranAD', 'TimesNet', 'COPOD', 'MCD', 'CBLOF', 'OCSVM', 'HBOS', 'AutoEncoder', 'AnomalyTransformer', 'LOF', 'KNN', 'EIF']","['MCD' 'HBOS' 'EIF' 'AutoEncoder' 'CBLOF' 'KMeansAD' 'KNN' 'OmniAnomaly'
+ 'PCA' 'ALLM4TS' 'OCSVM' 'COPOD' 'RobustPCA' 'AnomalyTransformer'
+ 'TimesNet' 'USAD' 'LOF' 'TranAD' 'FITS' 'LSTMAD' 'OFA' 'CNN' 'Donut'
+ 'IForest']",-0.4756521739130434,8.14723801612854
+SVDB_851,"['OmniAnomaly', 'PCA', 'ALLM4TS', 'OFA', 'CNN', 'TimesNet', 'FITS', 'RobustPCA', 'USAD', 'TranAD', 'LSTMAD', 'Donut', 'IForest', 'COPOD', 'MCD', 'OCSVM', 'HBOS', 'AutoEncoder', 'AnomalyTransformer', 'EIF', 'LOF', 'KNN', 'CBLOF', 'KMeansAD']","['OmniAnomaly' 'PCA' 'MCD' 'EIF' 'AnomalyTransformer' 'KMeansAD' 'HBOS'
+ 'RobustPCA' 'USAD' 'CBLOF' 'TimesNet' 'LOF' 'KNN' 'Donut' 'TranAD' 'FITS'
+ 'CNN' 'OFA' 'ALLM4TS' 'LSTMAD' 'OCSVM' 'COPOD' 'IForest' 'AutoEncoder']",-0.03826086956521739,7.97199273109436
+SVDB_852,"['OFA', 'CNN', 'OmniAnomaly', 'PCA', 'ALLM4TS', 'IForest', 'KMeansAD', 'FITS', 'LSTMAD', 'TimesNet', 'RobustPCA', 'USAD', 'TranAD', 'EIF', 'COPOD', 'Donut', 'AnomalyTransformer', 'CBLOF', 'AutoEncoder', 'HBOS', 'MCD', 'LOF', 'KNN', 'OCSVM']","['ALLM4TS' 'OmniAnomaly' 'AnomalyTransformer' 'PCA' 'CBLOF' 'RobustPCA'
+ 'OCSVM' 'MCD' 'FITS' 'Donut' 'EIF' 'HBOS' 'OFA' 'LOF' 'TimesNet'
+ 'AutoEncoder' 'CNN' 'KNN' 'USAD' 'COPOD' 'IForest' 'KMeansAD' 'LSTMAD'
+ 'TranAD']",-0.003478260869565217,8.165668249130249
+SVDB_853,"['OFA', 'OmniAnomaly', 'PCA', 'ALLM4TS', 'CNN', 'LSTMAD', 'IForest', 'KMeansAD', 'FITS', 'TimesNet', 'AnomalyTransformer', 'USAD', 'TranAD', 'Donut', 'EIF', 'COPOD', 'CBLOF', 'AutoEncoder', 'HBOS', 'OCSVM', 'MCD', 'KNN', 'LOF', 'RobustPCA']","['MCD' 'HBOS' 'EIF' 'CBLOF' 'OmniAnomaly' 'ALLM4TS' 'PCA' 'OCSVM'
+ 'RobustPCA' 'AnomalyTransformer' 'KNN' 'KMeansAD' 'COPOD' 'TimesNet'
+ 'USAD' 'CNN' 'AutoEncoder' 'LOF' 'FITS' 'OFA' 'TranAD' 'Donut' 'LSTMAD'
+ 'IForest']",-0.25478260869565217,8.834839105606079
+SVDB_854,"['IForest', 'OmniAnomaly', 'PCA', 'OFA', 'CNN', 'LSTMAD', 'FITS', 'ALLM4TS', 'TimesNet', 'USAD', 'KMeansAD', 'TranAD', 'Donut', 'EIF', 'COPOD', 'AnomalyTransformer', 'CBLOF', 'LOF', 'KNN', 'OCSVM', 'AutoEncoder', 'HBOS', 'RobustPCA', 'MCD']","['EIF' 'MCD' 'HBOS' 'KMeansAD' 'OmniAnomaly' 'CBLOF' 'PCA' 'KNN'
+ 'RobustPCA' 'COPOD' 'AnomalyTransformer' 'TimesNet' 'USAD' 'OCSVM'
+ 'AutoEncoder' 'TranAD' 'ALLM4TS' 'LOF' 'LSTMAD' 'CNN' 'OFA' 'FITS'
+ 'IForest' 'Donut']",-0.4243478260869564,8.250513315200806
+SVDB_855,"['OmniAnomaly', 'PCA', 'IForest', 'TimesNet', 'ALLM4TS', 'OFA', 'LSTMAD', 'CNN', 'FITS', 'RobustPCA', 'Donut', 'USAD', 'TranAD', 'KMeansAD', 'COPOD', 'EIF', 'AnomalyTransformer', 'MCD', 'AutoEncoder', 'HBOS', 'KNN', 'LOF', 'CBLOF', 'OCSVM']","['EIF' 'MCD' 'HBOS' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN'
+ 'AutoEncoder' 'RobustPCA' 'AnomalyTransformer' 'OCSVM' 'TimesNet'
+ 'ALLM4TS' 'COPOD' 'USAD' 'LOF' 'TranAD' 'LSTMAD' 'OFA' 'FITS' 'CNN'
+ 'Donut' 'IForest']",-0.3478260869565217,8.24965763092041
+SVDB_856,"['OFA', 'OmniAnomaly', 'PCA', 'ALLM4TS', 'LSTMAD', 'CNN', 'USAD', 'TimesNet', 'TranAD', 'IForest', 'FITS', 'Donut', 'RobustPCA', 'KMeansAD', 'COPOD', 'CBLOF', 'HBOS', 'EIF', 'LOF', 'AnomalyTransformer', 'KNN', 'MCD', 'AutoEncoder', 'OCSVM']","['EIF' 'HBOS' 'MCD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KMeansAD' 'KNN'
+ 'RobustPCA' 'AnomalyTransformer' 'COPOD' 'USAD' 'OCSVM' 'TimesNet' 'LOF'
+ 'CNN' 'ALLM4TS' 'TranAD' 'FITS' 'OFA' 'Donut' 'LSTMAD' 'IForest'
+ 'AutoEncoder']",-0.23739130434782607,8.18388843536377
+SVDB_857,"['PCA', 'OmniAnomaly', 'OFA', 'ALLM4TS', 'IForest', 'CNN', 'LSTMAD', 'TimesNet', 'KMeansAD', 'USAD', 'TranAD', 'Donut', 'FITS', 'RobustPCA', 'EIF', 'COPOD', 'MCD', 'CBLOF', 'AutoEncoder', 'HBOS', 'OCSVM', 'LOF', 'AnomalyTransformer', 'KNN']","['ALLM4TS' 'AutoEncoder' 'AnomalyTransformer' 'CBLOF' 'RobustPCA' 'EIF'
+ 'MCD' 'OCSVM' 'HBOS' 'COPOD' 'KNN' 'FITS' 'LOF' 'PCA' 'Donut' 'TimesNet'
+ 'CNN' 'KMeansAD' 'OmniAnomaly' 'OFA' 'USAD' 'LSTMAD' 'TranAD' 'IForest']",-0.5678260869565217,8.74001145362854
+SVDB_858,"['OFA', 'PCA', 'OmniAnomaly', 'ALLM4TS', 'LSTMAD', 'CNN', 'IForest', 'TimesNet', 'Donut', 'USAD', 'TranAD', 'RobustPCA', 'FITS', 'MCD', 'OCSVM', 'AutoEncoder', 'CBLOF', 'AnomalyTransformer', 'EIF', 'LOF', 'KNN', 'COPOD', 'HBOS', 'KMeansAD']","['Donut' 'FITS' 'CNN' 'ALLM4TS' 'AnomalyTransformer' 'IForest' 'RobustPCA'
+ 'LOF' 'CBLOF' 'COPOD' 'OCSVM' 'PCA' 'OFA' 'OmniAnomaly' 'MCD' 'USAD'
+ 'TimesNet' 'TranAD' 'LSTMAD' 'KNN' 'HBOS' 'KMeansAD' 'EIF' 'AutoEncoder']",0.31565217391304345,8.626635551452637
+SVDB_859,"['OFA', 'PCA', 'OmniAnomaly', 'KMeansAD', 'IForest', 'LSTMAD', 'CNN', 'ALLM4TS', 'FITS', 'TimesNet', 'USAD', 'TranAD', 'MCD', 'Donut', 'COPOD', 'OCSVM', 'HBOS', 'AutoEncoder', 'EIF', 'RobustPCA', 'AnomalyTransformer', 'KNN', 'LOF', 'CBLOF']","['MCD' 'HBOS' 'EIF' 'KMeansAD' 'CBLOF' 'OmniAnomaly' 'PCA' 'KNN'
+ 'AutoEncoder' 'OCSVM' 'ALLM4TS' 'RobustPCA' 'COPOD' 'AnomalyTransformer'
+ 'TimesNet' 'USAD' 'LOF' 'TranAD' 'LSTMAD' 'CNN' 'OFA' 'FITS' 'IForest'
+ 'Donut']",-0.26608695652173914,8.37447190284729
+SVDB_860,"['PCA', 'OmniAnomaly', 'TimesNet', 'OFA', 'FITS', 'CNN', 'LSTMAD', 'RobustPCA', 'USAD', 'TranAD', 'ALLM4TS', 'Donut', 'MCD', 'AnomalyTransformer', 'OCSVM', 'HBOS', 'AutoEncoder', 'COPOD', 'KNN', 'LOF', 'IForest', 'EIF', 'CBLOF', 'KMeansAD']","['MCD' 'HBOS' 'EIF' 'AutoEncoder' 'CBLOF' 'OmniAnomaly' 'KMeansAD' 'PCA'
+ 'KNN' 'ALLM4TS' 'OCSVM' 'AnomalyTransformer' 'RobustPCA' 'COPOD'
+ 'TimesNet' 'USAD' 'LOF' 'TranAD' 'LSTMAD' 'OFA' 'FITS' 'CNN' 'Donut'
+ 'IForest']",-0.3121739130434782,8.236679315567017
+SVDB_861,"['IForest', 'PCA', 'OmniAnomaly', 'KMeansAD', 'FITS', 'CNN', 'LSTMAD', 'EIF', 'MCD', 'COPOD', 'ALLM4TS', 'AutoEncoder', 'HBOS', 'OCSVM', 'AnomalyTransformer', 'LOF', 'KNN', 'CBLOF', 'USAD', 'Donut', 'TranAD', 'TimesNet', 'RobustPCA', 'OFA']","['AutoEncoder' 'MCD' 'HBOS' 'ALLM4TS' 'EIF' 'CBLOF' 'OCSVM' 'KNN' 'COPOD'
+ 'KMeansAD' 'PCA' 'AnomalyTransformer' 'RobustPCA' 'OmniAnomaly'
+ 'TimesNet' 'LOF' 'USAD' 'FITS' 'OFA' 'TranAD' 'LSTMAD' 'Donut' 'CNN'
+ 'IForest']",0.03652173913043478,8.572369813919067
+SVDB_862,"['IForest', 'AnomalyTransformer', 'FITS', 'MCD', 'OCSVM', 'AutoEncoder', 'KMeansAD', 'CBLOF', 'CNN', 'KNN', 'LOF', 'LSTMAD', 'TranAD', 'TimesNet', 'USAD', 'HBOS', 'EIF', 'OmniAnomaly', 'PCA', 'COPOD', 'Donut', 'RobustPCA', 'ALLM4TS', 'OFA']","['PCA' 'AnomalyTransformer' 'OmniAnomaly' 'MCD' 'RobustPCA' 'EIF'
+ 'ALLM4TS' 'AutoEncoder' 'Donut' 'CBLOF' 'USAD' 'LOF' 'HBOS' 'FITS' 'CNN'
+ 'TimesNet' 'KNN' 'TranAD' 'LSTMAD' 'OCSVM' 'IForest' 'KMeansAD' 'OFA'
+ 'COPOD']",-0.1060869565217391,8.224025249481201
+SVDB_863,"['CNN', 'PCA', 'OmniAnomaly', 'LSTMAD', 'OFA', 'RobustPCA', 'TimesNet', 'ALLM4TS', 'FITS', 'IForest', 'KMeansAD', 'USAD', 'TranAD', 'MCD', 'COPOD', 'Donut', 'OCSVM', 'EIF', 'HBOS', 'AutoEncoder', 'AnomalyTransformer', 'KNN', 'LOF', 'CBLOF']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'RobustPCA' 'AnomalyTransformer' 'COPOD' 'TranAD' 'OCSVM'
+ 'LSTMAD' 'LOF' 'OFA' 'AutoEncoder' 'CNN' 'ALLM4TS' 'IForest' 'FITS'
+ 'Donut']",-0.16086956521739126,8.283097743988037
+SVDB_864,"['OFA', 'PCA', 'OmniAnomaly', 'ALLM4TS', 'CNN', 'LSTMAD', 'TimesNet', 'Donut', 'RobustPCA', 'USAD', 'FITS', 'TranAD', 'MCD', 'OCSVM', 'COPOD', 'AutoEncoder', 'HBOS', 'IForest', 'LOF', 'KNN', 'AnomalyTransformer', 'EIF', 'KMeansAD', 'CBLOF']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN'
+ 'RobustPCA' 'TimesNet' 'AnomalyTransformer' 'OCSVM' 'USAD' 'COPOD'
+ 'AutoEncoder' 'LOF' 'ALLM4TS' 'TranAD' 'LSTMAD' 'OFA' 'CNN' 'FITS'
+ 'Donut' 'IForest']",-0.3417391304347826,8.26100206375122
+SVDB_865,"['PCA', 'OmniAnomaly', 'OFA', 'ALLM4TS', 'CNN', 'TimesNet', 'FITS', 'Donut', 'LSTMAD', 'USAD', 'TranAD', 'RobustPCA', 'COPOD', 'MCD', 'CBLOF', 'OCSVM', 'HBOS', 'AutoEncoder', 'IForest', 'EIF', 'AnomalyTransformer', 'LOF', 'KNN', 'KMeansAD']","['ALLM4TS' 'AutoEncoder' 'OCSVM' 'COPOD' 'AnomalyTransformer' 'CBLOF'
+ 'MCD' 'RobustPCA' 'FITS' 'Donut' 'LOF' 'HBOS' 'KNN' 'IForest' 'CNN'
+ 'TimesNet' 'EIF' 'OFA' 'PCA' 'LSTMAD' 'USAD' 'OmniAnomaly' 'TranAD'
+ 'KMeansAD']",-0.19130434782608693,9.017142295837402
+SVDB_866,"['OFA', 'ALLM4TS', 'KMeansAD', 'LSTMAD', 'IForest', 'CNN', 'FITS', 'TimesNet', 'MCD', 'USAD', 'OmniAnomaly', 'PCA', 'TranAD', 'COPOD', 'OCSVM', 'AutoEncoder', 'HBOS', 'Donut', 'EIF', 'LOF', 'KNN', 'AnomalyTransformer', 'RobustPCA', 'CBLOF']","['MCD' 'ALLM4TS' 'CBLOF' 'AnomalyTransformer' 'PCA' 'AutoEncoder' 'OCSVM'
+ 'RobustPCA' 'OmniAnomaly' 'HBOS' 'COPOD' 'LOF' 'FITS' 'EIF' 'KNN'
+ 'KMeansAD' 'Donut' 'USAD' 'TimesNet' 'IForest' 'CNN' 'TranAD' 'OFA'
+ 'LSTMAD']",-0.41739130434782606,8.232223987579346
+SVDB_867,"['OFA', 'KMeansAD', 'IForest', 'ALLM4TS', 'TimesNet', 'CNN', 'LSTMAD', 'AnomalyTransformer', 'KNN', 'LOF', 'AutoEncoder', 'HBOS', 'FITS', 'OCSVM', 'CBLOF', 'MCD', 'COPOD', 'EIF', 'RobustPCA', 'TranAD', 'USAD', 'Donut', 'PCA', 'OmniAnomaly']","['EIF' 'MCD' 'HBOS' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'RobustPCA' 'AnomalyTransformer' 'COPOD' 'OCSVM' 'TranAD'
+ 'AutoEncoder' 'LOF' 'LSTMAD' 'ALLM4TS' 'OFA' 'CNN' 'FITS' 'IForest'
+ 'Donut']",-0.33304347826086955,8.284959077835083
+SVDB_868,"['IForest', 'CNN', 'OFA', 'KMeansAD', 'LSTMAD', 'ALLM4TS', 'TimesNet', 'MCD', 'COPOD', 'EIF', 'FITS', 'OCSVM', 'AutoEncoder', 'HBOS', 'PCA', 'OmniAnomaly', 'AnomalyTransformer', 'LOF', 'KNN', 'CBLOF', 'RobustPCA', 'USAD', 'Donut', 'TranAD']","['AutoEncoder' 'MCD' 'HBOS' 'ALLM4TS' 'EIF' 'CBLOF' 'OCSVM' 'KNN' 'COPOD'
+ 'AnomalyTransformer' 'KMeansAD' 'PCA' 'RobustPCA' 'OmniAnomaly'
+ 'TimesNet' 'LOF' 'FITS' 'USAD' 'OFA' 'TranAD' 'LSTMAD' 'Donut' 'CNN'
+ 'IForest']",-0.07217391304347825,8.6235032081604
+SVDB_869,"['PCA', 'OmniAnomaly', 'OFA', 'ALLM4TS', 'FITS', 'LSTMAD', 'CNN', 'IForest', 'USAD', 'TimesNet', 'Donut', 'TranAD', 'MCD', 'OCSVM', 'RobustPCA', 'AutoEncoder', 'HBOS', 'COPOD', 'AnomalyTransformer', 'LOF', 'KNN', 'CBLOF', 'EIF', 'KMeansAD']","['AutoEncoder' 'MCD' 'HBOS' 'ALLM4TS' 'CBLOF' 'OCSVM' 'EIF' 'KNN'
+ 'KMeansAD' 'PCA' 'OmniAnomaly' 'COPOD' 'AnomalyTransformer' 'RobustPCA'
+ 'TimesNet' 'LOF' 'USAD' 'FITS' 'OFA' 'TranAD' 'LSTMAD' 'Donut' 'IForest'
+ 'CNN']",-0.4060869565217391,8.404968976974487
+SVDB_870,"['PCA', 'OmniAnomaly', 'IForest', 'ALLM4TS', 'CNN', 'LSTMAD', 'OFA', 'FITS', 'TimesNet', 'USAD', 'RobustPCA', 'Donut', 'TranAD', 'KMeansAD', 'COPOD', 'MCD', 'EIF', 'OCSVM', 'HBOS', 'AutoEncoder', 'AnomalyTransformer', 'LOF', 'KNN', 'CBLOF']","['ALLM4TS' 'AutoEncoder' 'MCD' 'OCSVM' 'AnomalyTransformer' 'RobustPCA'
+ 'CBLOF' 'PCA' 'OmniAnomaly' 'FITS' 'HBOS' 'COPOD' 'Donut' 'LOF' 'USAD'
+ 'TimesNet' 'KNN' 'EIF' 'OFA' 'IForest' 'CNN' 'TranAD' 'LSTMAD' 'KMeansAD']",-0.2078260869565217,8.332120656967163
+SVDB_871,"['OFA', 'OmniAnomaly', 'PCA', 'ALLM4TS', 'CNN', 'LSTMAD', 'IForest', 'KMeansAD', 'FITS', 'USAD', 'Donut', 'TranAD', 'RobustPCA', 'TimesNet', 'AnomalyTransformer', 'COPOD', 'MCD', 'EIF', 'OCSVM', 'HBOS', 'AutoEncoder', 'LOF', 'KNN', 'CBLOF']","['ALLM4TS' 'AnomalyTransformer' 'RobustPCA' 'Donut' 'CNN' 'CBLOF' 'FITS'
+ 'COPOD' 'OCSVM' 'IForest' 'MCD' 'LOF' 'EIF' 'PCA' 'HBOS' 'OmniAnomaly'
+ 'KNN' 'OFA' 'LSTMAD' 'TranAD' 'TimesNet' 'USAD' 'KMeansAD' 'AutoEncoder']",-0.006956521739130434,8.182406425476074
+SVDB_872,"['OmniAnomaly', 'PCA', 'ALLM4TS', 'OFA', 'CNN', 'LSTMAD', 'IForest', 'FITS', 'USAD', 'TranAD', 'TimesNet', 'Donut', 'AnomalyTransformer', 'KMeansAD', 'OCSVM', 'MCD', 'CBLOF', 'KNN', 'LOF', 'AutoEncoder', 'HBOS', 'COPOD', 'RobustPCA', 'EIF']","['ALLM4TS' 'Donut' 'FITS' 'IForest' 'OFA' 'LOF' 'AnomalyTransformer'
+ 'OCSVM' 'CNN' 'AutoEncoder' 'RobustPCA' 'COPOD' 'LSTMAD' 'USAD'
+ 'TimesNet' 'TranAD' 'CBLOF' 'OmniAnomaly' 'PCA' 'KNN' 'KMeansAD' 'EIF'
+ 'HBOS' 'MCD']",0.3121739130434782,8.143604755401611
+SVDB_873,"['OFA', 'OmniAnomaly', 'PCA', 'ALLM4TS', 'CNN', 'LSTMAD', 'IForest', 'FITS', 'TranAD', 'Donut', 'USAD', 'TimesNet', 'CBLOF', 'KNN', 'LOF', 'KMeansAD', 'AnomalyTransformer', 'OCSVM', 'AutoEncoder', 'HBOS', 'RobustPCA', 'COPOD', 'MCD', 'EIF']","['AutoEncoder' 'MCD' 'ALLM4TS' 'HBOS' 'OCSVM' 'CBLOF' 'EIF' 'KNN' 'COPOD'
+ 'AnomalyTransformer' 'PCA' 'RobustPCA' 'KMeansAD' 'OmniAnomaly' 'LOF'
+ 'TimesNet' 'FITS' 'USAD' 'OFA' 'Donut' 'TranAD' 'LSTMAD' 'CNN' 'IForest']",-0.5930434782608696,8.253343105316162
+SVDB_874,"['OFA', 'ALLM4TS', 'OmniAnomaly', 'PCA', 'CNN', 'IForest', 'LSTMAD', 'KMeansAD', 'TimesNet', 'FITS', 'EIF', 'Donut', 'AnomalyTransformer', 'USAD', 'TranAD', 'COPOD', 'OCSVM', 'HBOS', 'AutoEncoder', 'KNN', 'MCD', 'LOF', 'CBLOF', 'RobustPCA']","['MCD' 'HBOS' 'EIF' 'CBLOF' 'AutoEncoder' 'ALLM4TS' 'KMeansAD'
+ 'OmniAnomaly' 'KNN' 'PCA' 'OCSVM' 'AnomalyTransformer' 'RobustPCA'
+ 'COPOD' 'TimesNet' 'USAD' 'CNN' 'TranAD' 'LSTMAD' 'LOF' 'OFA' 'FITS'
+ 'IForest' 'Donut']",-0.28521739130434776,8.38364315032959
+SVDB_875,"['IForest', 'OFA', 'ALLM4TS', 'PCA', 'OmniAnomaly', 'CNN', 'LSTMAD', 'KMeansAD', 'TimesNet', 'EIF', 'FITS', 'Donut', 'AnomalyTransformer', 'COPOD', 'USAD', 'TranAD', 'AutoEncoder', 'HBOS', 'OCSVM', 'MCD', 'LOF', 'KNN', 'CBLOF', 'RobustPCA']","['EIF' 'MCD' 'HBOS' 'OmniAnomaly' 'KMeansAD' 'PCA' 'CBLOF' 'AutoEncoder'
+ 'KNN' 'TimesNet' 'USAD' 'RobustPCA' 'AnomalyTransformer' 'OCSVM' 'COPOD'
+ 'ALLM4TS' 'TranAD' 'LOF' 'LSTMAD' 'OFA' 'CNN' 'FITS' 'IForest' 'Donut']",-0.2860869565217391,8.051662921905518
+SVDB_876,"['FITS', 'IForest', 'Donut', 'TimesNet', 'OmniAnomaly', 'PCA', 'TranAD', 'EIF', 'COPOD', 'LSTMAD', 'MCD', 'RobustPCA', 'KMeansAD', 'KNN', 'LOF', 'OCSVM', 'HBOS', 'AutoEncoder', 'CBLOF', 'USAD', 'AnomalyTransformer', 'OFA', 'CNN', 'ALLM4TS']","['OmniAnomaly' 'PCA' 'MCD' 'EIF' 'HBOS' 'KMeansAD' 'CBLOF' 'USAD'
+ 'AnomalyTransformer' 'KNN' 'RobustPCA' 'TimesNet' 'LOF' 'TranAD' 'OCSVM'
+ 'COPOD' 'CNN' 'OFA' 'FITS' 'ALLM4TS' 'Donut' 'LSTMAD' 'IForest'
+ 'AutoEncoder']",0.01826086956521739,8.12384819984436
+SVDB_877,"['OFA', 'OmniAnomaly', 'PCA', 'ALLM4TS', 'CNN', 'FITS', 'TimesNet', 'LSTMAD', 'KMeansAD', 'TranAD', 'USAD', 'Donut', 'IForest', 'RobustPCA', 'EIF', 'MCD', 'COPOD', 'CBLOF', 'OCSVM', 'AutoEncoder', 'HBOS', 'LOF', 'KNN', 'AnomalyTransformer']","['AutoEncoder' 'ALLM4TS' 'MCD' 'OCSVM' 'CBLOF' 'HBOS' 'AnomalyTransformer'
+ 'RobustPCA' 'PCA' 'EIF' 'OmniAnomaly' 'KNN' 'COPOD' 'TimesNet' 'LOF'
+ 'FITS' 'OFA' 'USAD' 'KMeansAD' 'Donut' 'LSTMAD' 'IForest' 'TranAD' 'CNN']",-0.3930434782608695,8.061697244644165
+SVDB_878,"['OmniAnomaly', 'PCA', 'OFA', 'ALLM4TS', 'CNN', 'LSTMAD', 'TimesNet', 'IForest', 'FITS', 'USAD', 'Donut', 'TranAD', 'KMeansAD', 'MCD', 'OCSVM', 'AutoEncoder', 'HBOS', 'COPOD', 'AnomalyTransformer', 'RobustPCA', 'LOF', 'KNN', 'EIF', 'CBLOF']","['ALLM4TS' 'AutoEncoder' 'FITS' 'Donut' 'OCSVM' 'OFA' 'IForest' 'LOF'
+ 'AnomalyTransformer' 'TimesNet' 'USAD' 'RobustPCA' 'LSTMAD' 'COPOD' 'CNN'
+ 'TranAD' 'CBLOF' 'PCA' 'OmniAnomaly' 'KNN' 'KMeansAD' 'EIF' 'HBOS' 'MCD']",0.23565217391304347,8.918992042541504
+SVDB_879,"['PCA', 'OmniAnomaly', 'OFA', 'ALLM4TS', 'CNN', 'LSTMAD', 'TimesNet', 'IForest', 'FITS', 'Donut', 'USAD', 'TranAD', 'MCD', 'OCSVM', 'AutoEncoder', 'HBOS', 'COPOD', 'KNN', 'LOF', 'AnomalyTransformer', 'CBLOF', 'EIF', 'RobustPCA', 'KMeansAD']","['AutoEncoder' 'MCD' 'HBOS' 'ALLM4TS' 'EIF' 'CBLOF' 'OCSVM' 'KNN' 'PCA'
+ 'KMeansAD' 'COPOD' 'AnomalyTransformer' 'OmniAnomaly' 'RobustPCA'
+ 'TimesNet' 'LOF' 'USAD' 'FITS' 'OFA' 'TranAD' 'LSTMAD' 'Donut' 'CNN'
+ 'IForest']",-0.3782608695652173,8.307241678237915
+SVDB_880,"['IForest', 'KMeansAD', 'OFA', 'CNN', 'ALLM4TS', 'LSTMAD', 'TimesNet', 'FITS', 'COPOD', 'MCD', 'EIF', 'HBOS', 'AutoEncoder', 'OCSVM', 'AnomalyTransformer', 'USAD', 'KNN', 'LOF', 'Donut', 'TranAD', 'PCA', 'OmniAnomaly', 'RobustPCA', 'CBLOF']","['AutoEncoder' 'MCD' 'HBOS' 'ALLM4TS' 'EIF' 'CBLOF' 'OCSVM' 'KNN'
+ 'KMeansAD' 'PCA' 'OmniAnomaly' 'AnomalyTransformer' 'RobustPCA' 'COPOD'
+ 'TimesNet' 'LOF' 'USAD' 'TranAD' 'LSTMAD' 'FITS' 'OFA' 'Donut' 'CNN'
+ 'IForest']",-0.22347826086956518,8.24176836013794
+SVDB_881,"['IForest', 'PCA', 'OmniAnomaly', 'LSTMAD', 'FITS', 'CNN', 'TimesNet', 'ALLM4TS', 'KMeansAD', 'Donut', 'MCD', 'AnomalyTransformer', 'OCSVM', 'LOF', 'KNN', 'AutoEncoder', 'HBOS', 'CBLOF', 'COPOD', 'OFA', 'RobustPCA', 'USAD', 'EIF', 'TranAD']","['ALLM4TS' 'AutoEncoder' 'AnomalyTransformer' 'MCD' 'EIF' 'RobustPCA'
+ 'CBLOF' 'HBOS' 'PCA' 'OCSVM' 'COPOD' 'KNN' 'OmniAnomaly' 'Donut' 'LOF'
+ 'FITS' 'KMeansAD' 'CNN' 'TimesNet' 'USAD' 'LSTMAD' 'IForest' 'TranAD'
+ 'OFA']",-0.12956521739130433,8.24817419052124
+SVDB_882,"['OFA', 'OmniAnomaly', 'PCA', 'IForest', 'ALLM4TS', 'CNN', 'LSTMAD', 'FITS', 'TimesNet', 'USAD', 'Donut', 'KMeansAD', 'AnomalyTransformer', 'EIF', 'OCSVM', 'MCD', 'KNN', 'LOF', 'TranAD', 'AutoEncoder', 'HBOS', 'COPOD', 'CBLOF', 'RobustPCA']","['EIF' 'HBOS' 'MCD' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN'
+ 'AutoEncoder' 'USAD' 'TimesNet' 'RobustPCA' 'AnomalyTransformer' 'COPOD'
+ 'OCSVM' 'TranAD' 'ALLM4TS' 'LOF' 'LSTMAD' 'OFA' 'CNN' 'FITS' 'IForest'
+ 'Donut']",-0.3304347826086956,8.417972326278687
+SVDB_883,"['OFA', 'OmniAnomaly', 'PCA', 'IForest', 'CNN', 'ALLM4TS', 'LSTMAD', 'FITS', 'TimesNet', 'USAD', 'KMeansAD', 'TranAD', 'AnomalyTransformer', 'Donut', 'EIF', 'COPOD', 'MCD', 'OCSVM', 'RobustPCA', 'AutoEncoder', 'HBOS', 'LOF', 'KNN', 'CBLOF']","['EIF' 'HBOS' 'OmniAnomaly' 'MCD' 'KMeansAD' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'TranAD' 'RobustPCA' 'AnomalyTransformer' 'COPOD' 'LSTMAD'
+ 'OCSVM' 'OFA' 'LOF' 'CNN' 'AutoEncoder' 'IForest' 'ALLM4TS' 'FITS'
+ 'Donut']",-0.19478260869565217,8.288429975509644
+SVDB_884,"['PCA', 'OmniAnomaly', 'OFA', 'TimesNet', 'ALLM4TS', 'CNN', 'FITS', 'USAD', 'TranAD', 'RobustPCA', 'LSTMAD', 'Donut', 'AnomalyTransformer', 'MCD', 'IForest', 'OCSVM', 'AutoEncoder', 'HBOS', 'COPOD', 'EIF', 'LOF', 'KNN', 'KMeansAD', 'CBLOF']","['EIF' 'MCD' 'HBOS' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN'
+ 'AutoEncoder' 'AnomalyTransformer' 'RobustPCA' 'OCSVM' 'COPOD' 'TimesNet'
+ 'ALLM4TS' 'USAD' 'LOF' 'TranAD' 'LSTMAD' 'OFA' 'FITS' 'CNN' 'Donut'
+ 'IForest']",-0.34956521739130436,8.238188028335571
+SVDB_885,"['PCA', 'OmniAnomaly', 'OFA', 'CNN', 'IForest', 'ALLM4TS', 'TimesNet', 'FITS', 'Donut', 'LSTMAD', 'USAD', 'TranAD', 'EIF', 'COPOD', 'MCD', 'AnomalyTransformer', 'CBLOF', 'OCSVM', 'AutoEncoder', 'HBOS', 'KNN', 'LOF', 'KMeansAD', 'RobustPCA']","['EIF' 'MCD' 'HBOS' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'RobustPCA' 'AnomalyTransformer' 'OCSVM' 'AutoEncoder' 'COPOD'
+ 'TranAD' 'LOF' 'ALLM4TS' 'LSTMAD' 'OFA' 'CNN' 'FITS' 'IForest' 'Donut']",-0.34956521739130436,8.378655910491943
+SVDB_886,"['OFA', 'CNN', 'IForest', 'PCA', 'OmniAnomaly', 'ALLM4TS', 'FITS', 'AnomalyTransformer', 'KMeansAD', 'LSTMAD', 'MCD', 'TranAD', 'USAD', 'RobustPCA', 'COPOD', 'EIF', 'OCSVM', 'AutoEncoder', 'HBOS', 'TimesNet', 'KNN', 'LOF', 'Donut', 'CBLOF']","['ALLM4TS' 'AnomalyTransformer' 'PCA' 'AutoEncoder' 'RobustPCA'
+ 'OmniAnomaly' 'Donut' 'FITS' 'LOF' 'OFA' 'OCSVM' 'TimesNet' 'CBLOF' 'EIF'
+ 'USAD' 'CNN' 'MCD' 'KNN' 'IForest' 'LSTMAD' 'TranAD' 'COPOD' 'HBOS'
+ 'KMeansAD']",0.11130434782608695,8.494585037231445
+SVDB_887,"['PCA', 'OmniAnomaly', 'ALLM4TS', 'OFA', 'LSTMAD', 'CNN', 'IForest', 'FITS', 'USAD', 'TranAD', 'TimesNet', 'Donut', 'KMeansAD', 'RobustPCA', 'AnomalyTransformer', 'MCD', 'OCSVM', 'LOF', 'KNN', 'AutoEncoder', 'HBOS', 'COPOD', 'CBLOF', 'EIF']","['MCD' 'HBOS' 'AutoEncoder' 'EIF' 'ALLM4TS' 'CBLOF' 'KMeansAD' 'OCSVM'
+ 'KNN' 'COPOD' 'RobustPCA' 'PCA' 'AnomalyTransformer' 'OmniAnomaly'
+ 'TimesNet' 'LOF' 'USAD' 'FITS' 'TranAD' 'LSTMAD' 'CNN' 'OFA' 'Donut'
+ 'IForest']",-0.5895652173913043,8.352461338043213
+SVDB_888,"['OFA', 'OmniAnomaly', 'PCA', 'CNN', 'LSTMAD', 'FITS', 'TimesNet', 'ALLM4TS', 'USAD', 'Donut', 'IForest', 'KMeansAD', 'TranAD', 'RobustPCA', 'EIF', 'COPOD', 'HBOS', 'AutoEncoder', 'OCSVM', 'KNN', 'LOF', 'AnomalyTransformer', 'MCD', 'CBLOF']","['MCD' 'EIF' 'HBOS' 'PCA' 'OmniAnomaly' 'CBLOF' 'KMeansAD' 'KNN'
+ 'RobustPCA' 'AnomalyTransformer' 'COPOD' 'USAD' 'TimesNet' 'LOF' 'OCSVM'
+ 'CNN' 'ALLM4TS' 'FITS' 'TranAD' 'Donut' 'OFA' 'LSTMAD' 'AutoEncoder'
+ 'IForest']",-0.32347826086956516,8.261000156402588
+SVDB_889,"['IForest', 'OmniAnomaly', 'PCA', 'OFA', 'CNN', 'ALLM4TS', 'LSTMAD', 'FITS', 'TimesNet', 'USAD', 'TranAD', 'Donut', 'AnomalyTransformer', 'RobustPCA', 'CBLOF', 'EIF', 'KNN', 'LOF', 'KMeansAD', 'COPOD', 'OCSVM', 'AutoEncoder', 'HBOS', 'MCD']","['MCD' 'EIF' 'HBOS' 'OmniAnomaly' 'KMeansAD' 'PCA' 'CBLOF' 'KNN'
+ 'AutoEncoder' 'AnomalyTransformer' 'RobustPCA' 'ALLM4TS' 'OCSVM'
+ 'TimesNet' 'COPOD' 'USAD' 'LOF' 'TranAD' 'OFA' 'FITS' 'LSTMAD' 'CNN'
+ 'Donut' 'IForest']",-0.48086956521739127,8.145451068878174
+SVDB_890,"['OmniAnomaly', 'PCA', 'OFA', 'CNN', 'IForest', 'LSTMAD', 'FITS', 'ALLM4TS', 'TimesNet', 'USAD', 'KMeansAD', 'TranAD', 'Donut', 'MCD', 'RobustPCA', 'COPOD', 'OCSVM', 'HBOS', 'AutoEncoder', 'AnomalyTransformer', 'EIF', 'LOF', 'KNN', 'CBLOF']","['OmniAnomaly' 'PCA' 'AnomalyTransformer' 'MCD' 'Donut' 'RobustPCA' 'FITS'
+ 'CNN' 'ALLM4TS' 'USAD' 'LOF' 'CBLOF' 'TimesNet' 'IForest' 'OFA' 'EIF'
+ 'TranAD' 'HBOS' 'KNN' 'LSTMAD' 'KMeansAD' 'OCSVM' 'AutoEncoder' 'COPOD']",0.33739130434782605,7.986940622329712
+SVDB_891,"['PCA', 'OmniAnomaly', 'IForest', 'ALLM4TS', 'TimesNet', 'LSTMAD', 'OFA', 'CNN', 'USAD', 'Donut', 'FITS', 'RobustPCA', 'TranAD', 'KMeansAD', 'AnomalyTransformer', 'KNN', 'LOF', 'MCD', 'OCSVM', 'EIF', 'HBOS', 'AutoEncoder', 'COPOD', 'CBLOF']","['EIF' 'MCD' 'PCA' 'HBOS' 'OmniAnomaly' 'CBLOF' 'KMeansAD'
+ 'AnomalyTransformer' 'RobustPCA' 'KNN' 'USAD' 'TimesNet' 'LOF' 'COPOD'
+ 'ALLM4TS' 'OCSVM' 'FITS' 'AutoEncoder' 'TranAD' 'CNN' 'Donut' 'OFA'
+ 'LSTMAD' 'IForest']",-0.29304347826086957,8.38440489768982
+SVDB_892,"['PCA', 'OmniAnomaly', 'IForest', 'TimesNet', 'FITS', 'USAD', 'ALLM4TS', 'TranAD', 'LSTMAD', 'Donut', 'CNN', 'OFA', 'RobustPCA', 'KMeansAD', 'EIF', 'AnomalyTransformer', 'LOF', 'KNN', 'COPOD', 'OCSVM', 'AutoEncoder', 'HBOS', 'CBLOF', 'MCD']","['AutoEncoder' 'ALLM4TS' 'MCD' 'AnomalyTransformer' 'RobustPCA' 'CBLOF'
+ 'OCSVM' 'HBOS' 'COPOD' 'PCA' 'EIF' 'FITS' 'LOF' 'OmniAnomaly' 'KNN'
+ 'Donut' 'KMeansAD' 'TimesNet' 'USAD' 'IForest' 'CNN' 'TranAD' 'OFA'
+ 'LSTMAD']",-0.5147826086956522,6.467257261276245
+SVDB_893,"['OmniAnomaly', 'PCA', 'CNN', 'ALLM4TS', 'OFA', 'TimesNet', 'RobustPCA', 'IForest', 'FITS', 'LSTMAD', 'USAD', 'TranAD', 'Donut', 'EIF', 'COPOD', 'AnomalyTransformer', 'MCD', 'OCSVM', 'AutoEncoder', 'HBOS', 'LOF', 'KNN', 'CBLOF', 'KMeansAD']","['EIF' 'MCD' 'HBOS' 'OmniAnomaly' 'KMeansAD' 'PCA' 'CBLOF' 'KNN' 'USAD'
+ 'TimesNet' 'RobustPCA' 'AnomalyTransformer' 'OCSVM' 'COPOD' 'TranAD'
+ 'AutoEncoder' 'LOF' 'OFA' 'LSTMAD' 'ALLM4TS' 'CNN' 'FITS' 'IForest'
+ 'Donut']",-0.29478260869565215,8.477185487747192
+SVDB_894,"['PCA', 'OmniAnomaly', 'OFA', 'ALLM4TS', 'CNN', 'IForest', 'LSTMAD', 'FITS', 'USAD', 'TimesNet', 'TranAD', 'KMeansAD', 'Donut', 'RobustPCA', 'AnomalyTransformer', 'EIF', 'COPOD', 'MCD', 'OCSVM', 'AutoEncoder', 'HBOS', 'CBLOF', 'KNN', 'LOF']","['MCD' 'HBOS' 'EIF' 'KMeansAD' 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN' 'OCSVM'
+ 'RobustPCA' 'AutoEncoder' 'AnomalyTransformer' 'COPOD' 'TimesNet' 'USAD'
+ 'ALLM4TS' 'LOF' 'TranAD' 'LSTMAD' 'OFA' 'FITS' 'IForest' 'CNN' 'Donut']",-0.3852173913043478,8.567484855651855
+cicids_2,"['KMeansAD', 'AutoEncoder', 'OCSVM', 'TimesNet', 'LOF', 'MCD', 'FITS', 'EIF', 'Donut', 'TranAD', 'OFA', 'CNN', 'OmniAnomaly', 'PCA', 'LSTMAD', 'USAD', 'KNN', 'HBOS', 'CBLOF', 'ALLM4TS', 'AnomalyTransformer', 'RobustPCA', 'COPOD', 'IForest']","['IForest' 'Donut' 'FITS' 'OFA' 'LSTMAD' 'LOF' 'ALLM4TS' 'OCSVM' 'CNN'
+ 'TimesNet' 'USAD' 'AnomalyTransformer' 'RobustPCA' 'TranAD' 'COPOD'
+ 'OmniAnomaly' 'PCA' 'CBLOF' 'KNN' 'AutoEncoder' 'KMeansAD' 'MCD' 'HBOS'
+ 'EIF']",-0.10173913043478258,37.43098473548889
+cicids_3,"['USAD', 'PCA', 'OmniAnomaly', 'LSTMAD', 'CNN', 'TranAD', 'OFA', 'RobustPCA', 'KNN', 'AutoEncoder', 'MCD', 'HBOS', 'EIF', 'FITS', 'TimesNet', 'COPOD', 'OCSVM', 'CBLOF', 'ALLM4TS', 'LOF', 'KMeansAD', 'AnomalyTransformer', 'Donut', 'IForest']","['IForest' 'Donut' 'FITS' 'OFA' 'LSTMAD' 'LOF' 'ALLM4TS' 'CNN' 'TimesNet'
+ 'USAD' 'OCSVM' 'TranAD' 'AnomalyTransformer' 'OmniAnomaly' 'RobustPCA'
+ 'COPOD' 'PCA' 'CBLOF' 'KNN' 'AutoEncoder' 'KMeansAD' 'MCD' 'HBOS' 'EIF']",-0.1643478260869565,61.020177364349365
+cicids_5,"['OmniAnomaly', 'PCA', 'OFA', 'ALLM4TS', 'KMeansAD', 'USAD', 'TimesNet', 'FITS', 'OCSVM', 'Donut', 'IForest', 'LOF', 'CBLOF', 'TranAD', 'LSTMAD', 'CNN', 'AutoEncoder', 'EIF', 'COPOD', 'HBOS', 'AnomalyTransformer', 'KNN', 'RobustPCA', 'MCD']","['IForest' 'OFA' 'Donut' 'FITS' 'LSTMAD' 'USAD' 'LOF' 'TranAD' 'CNN'
+ 'TimesNet' 'OmniAnomaly' 'PCA' 'OCSVM' 'RobustPCA' 'AnomalyTransformer'
+ 'ALLM4TS' 'COPOD' 'KNN' 'CBLOF' 'KMeansAD' 'AutoEncoder' 'HBOS' 'MCD'
+ 'EIF']",0.4782608695652173,41.51759576797485
+cicids_6,"['OCSVM', 'LOF', 'AutoEncoder', 'AnomalyTransformer', 'MCD', 'IForest', 'RobustPCA', 'HBOS', 'KNN', 'CBLOF', 'COPOD', 'KMeansAD', 'EIF', 'FITS', 'Donut', 'TranAD', 'CNN', 'USAD', 'LSTMAD', 'TimesNet', 'ALLM4TS', 'OFA', 'OmniAnomaly', 'PCA']","['OFA' 'IForest' 'LSTMAD' 'USAD' 'TranAD' 'Donut' 'OmniAnomaly' 'CNN'
+ 'TimesNet' 'FITS' 'PCA' 'LOF' 'OCSVM' 'RobustPCA' 'AnomalyTransformer'
+ 'KNN' 'COPOD' 'CBLOF' 'KMeansAD' 'ALLM4TS' 'HBOS' 'EIF' 'MCD'
+ 'AutoEncoder']",-0.47043478260869553,59.066498041152954
+cicids_7,"['MCD', 'ALLM4TS', 'AutoEncoder', 'OCSVM', 'RobustPCA', 'AnomalyTransformer', 'FITS', 'LOF', 'LSTMAD', 'IForest', 'HBOS', 'KNN', 'COPOD', 'CNN', 'TimesNet', 'OFA', 'TranAD', 'Donut', 'KMeansAD', 'CBLOF', 'USAD', 'PCA', 'OmniAnomaly', 'EIF']","['EIF' 'MCD' 'HBOS' 'OmniAnomaly' 'PCA' 'KMeansAD' 'KNN' 'TranAD' 'USAD'
+ 'CBLOF' 'TimesNet' 'RobustPCA' 'LSTMAD' 'AnomalyTransformer' 'CNN'
+ 'OCSVM' 'OFA' 'COPOD' 'LOF' 'IForest' 'AutoEncoder' 'FITS' 'Donut'
+ 'ALLM4TS']",-0.45999999999999996,47.957435131073
+creditcard,"['USAD', 'CNN', 'LSTMAD', 'PCA', 'OmniAnomaly', 'TranAD', 'OFA', 'COPOD', 'TimesNet', 'MCD', 'ALLM4TS', 'FITS', 'AutoEncoder', 'OCSVM', 'Donut', 'LOF', 'EIF', 'HBOS', 'CBLOF', 'RobustPCA', 'KNN', 'IForest', 'KMeansAD', 'AnomalyTransformer']","['MCD' 'HBOS' 'EIF' 'KMeansAD' 'KNN' 'PCA' 'CBLOF' 'AutoEncoder'
+ 'OmniAnomaly' 'RobustPCA' 'OCSVM' 'COPOD' 'TimesNet' 'AnomalyTransformer'
+ 'USAD' 'TranAD' 'LOF' 'LSTMAD' 'ALLM4TS' 'CNN' 'FITS' 'Donut' 'OFA'
+ 'IForest']",-0.25217391304347825,18.040974855422974
+metro_traffic-volume,"['TranAD', 'USAD', 'Donut', 'IForest', 'PCA', 'OmniAnomaly', 'KNN', 'LOF', 'AnomalyTransformer', 'CNN', 'LSTMAD', 'RobustPCA', 'CBLOF', 'MCD', 'OCSVM', 'COPOD', 'EIF', 'HBOS', 'AutoEncoder', 'FITS', 'KMeansAD', 'OFA', 'TimesNet', 'ALLM4TS']","['HBOS' 'MCD' 'COPOD' 'CBLOF' 'AutoEncoder' 'ALLM4TS' 'OCSVM' 'EIF' 'KNN'
+ 'RobustPCA' 'KMeansAD' 'FITS' 'AnomalyTransformer' 'LOF' 'TimesNet'
+ 'Donut' 'OmniAnomaly' 'IForest' 'PCA' 'OFA' 'USAD' 'CNN' 'LSTMAD'
+ 'TranAD']",-0.5217391304347825,3.2435522079467773
+room-occupancy_1,"['OCSVM', 'MCD', 'COPOD', 'IForest', 'EIF', 'HBOS', 'OFA', 'CBLOF', 'AutoEncoder', 'TimesNet', 'RobustPCA', 'KNN', 'PCA', 'OmniAnomaly', 'CNN', 'Donut', 'ALLM4TS', 'FITS', 'KMeansAD', 'TranAD', 'LSTMAD', 'USAD', 'AnomalyTransformer', 'LOF']","['ALLM4TS' 'AutoEncoder' 'FITS' 'Donut' 'COPOD' 'OCSVM' 'IForest' 'LOF'
+ 'AnomalyTransformer' 'CNN' 'RobustPCA' 'CBLOF' 'OFA' 'LSTMAD' 'KNN'
+ 'TimesNet' 'TranAD' 'USAD' 'KMeansAD' 'EIF' 'PCA' 'HBOS' 'OmniAnomaly'
+ 'MCD']",-0.07391304347826086,2.59458065032959
+room-occupancy,"['ALLM4TS', 'Donut', 'AutoEncoder', 'PCA', 'OmniAnomaly', 'OCSVM', 'COPOD', 'MCD', 'CNN', 'LSTMAD', 'TranAD', 'IForest', 'TimesNet', 'RobustPCA', 'HBOS', 'FITS', 'OFA', 'EIF', 'KNN', 'KMeansAD', 'CBLOF', 'USAD', 'AnomalyTransformer', 'LOF']","['MCD' 'HBOS' 'AutoEncoder' 'EIF' 'COPOD' 'CBLOF' 'RobustPCA'
+ 'AnomalyTransformer' 'KNN' 'ALLM4TS' 'KMeansAD' 'OCSVM' 'LOF' 'PCA'
+ 'FITS' 'CNN' 'TimesNet' 'Donut' 'OmniAnomaly' 'USAD' 'TranAD' 'LSTMAD'
+ 'IForest' 'OFA']",-0.03130434782608695,2.6078174114227295
+swan_sf,"['OFA', 'RobustPCA', 'OmniAnomaly', 'PCA', 'USAD', 'Donut', 'LSTMAD', 'CNN', 'TranAD', 'TimesNet', 'FITS', 'MCD', 'KMeansAD', 'OCSVM', 'KNN', 'AutoEncoder', 'EIF', 'COPOD', 'HBOS', 'LOF', 'IForest', 'CBLOF', 'ALLM4TS', 'AnomalyTransformer']","['IForest' 'OFA' 'LSTMAD' 'Donut' 'TranAD' 'USAD' 'CNN' 'FITS' 'TimesNet'
+ 'OmniAnomaly' 'LOF' 'PCA' 'AnomalyTransformer' 'RobustPCA' 'OCSVM'
+ 'ALLM4TS' 'KNN' 'COPOD' 'KMeansAD' 'CBLOF' 'AutoEncoder' 'EIF' 'HBOS'
+ 'MCD']",0.4730434782608695,9.697701692581177
