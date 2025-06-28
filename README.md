@@ -256,3 +256,15 @@ We appreciate the following github repos a lot for their valuable code base:
 * https://github.com/TimeEval/TimeEval-algorithms
 * https://github.com/thuml/Time-Series-Library/
 * https://github.com/dawnvince/EasyTSAD
+
+### BibTeX
+
+```
+@article{zhou2025mtsbench,
+  title={mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale},
+  author={Zhou, Xiaona and Brif, Constantin and Lourentzou, Ismini},
+  journal={arXiv preprint arXiv:2506.21550},
+  year={2025}
+}
+```
+
